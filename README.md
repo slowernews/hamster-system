@@ -1,6 +1,6 @@
 Folder-System
 =============
-** #folder_project.subproject-folder **
+**#bundle_project.subproject-folder**
 
 Organize your files and folders. System inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
