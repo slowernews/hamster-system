@@ -3,7 +3,7 @@ Folder-System
 
 Organize your files and folders. System inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
-If you don't know what GTD and Secret Weapon you should read about it first or this will not make much sense to you.
+If you don't know GTD and Secret Weapon you should read about it first or this will not make much sense to you.
 
 ###So how do I organize the folder system?
 
