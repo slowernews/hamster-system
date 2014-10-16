@@ -73,7 +73,7 @@ You can combine this notation:
         Example: plan@5.12
 
 ---    
-**Others** *(Use it mostly to detail actions in evernote)*
+**Others** *(Use it mostly to detail GTD actions in evernote)*
 
 - to insert a comment: **(comment)**
     
