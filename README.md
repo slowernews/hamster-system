@@ -14,20 +14,20 @@ If you don't know GTD and Secret Weapon you should read about it first or this w
 - main folder: **Uppercase**
 
         Your folder should be your name or/and surname in uppercase.
-        example: JOHN
+        Example: JOHN
 
 - action time: **{ }**
     
         Inside your main folder there are 3 folders.
-        example: {inbox}, {next actions} and {archive}
+        Example: {inbox}, {next actions} and {archive}
     
 - action area: **[ ]** 
     
         Inside folder {next actions} there are 3 folders with action areas.
-        example: [personal], [work], [family]
+        Example: [personal], [work], [family]
     
         Inside folder {archive} there are 3 folders with action areas and archive symbol. 
-        example: %[personal], %[work], %[family]
+        Example: %[personal], %[work], %[family]
     
 ---
 **Folders**
@@ -35,7 +35,7 @@ If you don't know GTD and Secret Weapon you should read about it first or this w
 - bundle of projects: **#** or **+**
     
         Inside folders [personal], [work] and [family] you can have bundles of projects. 
-        example: #media investor (bundle with all projects of a client) 
+        Example: #media investor (bundle with all projects of a client) 
 
 - project: **_**
     
