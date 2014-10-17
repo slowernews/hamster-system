@@ -2,16 +2,18 @@ Folder-System
 =============
 **#bundle_project.subproject-folder**
 
-Organize your documents. System based in *actions* inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). If you don't know GTD and Secret Weapon you should read about it first or this folder system organization will not make much sense. 
+Organize your documents. System based in *actions* inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). 
 
-Note: This system was tested in a personal computer (only one user) using Windows and Evernote. 
+If you don't know GTD and Secret Weapon you should read about it first or this folder system organization will not make much sense. 
+
+*Note: This system was tested in a personal computer (only one user) using Windows and Evernote.*
 
 ###So how can you organize your documents?
 
 ---
 **Main folders**
 
-- main folder: **Uppercase**
+- your main folder: **Uppercase**
 
         Your documents folder will be named with your name or/and surname in uppercase.
         Example: JOHN
@@ -28,6 +30,8 @@ Note: This system was tested in a personal computer (only one user) using Window
     
         Inside folder {archive} there are 3 folders with action areas and archive symbol: 
         %[personal], %[work], %[family]
+
+        Inside folder {inbox} normally there are no folders. {inbox} is a folder for temporarary stuff.
     
 ---
 **Folders**
