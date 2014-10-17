@@ -4,9 +4,11 @@ Folder-System
 
 Organize your documents. System based in *actions* inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). 
 
-If you don't know GTD and Secret Weapon you should read about it first or this folder system organization will not make much sense. 
+*Notes:*
 
-*Note: This system was tested in a personal computer (only one user) using Windows and Evernote.*
+*If you don't know GTD and Secret Weapon you should read about it first or this folder system organization will not make much sense.*
+
+*This system was tested in a personal computer (only one user) using Windows and Evernote.*
 
 ###So how can you organize your documents?
 
@@ -31,7 +33,7 @@ If you don't know GTD and Secret Weapon you should read about it first or this f
         Inside folder {archive} there are 3 folders with action areas and archive symbol: 
         %[personal], %[work], %[family]
 
-        Inside folder {inbox} normally there are no folders. {inbox} is a folder for temporarary stuff.
+        Inside folder {inbox} there are no folders. {inbox} is a folder for temporarary stuff.
     
 ---
 **Folders**
