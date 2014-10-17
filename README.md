@@ -15,7 +15,7 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 ---
 **Main folders**
 
-- your main folder: **Uppercase**
+- your main folder: **ALL CAPS**
 
         Your documents folder will be named with your name or/and surname in uppercase.
         Example: JOHN
