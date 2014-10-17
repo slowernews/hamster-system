@@ -1,8 +1,8 @@
 Folder-System
 =============
-**#bundle_project.subproject-folder**
+**#bundle@project.subproject-folder**
 
-Organize your documents. Simple folder system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). 
+Organize your documents. Simple folder system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) and concepts of **#** and **@** from [Twitter](https://twitter.com/) . 
 
 *Notes:*
 
@@ -31,21 +31,21 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
         [personal], [work], [family]
     
         Inside folder {archive} there are 3 folders with action areas and archive symbol: 
-        %[personal], %[work], %[family]
+        +[personal], +[work], +[family]
 
         Inside folder {inbox} there are no folders. {inbox} is a folder for temporarary stuff.
     
 ---
 **Folders**
 
-- bundle of projects: **#** or **+**
+- bundle of projects (inspired in twitter hashtag): **#**
     
         Inside folders [personal], [work] and [family] you can have bundles of projects. 
         Example: #large investor (bundle with all projects of a client) 
 
-- project: **_**
+- project (inspired in twitter mention): **@**
     
-        Example: _house in lisbon
+        Example: @house in lisbon
 
 - sub project: **.**
     
@@ -57,8 +57,8 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 
 You can combine this notation:
 
-        Example: #large investor_house in lisbon
-        Example: _house in lisbon.building permit
+        Example: #large investor@house in lisbon
+        Example: @house in lisbon.building permit
         Example: .building permit-sections
 
 ---
@@ -71,13 +71,13 @@ You can combine this notation:
 ---
 **Archive:**
 
-- archive folder: **%**
+- archive folder: **+**
     
-        Example: %[family]
+        Example: +[family]
 
-- archive file (version): **@**
+- archive file (add a version): **+**
     
-        Example: plan@5.12
+        Example: plan+5.12
 
 ---    
 **Others** *(Use it mostly to detail GTD actions in evernote)*
@@ -90,7 +90,10 @@ You can combine this notation:
     
         Example: Doctor appointment (2012-11-29=9h)
 
-- spaces or camelCase as you wish. Not everybody is a geek.
+- You can use UpperCamelCase, lowerCamelCase or snake_case. 
+Or just use spaces, not everybody is a geek.
     
-        Example: #large investor_house in lisbon.building permit
-        Example: #largeInvestor_houseInLisbon.buildingPermit
+        Example using lowerCamelCase: #largeInvestor@houseInLisbon.buildingPermit
+        Example using UpperCamelCase: #LargeInvestor@HouseInLisbon.BuildingPermit
+        Example using snake_case: #large_investor@house_in_lisbon.building_permit
+        Example using spaces: #large investor@house in lisbon.building permit
