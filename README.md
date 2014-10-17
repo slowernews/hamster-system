@@ -1,8 +1,8 @@
 Folder-System
 =============
-**#bundle@project.subproject-folder**
+**# bundle @ project . subproject - folder**
 
-Organize your documents. Simple folder system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) and concepts of **#** and **@** from [Twitter](https://twitter.com/) . 
+Organize your documents. Simple folder system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) and [Twitter](https://twitter.com/)'s concepts of *#* and *@*. 
 
 *Notes:*
 
@@ -71,11 +71,11 @@ You can combine this notation:
 ---
 **Archive:**
 
-- archive folder: **+**
+- archived folder: **+**
     
         Example: +[family]
 
-- archive file (add a version): **+**
+- archived file (version): **+**
     
         Example: plan+5.12
 
@@ -91,9 +91,11 @@ You can combine this notation:
         Example: Doctor appointment (2012-11-29=9h)
 
 - You can use UpperCamelCase, lowerCamelCase or snake_case. 
-Or just use spaces, not everybody is a geek.
     
         Example using lowerCamelCase: #largeInvestor@houseInLisbon.buildingPermit
         Example using UpperCamelCase: #LargeInvestor@HouseInLisbon.BuildingPermit
         Example using snake_case: #large_investor@house_in_lisbon.building_permit
+
+- Or just use spaces, not everybody is a geek.
+
         Example using spaces: #large investor@house in lisbon.building permit
