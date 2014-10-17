@@ -90,7 +90,7 @@ You can combine this notation:
     
         Example: Doctor appointment (2012-11-29=9h)
 
-- spaces or camelCAse as you wish. Not everybody is a geek.
+- spaces or camelCase as you wish. Not everybody is a geek.
     
         Example: #large investor_house in lisbon.building permit
         Example: #largeInvestor_houseInLisbon.buildingPermit
