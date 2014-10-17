@@ -2,15 +2,15 @@ Folder-System
 =============
 **#bundle_project.subproject-folder**
 
-Organize your documents. System based in *actions* inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). 
+Organize your documents. System based inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). 
 
 *Notes:*
 
-*If you don't know GTD and Secret Weapon you should read about it first or this folder system organization will not make much sense.*
-
 *This system was tested in a personal computer (only one user) using Windows and Evernote.*
 
-###So how can you organize your documents?
+*If you don't know GTD and Secret Weapon you must read about it first or this folder system will not make much sense.*
+
+###So how to organize your documents?
 
 ---
 **Main folders**
@@ -90,7 +90,7 @@ You can combine this notation:
     
         Example: Doctor appointment (2012-11-29=9h)
 
-- spaces or camelCAse as you wish. Not everybody is a geek..
+- spaces or camelCAse as you wish. Not everybody is a geek.
     
         Example: #large investor_house in lisbon.building permit
         Example: #largeInvestor_houseInLisbon.buildingPermit
