@@ -2,32 +2,32 @@ Folder-System
 =============
 **#bundle_project.subproject-folder**
 
-Organize your files and folders. System inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+Organize your documents. System based in *actions* inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). If you don't know GTD and Secret Weapon you should read about it first or this folder system organization will not make much sense. 
 
-If you don't know GTD and Secret Weapon you should read about it first or this will not make much sense to you.
+Note: This system was tested in a personal computer (only one user) using Windows and Evernote. 
 
-###So how do I organize the folder system?
+###So how can you organize your documents?
 
 ---
 **Main folders**
 
 - main folder: **Uppercase**
 
-        Your folder should be your name or/and surname in uppercase.
+        Your documents folder will be named with your name or/and surname in uppercase.
         Example: JOHN
 
 - action time: **{ }**
     
-        Inside your main folder there are 3 folders.
-        Example: {inbox}, {next actions} and {archive}
+        Inside your main folder there are 3 folders:
+        {inbox}, {next actions} and {archive}
     
 - action area: **[ ]** 
     
-        Inside folder {next actions} there are 3 folders with action areas.
-        Example: [personal], [work], [family]
+        Inside folder {next actions} there are 3 folders with action areas:
+        [personal], [work], [family]
     
-        Inside folder {archive} there are 3 folders with action areas and archive symbol. 
-        Example: %[personal], %[work], %[family]
+        Inside folder {archive} there are 3 folders with action areas and archive symbol: 
+        %[personal], %[work], %[family]
     
 ---
 **Folders**
@@ -35,7 +35,7 @@ If you don't know GTD and Secret Weapon you should read about it first or this w
 - bundle of projects: **#** or **+**
     
         Inside folders [personal], [work] and [family] you can have bundles of projects. 
-        Example: #media investor (bundle with all projects of a client) 
+        Example: #large investor (bundle with all projects of a client) 
 
 - project: **_**
     
@@ -51,7 +51,7 @@ If you don't know GTD and Secret Weapon you should read about it first or this w
 
 You can combine this notation:
 
-        Example: #media investor_house in lisbon
+        Example: #large investor_house in lisbon
         Example: _house in lisbon.building permit
         Example: .building permit-sections
 
@@ -76,10 +76,15 @@ You can combine this notation:
 ---    
 **Others** *(Use it mostly to detail GTD actions in evernote)*
 
-- to insert a comment: **(comment)**
+- insert a comment: **(comment)**
     
         Example: Write a mail to Susy (your comment here)
 
-- to insert a date: **(2012-10-14=9h)**
+- insert a comment with a date: **(year-month-day=hour)**
     
-        Example: Doctor appointment (2012-10-14=9h)
+        Example: Doctor appointment (2012-11-29=9h)
+
+- spaces or camelCAse as you wish. Not everybody is a geek..
+    
+        Example: #large investor_house in lisbon.building permit
+        Example: #largeInvestor_houseInLisbon.buildingPermit
