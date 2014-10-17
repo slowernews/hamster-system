@@ -2,7 +2,7 @@ Folder-System
 =============
 **#bundle_project.subproject-folder**
 
-Organize your documents. System based inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). 
+Organize your documents. Simple folder system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). 
 
 *Notes:*
 
