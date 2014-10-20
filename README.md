@@ -99,3 +99,5 @@ You can combine this notation:
 - Or just use spaces, not everybody is a geek:
 
         Example using spaces: #large investor@house in lisbon.building permit
+
+- Great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php). Don't forget to donate. 
