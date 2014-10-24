@@ -100,4 +100,4 @@ You can combine this notation:
 
         Example using spaces: #large investor@house in lisbon.building permit
 
-- Great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php). Don't forget to donate. 
+- Great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
