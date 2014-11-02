@@ -86,10 +86,11 @@ You can combine this notation:
     
         Example: Write a mail to Susy (your comment here)
 
-- insert a comment with a date: **(year-month-day=hour)**
+- insert a date: **(year-month-day=hour)**
     
-        Example: Doctor appointment (2012-11-29=9h)
-
+        Use it in the beggining of the line to simplify search.
+        Example: (2012-11-29=9h) Doctor appointment
+        
 - You can use UpperCamelCase, lowerCamelCase or snake_case: 
     
         Example using lowerCamelCase: #largeInvestor@houseInLisbon.buildingPermit
