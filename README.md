@@ -12,10 +12,11 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 
 ###So how to organize your documents?
 
-- [Main folders](##Main-folders)
+- [Main folders](####Main-folders)
+- [Files](####Files)
 
 ---
-##Main folders
+####Main folders
 
 - your main folder: **ALL CAPS**
 
@@ -64,7 +65,7 @@ You can combine this notation:
         Example: .building permit-sections
 
 ---
-**Files:**
+####Files
 
 - standard file: **$**
     
