@@ -94,15 +94,15 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 		
 - shortcut to *{inbox}*
 
-		*{inbox}* is the folder where you put new files until deciding what to do with them.
+		{inbox} is the folder where you put new files until deciding what to do with them.
 		
 - shortcut to *{next actions}*
 
-		*{next actions}* is the folder where you store your current projects.
+		{next actions} is the folder where you store your current projects.
 
 - if you use it often (in theory you don't - they are archived projects), a shortcut to *{archive}*
 
-		*{archive}* is the folder where you store your archived projects.
+		{archive} is the folder where you store your archived projects.
 
 - *temporary* shortcuts to specific folders.
 
