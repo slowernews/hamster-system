@@ -52,15 +52,17 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 
 - project (inspired in twitter mention): **@**
     	
-    	Inside folders [personal], [work], [family] or bundle folders you have projects. 
+    	Inside folders [personal], [work], [family] or bundles you have projects. 
         Example: @house in lisbon
 
 - sub project: **.**
-    
+    	
+    	Inside projects you can have sub projects.
         Example: .building permit
 
-- folder (inside a sub project): **-**
-    
+- folder: **-**
+    	
+    	Inside sub projects you can have folders.
         Example: -sections
 
 You can combine this notation:
