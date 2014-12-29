@@ -90,19 +90,19 @@ You can combine this notation:
 ---
 ####How to navigate through your documents:
 
-You only need 2-3 permanent (and some temporary) *desktop shortcuts* to navigate your files: 
+You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate your files: 
 		
 - shortcut to *{inbox}*
 
-		The folder where you put new files until deciding what to do with them.
+		*{inbox}* is the folder where you put new files until deciding what to do with them.
 		
 - shortcut to *{next actions}*
 
-		The folder where you store your current projects.
+		*{next actions}* is the folder where you store your current projects.
 
 - if you use it often (in theory you don't - they are archived projects), a shortcut to *{archive}*
 
-		The folder where you store your archived projects
+		*{archive}* is the folder where you store your archived projects.
 
 - *temporary* shortcuts to specific folders.
 
