@@ -34,16 +34,16 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
         Inside your main folder there are 3 folders:
         {inbox}, {next actions} and {archive}
     
-- action area: **[ ]** 
+- action scope: **[ ]** 
     
-        Inside folder {next actions} there are 3 folders with action areas:
+        Inside folder {inbox} there are no folders. This folder is for temporary stuff.
+
+        Inside folder {next actions} there are 3 folders with action scopes:
         [personal], [work], [family]
     
-        Inside folder {archive} there are 3 folders with action areas and archive symbol: 
+        Inside folder {archive} there are 3 folders with action scopes and archive symbol: 
         +[personal], +[work], +[family]
 
-        Inside folder {inbox} there are no folders. {inbox} is a folder for temporary stuff.
-    
 ---
 ####Folders:
 
