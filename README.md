@@ -34,6 +34,14 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
         +[personal], +[work], +[family]
 
         Inside folder {inbox} there are no folders. {inbox} is a folder for temporarary stuff.
+
+In my desktop I have only 2 **shortcuts** that allow me to navigate my files (besides temporary shortcuts to specific folders): 
+		
+		a shortcut to **{inbox}**
+		
+		a shortcut to **{next actions}**.
+
+You can have also a shortcut to **{archive}** but once I barely use it I don't have one. 
     
 ---
 **Folders**
