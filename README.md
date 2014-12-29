@@ -15,6 +15,9 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 - [Main folders](#Main-folders)
 - [Folders](#Folders)
 - [Files](#Files)
+- [Archive](#Archive)
+- [Others](#others-use-it-mostly-to-detail-gtd-actions-in-evernote)
+- [How to navigate through your documents](#how-to-navigate-through-your-documents)
 
 ---
 ####<a name="Main-folders">Main Folders:</a>
@@ -73,7 +76,7 @@ You can combine this notation:
         Example: $curriculum
     
 ---
-####Archive:
+####Archive
 
 - archived folder: **+**
     
@@ -84,7 +87,7 @@ You can combine this notation:
         Example: plan+5.12
 
 ---    
-####Others: *(Use it mostly to detail GTD actions in evernote)*
+####Others *(Use it mostly to detail GTD actions in evernote)*
 
 - insert a comment: **(comment)**
     
@@ -108,7 +111,7 @@ You can combine this notation:
 - Great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
-####How to navigate through your files:
+####How to navigate through your documents
 
 You only need 2-3 permanent (and some temporary) desktop *shortcuts* that allow to navigate your files: 
 		
