@@ -13,10 +13,11 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 ###So how to organize your documents?
 
 - [Main folders](#Main-folders)
+- [Folders](#Folders)
 - [Files](#Files)
 
 ---
-####Main folders
+####<a name="Main-folders">Main Folders:</a>
 
 - your main folder: **ALL CAPS**
 
@@ -39,7 +40,7 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
         Inside folder {inbox} there are no folders. {inbox} is a folder for temporarary stuff.
     
 ---
-**Folders:**
+####<a name="Folders">Folders:</a>
 
 - bundle of projects (inspired in twitter hashtag): **#**
     
@@ -65,14 +66,14 @@ You can combine this notation:
         Example: .building permit-sections
 
 ---
-####Files
+####<a name="Files">Files:</a>
 
 - standard file: **$**
     
         Example: $curriculum
     
 ---
-**Archive:**
+####Archive:
 
 - archived folder: **+**
     
@@ -83,7 +84,7 @@ You can combine this notation:
         Example: plan+5.12
 
 ---    
-**Others:** *(Use it mostly to detail GTD actions in evernote)*
+####Others: *(Use it mostly to detail GTD actions in evernote)*
 
 - insert a comment: **(comment)**
     
@@ -107,7 +108,7 @@ You can combine this notation:
 - Great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
-**How to navigate through your files:**
+####How to navigate through your files:
 
 You only need 2-3 permanent (and some temporary) desktop *shortcuts* that allow to navigate your files: 
 		
