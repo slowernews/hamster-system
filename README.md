@@ -89,7 +89,7 @@ You can combine this notation:
 ---
 ####How to navigate through your documents:
 
-You only need 2-3 permanent (and some temporary) desktop *shortcuts* that allow to navigate your files: 
+You only need 2-3 permanent (and some temporary) *desktop shortcuts* to navigate your files: 
 		
 - shortcut to *{inbox}*
 
