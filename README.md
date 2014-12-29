@@ -40,7 +40,7 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
         Inside folder {archive} there are 3 folders with action areas and archive symbol: 
         +[personal], +[work], +[family]
 
-        Inside folder {inbox} there are no folders. {inbox} is a folder for temporarary stuff.
+        Inside folder {inbox} there are no folders. {inbox} is a folder for temporary stuff.
     
 ---
 ####Folders:
@@ -51,7 +51,8 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
         Example: #large investor (bundle with all projects of a client) 
 
 - project (inspired in twitter mention): **@**
-    
+    	
+    	Inside folders [personal], [work], [family] or bundle folders you have projects. 
         Example: @house in lisbon
 
 - sub project: **.**
