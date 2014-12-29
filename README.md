@@ -106,7 +106,7 @@ You can combine this notation:
 ---
 **How to navigate through your files:**
 
-In my desktop I have only 2 permanent *shortcuts* that allow to navigate my files: 
+In desktop I should have only 2-3 permanent (and some temporary) *shortcuts* that allow to navigate your files: 
 		
 - shortcut to *{inbox}*
 
@@ -116,6 +116,6 @@ In my desktop I have only 2 permanent *shortcuts* that allow to navigate my file
 
 		The folder where you store your current projects.
 
-- *temporary* shortcuts to specific folders
-
 - shortcut to *{archive}* if you use it often.
+
+- *temporary* shortcuts to specific folders
