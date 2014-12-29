@@ -24,7 +24,8 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 
 - your main folder: **ALL CAPS**
 
-        Your documents folder will be named with your name or/and surname in ALL CAPS.
+        First of all you create a documents folder in a safe place in your disk.
+        ALL your stuff will be inside this folder named with your name or/and surname in ALL CAPS.
         Example: JOHN
 
 - action time: **{ }**
