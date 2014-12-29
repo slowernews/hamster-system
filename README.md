@@ -12,8 +12,10 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 
 ###So how to organize your documents?
 
+- [Main folders](#Main-folders)
+
 ---
-**Main folders:**
+#Main folders
 
 - your main folder: **ALL CAPS**
 
@@ -110,13 +112,13 @@ You only need 2-3 permanent (and some temporary) desktop *shortcuts* that allow 
 		
 - shortcut to *{inbox}*
 
-		The folder where you put new files until you decide what to do with them.
+		The folder where you put new files until deciding what to do with them.
 		
 - shortcut to *{next actions}*
 
 		The folder where you store your current projects.
 
-- if you use it often, a shortcut to *{archive}*
+- if you use it often (in theory you don't - they are archived projects), a shortcut to *{archive}*
 
 		The folder where you store your archived projects
 
