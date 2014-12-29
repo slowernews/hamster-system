@@ -125,8 +125,8 @@ You only need 2-3 permanent (and some temporary) desktop *shortcuts* that allow 
         Example using UpperCamelCase: #LargeInvestor@HouseInLisbon.BuildingPermit
         Example using snake_case: #large_investor@house_in_lisbon.building_permit
 
-- Or just use spaces, not everybody is a geek:
+- or just use spaces, not everybody is a geek:
 
         Example using spaces: #large investor@house in lisbon.building permit
 
-- Great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
+- great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
