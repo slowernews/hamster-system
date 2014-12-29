@@ -106,15 +106,16 @@ You can combine this notation:
 ---
 **How to navigate through your files:**
 
-In my desktop I have only 2 *shortcuts* that allow to navigate my files: 
+In my desktop I have only 2 permanent *shortcuts* that allow to navigate my files: 
 		
 - shortcut to *{inbox}*
 
-		A folder to put new files until you decide what to do with them.
+		The folder to put new files until you decide what to do with them.
 		
 - shortcut to *{next actions}*
 
-		A folder where you store your current projects.
+		The folder where you store your current projects.
 
-You can have also a shortcut to *{archive}* but once I rarely use it I deleted it to avoid clutter my desktop. 
-Sometimes *temporary* shortcuts to specific folders are very useful.
+- *temporary* shortcuts to specific folders
+
+- shortcut to *{archive}* if you use it often.
