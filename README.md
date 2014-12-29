@@ -12,15 +12,15 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 
 ###So how to organize your documents?
 
-- [Main folders](#Main-folders)
+- [Main folders](#main-folders:)
 - [Folders](#Folders)
-- [Files](#Files)
-- [Archive](#Archive)
+- [Files](#files)
+- [Archive](#archive)
 - [Others](#others-use-it-mostly-to-detail-gtd-actions-in-evernote)
 - [How to navigate through your documents](#how-to-navigate-through-your-documents)
 
 ---
-####Main Folders
+####Main Folders:
 
 - your main folder: **ALL CAPS**
 
@@ -43,7 +43,7 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
         Inside folder {inbox} there are no folders. {inbox} is a folder for temporarary stuff.
     
 ---
-####Folders
+####Folders:
 
 - bundle of projects (inspired in twitter hashtag): **#**
     
@@ -69,14 +69,14 @@ You can combine this notation:
         Example: .building permit-sections
 
 ---
-####Files
+####Files:
 
 - standard file: **$**
     
         Example: $curriculum
     
 ---
-####Archive
+####Archive:
 
 - archived folder: **+**
     
@@ -87,7 +87,7 @@ You can combine this notation:
         Example: plan+5.12
 
 ---    
-####Others *(Use it mostly to detail GTD actions in evernote)*
+####Others: *(Use it mostly to detail GTD actions in evernote)*
 
 - insert a comment: **(comment)**
     
@@ -111,7 +111,7 @@ You can combine this notation:
 - Great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
-####How to navigate through your documents
+####How to navigate through your documents:
 
 You only need 2-3 permanent (and some temporary) desktop *shortcuts* that allow to navigate your files: 
 		
