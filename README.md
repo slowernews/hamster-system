@@ -20,7 +20,7 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 - [How to navigate through your documents](#how-to-navigate-through-your-documents)
 
 ---
-####<a name="Main-folders">Main Folders:</a>
+####Main Folders
 
 - your main folder: **ALL CAPS**
 
@@ -43,7 +43,7 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
         Inside folder {inbox} there are no folders. {inbox} is a folder for temporarary stuff.
     
 ---
-####<a name="Folders">Folders:</a>
+####Folders
 
 - bundle of projects (inspired in twitter hashtag): **#**
     
@@ -69,7 +69,7 @@ You can combine this notation:
         Example: .building permit-sections
 
 ---
-####<a name="Files">Files:</a>
+####Files
 
 - standard file: **$**
     
