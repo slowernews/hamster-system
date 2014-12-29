@@ -91,7 +91,7 @@ You can combine this notation:
         Use it in the beggining of the line to simplify search.
         Example: (2012-11-29=9h) Doctor appointment
         
-- You can use UpperCamelCase, lowerCamelCase or snake_case: 
+- you can use UpperCamelCase, lowerCamelCase or snake_case: 
     
         Example using lowerCamelCase: #largeInvestor@houseInLisbon.buildingPermit
         Example using UpperCamelCase: #LargeInvestor@HouseInLisbon.BuildingPermit
@@ -104,13 +104,17 @@ You can combine this notation:
 - Great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
-**Navigaton through your files**
+**How to navigate through your files**
 
-In my desktop I have only 2 **shortcuts** that allow to navigate my files: 
+In my desktop I have only 2 *shortcuts* that allow to navigate my files: 
 		
-		- shortcut to {inbox}
-		
-		- shortcut to {next actions}.
+- shortcut to {inbox}
 
-You can have also a shortcut to *{archive}* but once I barely use it I don't have one to avoid clutter my desktop. 
+		A folder to put new files until you decide what to do with them.
+		
+- shortcut to {next actions}
+
+		A folder where you store your current projects.
+
+You can have also a shortcut to *{archive}* but once I rarely use it I deleted it to avoid clutter my desktop. 
 Sometimes *temporary* shortcuts to specific folders are very useful.
