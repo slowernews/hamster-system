@@ -12,12 +12,12 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 
 ###So how to organize your documents?
 
-- [Main folders](#main-folders:)
-- [Folders](#Folders)
+- [Main folders](#main-folders)
+- [Folders](#folders)
 - [Files](#files)
 - [Archive](#archive)
-- [Others](#others-use-it-mostly-to-detail-gtd-actions-in-evernote)
 - [How to navigate through your documents](#how-to-navigate-through-your-documents)
+- [Others](#others)
 
 ---
 ####Main Folders:
@@ -86,8 +86,29 @@ You can combine this notation:
     
         Example: plan+5.12
 
+---
+####How to navigate through your documents:
+
+You only need 2-3 permanent (and some temporary) desktop *shortcuts* that allow to navigate your files: 
+		
+- shortcut to *{inbox}*
+
+		The folder where you put new files until deciding what to do with them.
+		
+- shortcut to *{next actions}*
+
+		The folder where you store your current projects.
+
+- if you use it often (in theory you don't - they are archived projects), a shortcut to *{archive}*
+
+		The folder where you store your archived projects
+
+- *temporary* shortcuts to specific folders.
+
 ---    
-####Others: *(Use it mostly to detail GTD actions in evernote)*
+####Others: 
+
+*(Use it mostly to detail GTD actions in evernote)*
 
 - insert a comment: **(comment)**
     
@@ -109,22 +130,3 @@ You can combine this notation:
         Example using spaces: #large investor@house in lisbon.building permit
 
 - Great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
-
----
-####How to navigate through your documents:
-
-You only need 2-3 permanent (and some temporary) desktop *shortcuts* that allow to navigate your files: 
-		
-- shortcut to *{inbox}*
-
-		The folder where you put new files until deciding what to do with them.
-		
-- shortcut to *{next actions}*
-
-		The folder where you store your current projects.
-
-- if you use it often (in theory you don't - they are archived projects), a shortcut to *{archive}*
-
-		The folder where you store your archived projects
-
-- *temporary* shortcuts to specific folders.
