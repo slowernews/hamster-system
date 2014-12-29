@@ -34,14 +34,6 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
         +[personal], +[work], +[family]
 
         Inside folder {inbox} there are no folders. {inbox} is a folder for temporarary stuff.
-
-In my desktop I have only 2 **shortcuts** that allow me to navigate my files (besides temporary shortcuts to specific folders): 
-		
-		a shortcut to **{inbox}**
-		
-		a shortcut to **{next actions}**.
-
-You can have also a shortcut to **{archive}** but once I barely use it I don't have one. 
     
 ---
 **Folders**
@@ -110,3 +102,15 @@ You can combine this notation:
         Example using spaces: #large investor@house in lisbon.building permit
 
 - Great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
+
+---
+**Navigaton through your files**
+
+In my desktop I have only 2 **shortcuts** that allow to navigate my files: 
+		
+		- shortcut to {inbox}
+		
+		- shortcut to {next actions}.
+
+You can have also a shortcut to *{archive}* but once I barely use it I don't have one to avoid clutter my desktop. 
+Sometimes *temporary* shortcuts to specific folders are very useful.
