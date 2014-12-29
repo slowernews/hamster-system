@@ -12,8 +12,8 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 
 ###So how to organize your documents?
 
-- [Main folders](####Main-folders)
-- [Files](####Files)
+- [Main folders](#Main-folders)
+- [Files](#Files)
 
 ---
 ####Main folders
