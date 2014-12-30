@@ -35,8 +35,8 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
         {inbox}, {next actions} and {archive}
     
 - action scope: **[ ]** 
-    
-        Inside folder {inbox} there are no folders. This folder is for temporary stuff.
+
+        Inside folder {inbox} there are no permanent folders, just temporary stuff.
 
         Inside folder {next actions} there are 3 folders with action scopes:
         [personal], [work], [family]
@@ -57,14 +57,14 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
     	Inside folders [personal], [work], [family] or bundles you have projects. 
         Example: @house in lisbon
 
-- sub project: **.**
+- subproject: **.**
     	
-    	Inside projects you can have sub projects.
+    	Inside projects you can have subprojects.
         Example: .building permit
 
 - folder: **-**
     	
-    	Inside sub projects you can have folders.
+    	Inside subprojects you can have folders.
         Example: -sections
 
 You can combine this notation:
@@ -116,16 +116,16 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 *(Use it mostly to detail GTD actions in evernote)*
 
 - insert a comment: **(comment)**
-    
+
         Example: Write a mail to Susy (your comment here)
 
 - insert a date: **(year-month-day=hour)**
-    
+
         Use it in the beggining of the line to simplify search.
         Example: (2012-11-29=9h) Doctor appointment
         
-- you can use UpperCamelCase, lowerCamelCase or snake_case: 
-    
+- you can name your folders using UpperCamelCase, lowerCamelCase or snake_case: 
+
         Example using lowerCamelCase: #largeInvestor@houseInLisbon.buildingPermit
         Example using UpperCamelCase: #LargeInvestor@HouseInLisbon.BuildingPermit
         Example using snake_case: #large_investor@house_in_lisbon.building_permit
