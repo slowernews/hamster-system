@@ -108,23 +108,21 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 
 		{archive} is the folder where you store your archived projects.
 
-- *temporary* shortcuts to specific folders.
+- *temporary* shortcuts to specific folders that you use a lot.
 
 ---    
 ####Others: 
 
-*(Use it mostly to detail GTD actions in evernote)*
-
-- insert a comment: **(comment)**
+- insert a comment (to detail GTD actions in evernote): **(comment)**
 
         Example: Write a mail to Susy (your comment here)
 
-- insert a date: **(year-month-day=hour)**
+- insert a date (to detail GTD actions in evernote): **(year-month-day=hour)**
 
-        Use it in the beggining of the line to simplify search.
+        Use it in the beggining of the line to allow chronological sorting.
         Example: (2012-11-29=9h) Doctor appointment
         
-- you can name your folders using UpperCamelCase, lowerCamelCase or snake_case: 
+- name your folders using UpperCamelCase, lowerCamelCase or snake_case: 
 
         Example using lowerCamelCase: #largeInvestor@houseInLisbon.buildingPermit
         Example using UpperCamelCase: #LargeInvestor@HouseInLisbon.BuildingPermit
