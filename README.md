@@ -67,7 +67,7 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
     	Inside subprojects you can have folders.
         Example: -sections
 
-You can combine this notation:
+You can combine this notation to reduce the need of memorization while navigating:
 
         Example: #large investor@house in lisbon
         Example: @house in lisbon.building permit
@@ -109,6 +109,9 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 		{archive} is the folder where you store your archived projects.
 
 - *temporary* shortcuts to specific folders that you use a lot.
+
+		Example: #large investor@house in lisbon
+		Example: [work] #large investor
 
 ---    
 ####Others: 
