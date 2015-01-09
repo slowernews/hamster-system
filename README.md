@@ -24,7 +24,7 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 
 - your main folder: **ALL CAPS**
 
-        First of all you create a documents folder in a safe place of your disk.
+        First of all you create a folder in a safe place of your disk.
         ALL your stuff will be stored inside this folder named with your name 
         or/and surname using ALL CAPS.
         Example: JOHN
@@ -51,7 +51,7 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
     
         Inside folders [personal], [work] you can have bundles of projects. 
         Example: #large investor (bundle with all projects of a client)
-        Example: #family (bundle with all your family projects)
+        Example: #family (bundle with all your family related projects)
 
 - project (inspired in twitter mention): **@**
     	
@@ -114,7 +114,7 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 
 		Example: #large investor@house in lisbon
 		Example: [work] #large investor
-		Example: [personal] #family
+		Example: [personal] #friends
 
 ---    
 ####Others: 
