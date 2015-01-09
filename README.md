@@ -38,23 +38,24 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
 
         Inside folder {inbox} there are no permanent folders, just temporary stuff.
 
-        Inside folder {next actions} there are 3 folders with action scopes:
-        [personal], [work], [family]
+        Inside folder {next actions} there are 2 folders with action scopes:
+        [personal], [work]
     
-        Inside folder {archive} there are 3 folders with action scopes and archive symbol: 
-        +[personal], +[work], +[family]
+        Inside folder {archive} there are 2 folders with action scopes and archive symbol: 
+        +[personal], +[work]
 
 ---
 ####Folders:
 
 - bundle of projects (inspired in twitter hashtag): **#**
     
-        Inside folders [personal], [work] and [family] you can have bundles of projects. 
-        Example: #large investor (bundle with all projects of a client) 
+        Inside folders [personal], [work] you can have bundles of projects. 
+        Example: #large investor (bundle with all projects of a client)
+        Example: #family (bundle with all your family projects)
 
 - project (inspired in twitter mention): **@**
     	
-    	Inside folders [personal], [work], [family] or bundles you have projects. 
+    	Inside folders [personal], [work] or bundles you have projects. 
         Example: @house in lisbon
 
 - subproject: **.**
@@ -67,7 +68,8 @@ Organize your documents. Simple folder system inspired in [GTD](http://en.wikipe
     	Inside subprojects you can have folders.
         Example: -sections
 
-You can combine this notation to reduce the need of memorization while navigating:
+When naming folders you can combine this notation (adding the previous naming level) 
+to reduce the need of memorization while navigating:
 
         Example: #large investor@house in lisbon
         Example: @house in lisbon.building permit
@@ -85,11 +87,11 @@ You can combine this notation to reduce the need of memorization while navigatin
 
 - archived folder: **+**
     
-        Example: +[family]
+        Example: +[work]
 
 - archived file (version): **+**
     
-        Example: plan+5.12
+        Example: plan+v012
 
 ---
 ####How to navigate through your documents:
@@ -112,6 +114,7 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 
 		Example: #large investor@house in lisbon
 		Example: [work] #large investor
+		Example: [personal] #family
 
 ---    
 ####Others: 
