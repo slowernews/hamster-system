@@ -4,8 +4,8 @@ Folder-System
 
 Organize your documents<sup> 1</sup>. Simple folder system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 2</sup> and [Twitter](https://twitter.com/)'s concept of *#* and *@*. 
 
-<sup>1 -This system was tested in a personal computer (only one user) using Windows and Evernote.</sup><br>
-<sup>2 -If you don't know GTD and Secret Weapon you must read about it first or this folder system will not make much sense.</sup>
+<sup>1 </sup><small>This system was tested in a personal computer (only one user) using Windows and Evernote.</small><br>
+<sup>2 </sup><small>If you don't know GTD and Secret Weapon you must read about it first or this folder system will not make much sense.</small></sup>
 
 ###So, how to organize my documents?
 
