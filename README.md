@@ -4,7 +4,8 @@ Folder-System
 
 Organize your documents<sup> 1</sup>. Simple folder system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 2</sup> and [Twitter](https://twitter.com/)'s concept of *#* and *@*. 
 
-<sup>1 - This system was tested in a personal computer (only one user) using Windows and Evernote.</sup><br>
+<sup>Notes:</sup><br>
+<sup>1 - This system was tested in Windows PC and Evernote.</sup><br>
 <sup>2 - If you don't know GTD and Secret Weapon you must read about it first or this folder system will not make much sense.</sup>
 
 ###So, how to organize my documents?
@@ -13,7 +14,7 @@ Organize your documents<sup> 1</sup>. Simple folder system inspired in [GTD](htt
 - [Folders](#folders)
 - [Files](#files)
 - [Archive](#archive)
-- [How to navigate through your documents](#how-to-navigate-through-your-documents)
+- [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
 
 ---
@@ -91,7 +92,7 @@ to reduce the need of memorization while navigating:
         Example: plan+v012
 
 ---
-####How to navigate through your documents:
+####How to navigate through my documents:
 
 You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate your files: 
 		
