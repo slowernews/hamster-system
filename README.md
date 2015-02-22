@@ -8,7 +8,6 @@ Organize your documents<sup> 1</sup>. Simple folder system inspired in [GTD](htt
 
 - [Main folders](#main-folders)
 - [Folders](#folders)
-- [Files](#files)
 - [Archive](#archive)
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
@@ -43,38 +42,32 @@ Organize your documents<sup> 1</sup>. Simple folder system inspired in [GTD](htt
 
 - bundle of projects (inspired in twitter hashtag): **#**
     
-        Inside folders [personal], [work] you can have bundles of projects. 
+        Inside folders [personal], [work] you can have bundles of projects:
         Example: #large investor (bundle with all projects of a client)
         Example: #family (bundle with all your family related projects)
 
 - project (inspired in twitter mention): **@**
     	
-    	Inside folders [personal], [work] or bundles you have projects. 
+    	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
 
-- subproject: **.**
+- subproject (inspired in object oriented programming): **.**
     	
-    	Inside projects you can have subprojects.
+    	Inside projects you can have subprojects:
         Example: .building permit
 
-- folder: **-**
+- folder (for each nesting level): **-**
     	
-    	Inside subprojects you can have folders.
-        Example: -sections
+    	Inside subprojects you can have folders:
+        Example: -plans
+        Example: -drawings--sections
 
 When naming folders you can combine this notation (adding the previous naming level) 
 to reduce the need of memorization while navigating:
 
         Example: #large investor@house in lisbon
         Example: @house in lisbon.building permit
-        Example: .building permit-sections
-
----
-####Files:
-
-- standard file: **$**
-    
-        Example: $curriculum
+        Example: .building permit-drawings
     
 ---
 ####Archive:
@@ -82,10 +75,6 @@ to reduce the need of memorization while navigating:
 - archived folder: **+**
     
         Example: +[work]
-
-- archived file (version): **+**
-    
-        Example: plan+v012
 
 ---
 ####How to navigate through my documents:
@@ -133,6 +122,8 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
         Example using spaces: #large investor@house in lisbon.building permit
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição 4.0 Internacional</a>.
 
 ---
 
