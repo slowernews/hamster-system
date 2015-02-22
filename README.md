@@ -56,7 +56,7 @@ Organize your documents<sup> 1</sup>. Simple folder system inspired in [GTD](htt
     	Inside projects you can have subprojects:
         Example: .building permit
 
-- folder (for each nesting level): **-**
+- folder (each nesting level): **-**
     	
     	Inside subprojects you can have folders:
         Example: -plans
