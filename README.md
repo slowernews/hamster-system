@@ -127,7 +127,7 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 
 <sup>Notes:</sup><br>
 <sup>1 - This system was tested in a Windows PC and Evernote.</sup><br>
-<sup>2 - If you don't know GTD and Secret Weapon you must read about it first or this folder system will not make much sense.</sup>
+<sup>2 - If you don't know GTD and Secret Weapon you must read about it first or this folder system will not make much sense.</sup><br>
 <sup>3 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
 
 ---
