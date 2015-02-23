@@ -2,12 +2,13 @@ Folder-System
 =============
 **# bundle @ project . subproject - folder**
 
-Organize your documents<sup> 1</sup>. Simple folder system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 2</sup> and [Twitter](https://twitter.com/)'s concept of *#* and *@*. 
+Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [Semantic versioning](http://www.semver.org/)<sup> 2</sup> and [Twitter](https://twitter.com/)'s concept of *#* and *@*. 
 
 ###So, how to organize my documents?
 
 - [Main folders](#main-folders)
-- [Folders](#folders)
+- [Project folders](#project-folders)
+- [Files](#files)
 - [Archive](#archive)
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
@@ -17,7 +18,7 @@ Organize your documents<sup> 1</sup>. Simple folder system inspired in [GTD](htt
 
 - your main folder: **ALL CAPS**
 
-        First of all you create a folder in a safe place of your disk.
+        First of all create a folder in a safe place of your disk.
         ALL your stuff will be stored inside this folder named with your name 
         or/and surname using ALL CAPS.
         Example: JOHN
@@ -38,7 +39,7 @@ Organize your documents<sup> 1</sup>. Simple folder system inspired in [GTD](htt
         +[personal], +[work]
 
 ---
-####Folders:
+####Project folders:
 
 - bundle of projects (inspired in twitter hashtag): **#**
     
@@ -68,13 +69,35 @@ to reduce the need of memorization while navigating:
         Example: #large investor@house in lisbon
         Example: @house in lisbon.building permit
         Example: .building permit-drawings
+
+---
+####Files:
+
+- files named using folders logic or another naming system relevant to your job.
+
+        Example using folders logic: plan+v1.0.1.2
+        Example using another naming system: @ARC.EXE-plan+v1.0.1.2
+
+- standard file: **$**
     
+        Example: $curriculum
+        Example: $curriculum+v1.0.1.2
+
 ---
 ####Archive:
 
-- archived folder: **+**
+- archived folder (just used for main folders): **+**
     
         Example: +[work]
+        Example: +[personal]
+
+- archived file (version): **+**
+        
+        Using + and semantic versioning (MAJOR . MINOR . PATCH)
+        Example: plan+v0.1.2
+
+        or using + and a semantic versioning variant (MARKETING RELEASE . MAJOR . MINOR . WORKING FILE)
+        Example: plan+v0.1.1.2
 
 ---
 ####How to navigate through my documents:
@@ -102,11 +125,11 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 ---    
 ####Others: 
 
-- insert a comment (to detail GTD actions in evernote): **(comment)**
+- insert a comment: **(comment)**
 
         Example: Write a mail to Susy (your comment here)
 
-- insert a date (to detail GTD actions in evernote): **(year-month-day=hour)**
+- insert a date: **(year-month-day=hour)**
 
         Use it in the beggining of the line to allow chronological sorting.
         Example: (2012-11-29=9h) Doctor appointment
@@ -127,7 +150,7 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 
 <sup>Notes:</sup><br>
 <sup>1 - This system was tested in a Windows PC and Evernote.</sup><br>
-<sup>2 - If you don't know GTD and Secret Weapon you must read about it first or this folder system will not make much sense.</sup><br>
+<sup>2 - If you don't know GTD, Secret Weapon and semantic versioning you must read about it first or this folder system will not make much sense.</sup><br>
 <sup>3 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
 
 ---
