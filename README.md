@@ -96,7 +96,7 @@ to reduce the need of memorization while navigating:
         Using + and semantic versioning (MAJOR . MINOR . PATCH)
         Example: plan+v0.1.2
 
-        or using + and a semantic versioning variant (MARKETING RELEASE . MAJOR . MINOR . WORKING FILE)
+        Using + and a versioning variant (MARKETING RELEASE . MAJOR . MINOR . WORKING FILE)
         Example: plan+v0.1.1.2
 
 ---
@@ -150,7 +150,7 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 
 <sup>Notes:</sup><br>
 <sup>1 - This system was tested in a Windows PC and Evernote.</sup><br>
-<sup>2 - If you don't know GTD, Secret Weapon and semantic versioning you must read about it first or this folder system will not make much sense.</sup><br>
+<sup>2 - If you don't know GTD, Secret Weapon and semantic versioning you must read about it first or this system will not make much sense.</sup><br>
 <sup>3 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
 
 ---
