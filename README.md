@@ -129,13 +129,13 @@ to reduce the need of memorization while navigating:
 ---
 ####How to navigate through my documents:
 
-You only need 2 permanent (and some temporary) desktop *shortcuts* to navigate your files: 
+- You only need 2 *permanent* desktop *shortcuts* to navigate your files: 
 		
-- shortcut to *{inbox}*
+        shortcut to *{inbox}*
 		
-- shortcut to *{next actions}*
+        shortcut to *{next actions}*
 
-- if you use it often (in theory you don't - they are archived projects), a shortcut to *{archive}*
+        if you use it often (in theory you don't - they are archived projects), a shortcut to *{archive}*
 
 - *temporary* shortcuts to specific folders that you use a lot.
 
