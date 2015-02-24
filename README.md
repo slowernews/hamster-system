@@ -14,7 +14,7 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
 - [Others](#others)
 
 ---
-####Main Folders:
+####Main folders:
 
 **ALL CAPS {action time} [action scope]**
 
@@ -43,7 +43,7 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
 ---
 ####Project folders:
 
-**# bundle @ project . subproject - folder**
+*# bundle @ project . subproject - folder*
 
 - bundle of projects (inspired in twitter hashtag): **#**
     
