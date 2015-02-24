@@ -1,16 +1,29 @@
 Folder-System
 =============
 
-Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [Semantic versioning](http://www.semver.org/)<sup> 2</sup> and [Twitter](https://twitter.com/)'s concept of *#* and *@*. 
+Organize your documents<sup> 1</sup>. Simple workflow system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [SemVer](http://www.semver.org/) and [Twitter](https://twitter.com/). 
 
 ###So, how to organize my documents?
 
+- [Introduction](#introduction)
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
 - [Files](#files)
 - [Actions](#actions)
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
+
+---
+####Introduction:
+
+This system is inspired in:
+
+- [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)'s concepts. EVERYTHING IS a project, an action or a reference.
+- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
+- [SemVer](http://www.semver.org/)'s concept, used for file versioning.
+- [Twitter](https://twitter.com/)'s concept of *#* and *@*, used for project notation.
+
+Without understanding these concepts this workflow system probably will not make much sense.
 
 ---
 ####Main folders:
