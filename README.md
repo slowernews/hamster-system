@@ -25,7 +25,7 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
         Example: JOHN
 
 - action time: **{ }**
-    
+
         Inside your main folder there are 3 folders:
         {inbox}, {next actions} and {archive}
 
@@ -51,30 +51,29 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
 **# bundle @ project . subproject - folder**
 
 - bundle of projects (inspired in twitter hashtag): **#**
-    
+
         Inside folders [personal], [work] you can have bundles of projects:
         Example: #large investor (bundle with all projects of a client)
         Example: #family (bundle with all your family related projects)
 
 - project (inspired in twitter mention): **@**
-    	
+
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
 
 - subproject<sup> 3</sup> (inspired in object oriented programming): **.**
-    	
+
     	Inside projects you can have subprojects:
         Example: .building permit
 
 - folder (each nesting level): **-**
-    	
+
     	Inside subprojects you can have folders:
         Example: -plans
 
         On nested folders always add previous folder name:
         Example: -drawings-sections
         Example: -drawings-details-wall
-
 
 When naming folders you can combine this notation (adding the previous naming level) 
 to reduce the need of memorization while navigating:
@@ -100,7 +99,7 @@ to reduce the need of memorization while navigating:
         Example: plan+v0.1.1.2
 
 - prefix for standard / boilerplate files: **$**
-    
+
         Example: $curriculum
         Example: $curriculum+v1.0.1.2
 
@@ -113,7 +112,7 @@ Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) manage
 ####How to navigate through my documents:
 
 - you only need 2 *permanent* desktop *shortcuts* to navigate your files: 
-		
+
         Shortcut to {inbox}
         Shortcut to {next actions}
 
@@ -127,9 +126,9 @@ Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) manage
 		Example: [personal] #friends
         Example: .building permit-drawings
 
----    
+---
 ####Others:
-        
+
 - use UpperCamelCase, lowerCamelCase or snake_case:
 
         Example using lowerCamelCase: #largeInvestor@houseInLisbon.buildingPermit
@@ -140,7 +139,7 @@ Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) manage
 
         Example using spaces: #large investor@house in lisbon.building permit
 
-- detail an action, a file or a folder name:
+- to detail an action, a file or a folder name:
 
         Insert a comment: (comment)
         Example with an action: Write a mail to Susy (your comment here)
