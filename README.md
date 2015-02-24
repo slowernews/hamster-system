@@ -24,7 +24,7 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
         or/and surname using ALL CAPS.
         Example: JOHN
 
-- action time<sup> 2</sup>: **{ }**
+- action time: **{ }**
     
         Inside your main folder there are 3 folders:
         {inbox}, {next actions} and {archive}
@@ -35,7 +35,7 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
         {next actions} is the folder where you store your current projects.
         {archive} is the folder where you store your archived projects.
     
-- action scope<sup> 2</sup>: **[ ]** 
+- action scope: **[ ]** 
 
         Inside folder {inbox} there are no permanent folders, just temporary stuff.
 
@@ -104,32 +104,15 @@ to reduce the need of memorization while navigating:
         Example: $curriculum
         Example: $curriculum+v1.0.1.2
 
-- insert a comment: **(comment)**
-
-        Example: plan+v0.3.4.2 (your comment here)
-
-- insert a date: **(year-month-day=hour)**
-
-        Example: plan+v0.3.4.2 (2012-11-29)
-
 ---
 ####Actions:
 
-- Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) managed in Evernote using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
-
-- insert a comment: **(comment)**
-
-        Example: Write a mail to Susy (your comment here)
-
-- insert a date: **(year-month-day=hour)**
-
-        Use it in the beggining of the line to allow chronological sorting.
-        Example: (2012-11-29=9h) Doctor appointment
+Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) managed in Evernote using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
 ---
 ####How to navigate through my documents:
 
-- You only need 2 *permanent* desktop *shortcuts* to navigate your files: 
+- you only need 2 *permanent* desktop *shortcuts* to navigate your files: 
 		
         Shortcut to {inbox}
         Shortcut to {next actions}
@@ -137,7 +120,7 @@ to reduce the need of memorization while navigating:
         If you use it often (in theory you don't - they are archived projects):
         Shortcut to {archive}
 
-- and some *temporary* shortcuts to specific folders that you use a lot.
+- and some *temporary* desktop *shortcuts* to specific folders that you use a lot.
 
 		Example: #large investor@house in lisbon
 		Example: [work] #large investor
@@ -145,7 +128,7 @@ to reduce the need of memorization while navigating:
         Example: .building permit-drawings
 
 ---    
-####Others: 
+####Others:
         
 - use UpperCamelCase, lowerCamelCase or snake_case:
 
@@ -156,6 +139,17 @@ to reduce the need of memorization while navigating:
 - or just use spaces, not everybody is a geek:
 
         Example using spaces: #large investor@house in lisbon.building permit
+
+- detail an action, a file or a folder name:
+
+        Insert a comment: (comment)
+        Example with an action: Write a mail to Susy (your comment here)
+        Example with a folder name: #large investor@house in lisbon (your comment here)
+
+        Insert a date: (year-month-day=hour)
+        You can use it in the beggining of the line to allow chronological sorting.
+        Example with an action: (2012-11-29=9h) Doctor appointment
+        Example with a file name: plan+v1.1.2 (2012-11-29)
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
