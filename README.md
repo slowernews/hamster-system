@@ -1,7 +1,7 @@
 Folder-System
 =============
 
-Organize your documents<sup> 1</sup>. Simple workflow system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [SemVer](http://www.semver.org/) and [Twitter](https://twitter.com/). 
+Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [SemVer](http://www.semver.org/) and [Twitter](https://twitter.com/). 
 
 ###So, how to organize my documents?
 
@@ -74,7 +74,7 @@ Without understanding these concepts this system will not make much sense.
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
 
-- subproject<sup> 3</sup> (inspired in object oriented programming): **.**
+- subproject<sup> 2</sup> (inspired in object oriented programming): **.**
 
     	Inside projects you can have subprojects:
         Example: .building permit
@@ -124,7 +124,7 @@ Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) manage
 ---
 ####How to navigate through my documents:
 
-- you only need 2 *permanent* desktop *shortcuts* to navigate your files: 
+- you only need 2 *permanent shortcuts* to navigate your files: 
 
         Shortcut to {inbox}
         Shortcut to {next actions}
@@ -132,7 +132,7 @@ Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) manage
         If you use it often (in theory you don't - they are archived projects):
         Shortcut to {archive}
 
-- and some *temporary* desktop *shortcuts* to specific folders that you use a lot.
+- and some *temporary shortcuts* to specific folders that you use a lot.
 
 		Example: #large investor@house in lisbon
 		Example: [work] #large investor
@@ -169,8 +169,7 @@ Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) manage
 
 <sup>Notes:</sup><br>
 <sup>1 - This system was tested in a Windows PC and Evernote.</sup><br>
-<sup>2 - If you don't know GTD, Secret Weapon and semantic versioning you must read about it first or this system will not make much sense.</sup><br>
-<sup>3 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
+<sup>2 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
 
 ---
 
