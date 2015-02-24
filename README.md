@@ -66,7 +66,7 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
     	Inside subprojects you can have folders:
         Example: -plans
 
-        Nested folders always add previous folder name:
+        On nested folders always add previous folder name:
         Example: -drawings-sections
         Example: -drawings-details-wall
 
@@ -94,7 +94,7 @@ to reduce the need of memorization while navigating:
         Using + and a versioning variant (MARKETING RELEASE . MAJOR . MINOR . WORKING FILE)
         Example: plan+v0.1.1.2
 
-- prefix for standard/boilerplate files: **$**
+- prefix for standard / boilerplate files: **$**
     
         Example: $curriculum
         Example: $curriculum+v1.0.1.2
@@ -102,7 +102,7 @@ to reduce the need of memorization while navigating:
 ---
 ####Actions:
 
-- Actions inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) using Evernote inspired in [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) managed in Evernote using a system inspired in [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
         Example: plan+v1.0.1.2   
 
