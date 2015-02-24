@@ -1,6 +1,5 @@
 Folder-System
 =============
-**# bundle @ project . subproject - folder**
 
 Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [Semantic versioning](http://www.semver.org/)<sup> 2</sup> and [Twitter](https://twitter.com/)'s concept of *#* and *@*. 
 
@@ -29,6 +28,12 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
     
         Inside your main folder there are 3 folders:
         {inbox}, {next actions} and {archive}
+
+        Resuming<sup> 2</sup>:
+
+        {inbox} is the folder where you put new files until deciding what to do with them.
+        {next actions} is the folder where you store your current projects.
+        {archive} is the folder where you store your archived projects.
     
 - action scope: **[ ]** 
 
@@ -112,8 +117,6 @@ to reduce the need of memorization while navigating:
 
 - Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) managed in Evernote using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
-        Example: plan+v1.0.1.2   
-
 - insert a comment: **(comment)**
 
         Example: Write a mail to Susy (your comment here)
@@ -126,19 +129,13 @@ to reduce the need of memorization while navigating:
 ---
 ####How to navigate through my documents:
 
-You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate your files: 
+You only need 2 permanent (and some temporary) desktop *shortcuts* to navigate your files: 
 		
 - shortcut to *{inbox}*
-
-		{inbox} is the folder where you put new files until deciding what to do with them.
 		
 - shortcut to *{next actions}*
 
-		{next actions} is the folder where you store your current projects.
-
 - if you use it often (in theory you don't - they are archived projects), a shortcut to *{archive}*
-
-		{archive} is the folder where you store your archived projects.
 
 - *temporary* shortcuts to specific folders that you use a lot.
 
