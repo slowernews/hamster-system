@@ -16,6 +16,8 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
 ---
 ####Main Folders:
 
+**ALL CAPS {action time} [action scope]**
+
 - your main folder: **ALL CAPS**
 
         First of all create a folder in a safe place of your disk.
@@ -41,6 +43,8 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
 ---
 ####Project folders:
 
+**# bundle @ project . subproject - folder**
+
 - bundle of projects (inspired in twitter hashtag): **#**
     
         Inside folders [personal], [work] you can have bundles of projects:
@@ -61,7 +65,11 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
     	
     	Inside subprojects you can have folders:
         Example: -plans
-        Example: -drawings--sections
+
+        Nested folders always add previous folder name:
+        Example: -drawings-sections
+        Example: -drawings-details-wall
+
 
 When naming folders you can combine this notation (adding the previous naming level) 
 to reduce the need of memorization while navigating:
@@ -78,7 +86,7 @@ to reduce the need of memorization while navigating:
         Example using folders logic: plan+v1.0.1.2
         Example using another naming system: @ARC.EXE-plan+v1.0.1.2
 
-- standard file: **$**
+- prefix for standard/boilerplate files: **$**
     
         Example: $curriculum
         Example: $curriculum+v1.0.1.2
