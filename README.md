@@ -24,18 +24,18 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
         or/and surname using ALL CAPS.
         Example: JOHN
 
-- action time: **{ }**
+- action time<sup> 2</sup>: **{ }**
     
         Inside your main folder there are 3 folders:
         {inbox}, {next actions} and {archive}
 
-        Resuming<sup> 2</sup>:
+        Resuming:
 
         {inbox} is the folder where you put new files until deciding what to do with them.
         {next actions} is the folder where you store your current projects.
         {archive} is the folder where you store your archived projects.
     
-- action scope: **[ ]** 
+- action scope<sup> 2</sup>: **[ ]** 
 
         Inside folder {inbox} there are no permanent folders, just temporary stuff.
 
@@ -134,14 +134,15 @@ to reduce the need of memorization while navigating:
         Shortcut to {inbox}
         Shortcut to {next actions}
 
-        Ff you use it often (in theory you don't - they are archived projects):
-        Shortcut to *{archive}*
+        If you use it often (in theory you don't - they are archived projects):
+        Shortcut to {archive}
 
 - and some *temporary* shortcuts to specific folders that you use a lot.
 
 		Example: #large investor@house in lisbon
 		Example: [work] #large investor
 		Example: [personal] #friends
+        Example: .building permit-drawings
 
 ---    
 ####Others: 
