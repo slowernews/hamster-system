@@ -131,13 +131,13 @@ to reduce the need of memorization while navigating:
 
 - You only need 2 *permanent* desktop *shortcuts* to navigate your files: 
 		
-        shortcut to *{inbox}*
-		
-        shortcut to *{next actions}*
+        Shortcut to {inbox}
+        Shortcut to {next actions}
 
-        if you use it often (in theory you don't - they are archived projects), a shortcut to *{archive}*
+        Ff you use it often (in theory you don't - they are archived projects):
+        Shortcut to *{archive}*
 
-- *temporary* shortcuts to specific folders that you use a lot.
+- and some *temporary* shortcuts to specific folders that you use a lot.
 
 		Example: #large investor@house in lisbon
 		Example: [work] #large investor
