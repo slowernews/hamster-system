@@ -9,7 +9,7 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
 - [Files](#files)
-- [Archive](#archive)
+- [Actions](#actions)
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
 
@@ -43,7 +43,7 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
 ---
 ####Project folders:
 
-*# bundle @ project . subproject - folder*
+**# bundle @ project . subproject - folder**
 
 - bundle of projects (inspired in twitter hashtag): **#**
     
@@ -86,19 +86,6 @@ to reduce the need of memorization while navigating:
         Example using folders logic: plan+v1.0.1.2
         Example using another naming system: @ARC.EXE-plan+v1.0.1.2
 
-- prefix for standard/boilerplate files: **$**
-    
-        Example: $curriculum
-        Example: $curriculum+v1.0.1.2
-
----
-####Archive:
-
-- archived folder (just used for main folders): **+**
-    
-        Example: +[work]
-        Example: +[personal]
-
 - archived file (version): **+**
         
         Using + and semantic versioning (MAJOR . MINOR . PATCH)
@@ -106,6 +93,18 @@ to reduce the need of memorization while navigating:
 
         Using + and a versioning variant (MARKETING RELEASE . MAJOR . MINOR . WORKING FILE)
         Example: plan+v0.1.1.2
+
+- prefix for standard/boilerplate files: **$**
+    
+        Example: $curriculum
+        Example: $curriculum+v1.0.1.2
+
+---
+####Actions:
+
+- Actions inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) using Evernote inspired in [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+
+        Example: plan+v1.0.1.2   
 
 ---
 ####How to navigate through my documents:
@@ -135,14 +134,16 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 
 - insert a comment: **(comment)**
 
-        Example: Write a mail to Susy (your comment here)
+        Example with an action: Write a mail to Susy (your comment here)
+        Example with a file: plan+v0.3.4.2 (your comment here)
 
 - insert a date: **(year-month-day=hour)**
 
         Use it in the beggining of the line to allow chronological sorting.
-        Example: (2012-11-29=9h) Doctor appointment
+        Example with an action: (2012-11-29=9h) Doctor appointment
+        Example with a file: (2012-11-29) plan+v0.3.4.2
         
-- name your folders using UpperCamelCase, lowerCamelCase or snake_case: 
+- use UpperCamelCase, lowerCamelCase or snake_case:
 
         Example using lowerCamelCase: #largeInvestor@houseInLisbon.buildingPermit
         Example using UpperCamelCase: #LargeInvestor@HouseInLisbon.BuildingPermit
