@@ -99,12 +99,29 @@ to reduce the need of memorization while navigating:
         Example: $curriculum
         Example: $curriculum+v1.0.1.2
 
+- insert a comment: **(comment)**
+
+        Example: plan+v0.3.4.2 (your comment here)
+
+- insert a date: **(year-month-day=hour)**
+
+        Example: plan+v0.3.4.2 (2012-11-29)
+
 ---
 ####Actions:
 
-- Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) managed in Evernote using a system inspired in [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) managed in Evernote using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
         Example: plan+v1.0.1.2   
+
+- insert a comment: **(comment)**
+
+        Example: Write a mail to Susy (your comment here)
+
+- insert a date: **(year-month-day=hour)**
+
+        Use it in the beggining of the line to allow chronological sorting.
+        Example: (2012-11-29=9h) Doctor appointment
 
 ---
 ####How to navigate through my documents:
@@ -131,17 +148,6 @@ You only need 2 permanent (and some temporary) *desktop shortcuts* to navigate y
 
 ---    
 ####Others: 
-
-- insert a comment: **(comment)**
-
-        Example with an action: Write a mail to Susy (your comment here)
-        Example with a file: plan+v0.3.4.2 (your comment here)
-
-- insert a date: **(year-month-day=hour)**
-
-        Use it in the beggining of the line to allow chronological sorting.
-        Example with an action: (2012-11-29=9h) Doctor appointment
-        Example with a file: (2012-11-29) plan+v0.3.4.2
         
 - use UpperCamelCase, lowerCamelCase or snake_case:
 
