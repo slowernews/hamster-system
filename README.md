@@ -20,7 +20,7 @@ This system is inspired in:
 
 - [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done). *Everything is* a *project*, an *action* or a *reference*.
 - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
-- [SemVer](http://www.semver.org/)'s concept, used for file versioning.
+- [SemVer](http://www.semver.org/), used for file versioning.
 - [Twitter](https://twitter.com/)'s concept of *#* and *@*, used for *project* notation.
 
 Without understanding these concepts this system will not make much sense.
