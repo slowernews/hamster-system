@@ -1,7 +1,7 @@
 Folder-System
 =============
 
-Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [SemVer](http://www.semver.org/) and [Twitter](https://twitter.com/). 
+Organize your documents<sup> 1</sup>. Simple system influenced by [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [SemVer](http://www.semver.org/) and [Twitter](https://twitter.com/). 
 
 ###So, how to organize my documents?
 
@@ -16,7 +16,7 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
 ---
 ####Introduction:
 
-This system is inspired in:
+This system merges or is influenced by:
 
 - [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done). *Everything is* a *project* or an *action*.
 - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
