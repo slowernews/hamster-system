@@ -100,12 +100,12 @@ to reduce the need of memorization while navigating:
 
 - files named using folders logic or another naming system relevant to your job.
 
-        Example using folder's naming logic: plan+v0.1.2
-        Example using a naming system relevant to your job: @ARC.EXE-plan+v0.1.2
+        Example using folder's naming logic: plan+0.1.2
+        Example using a naming system relevant to your job: @ARC.EXE-plan+0.1.2
 
 - archived file (version): **+**
         
-        Using +v and semantic versioning (MAJOR . MINOR . PATCH)
+        Using + and semantic versioning (MAJOR . MINOR . PATCH)
         Example: plan+0.1.2
 
 - prefix for standard / boilerplate files: **$**
@@ -138,6 +138,17 @@ Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) manage
 ---
 ####Others:
 
+- to detail an action, a file or a folder name:
+
+        Insert a comment: (comment)
+        Example with an action: Write a mail to Susy (your comment here)
+        Example with a folder name: #large investor@house in lisbon (your comment here)
+
+        Insert a date: (year-month-day=hour)
+        You can use it in the beggining of the line to allow chronological sorting.
+        Example with an action: (2012-11-29=9h) Doctor appointment
+        Example with a file name: plan+1.1.2 (2012-11-29)
+
 - use UpperCamelCase, lowerCamelCase or snake_case:
 
         Example using lowerCamelCase: #largeInvestor@houseInLisbon
@@ -148,18 +159,7 @@ Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) manage
 
         Example using spaces: #large investor@house in lisbon
 
-- but you shouldn't use these symbols for regular naming: **# @ . - + { } [ ]**
-
-- to detail an action, a file or a folder name:
-
-        Insert a comment: (comment)
-        Example with an action: Write a mail to Susy (your comment here)
-        Example with a folder name: #large investor@house in lisbon (your comment here)
-
-        Insert a date: (year-month-day=hour)
-        You can use it in the beggining of the line to allow chronological sorting.
-        Example with an action: (2012-11-29=9h) Doctor appointment
-        Example with a file name: plan+v1.1.2 (2012-11-29)
+- but avoid these symbols for regular naming: **# @ . - + { } [ ]**
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
