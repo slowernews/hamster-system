@@ -16,7 +16,7 @@ Organize your documents<sup> 1</sup>. Simple system influenced by [GTD](http://e
 ---
 ####Introduction:
 
-This system merges or is influenced by:
+This system is influenced by:
 
 - [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done). *Everything is* a *project* or an *action*.
 - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
