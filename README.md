@@ -61,7 +61,7 @@ Without understanding these concepts this system will not make much sense.
 ---
 ####Project folders:
 
-**# bundle @ project . subproject - folder**
+**# bundle @ project . subproject - folder - nested folder**
 
 - bundle of projects (inspired in twitter hashtag): **#**
 
@@ -100,17 +100,16 @@ to reduce the need of memorization while navigating:
 
 - files named using folders logic or another naming system relevant to your job.
 
-        Example using folders logic: plan+v0.1.2
+        Example using folder's naming logic: plan+v0.1.2
         Example using a naming system relevant to your job: @ARC.EXE-plan+v0.1.2
 
 - archived file (version): **+**
         
-        Using + and semantic versioning (MAJOR . MINOR . PATCH)
+        Using +v and semantic versioning (MAJOR . MINOR . PATCH)
         Example: plan+v0.1.2
 
 - prefix for standard / boilerplate files: **$**
 
-        Example: $curriculum
         Example: $curriculum+v1.1.2
 
 ---
