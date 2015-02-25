@@ -106,11 +106,11 @@ to reduce the need of memorization while navigating:
 - archived file (version): **+**
         
         Using +v and semantic versioning (MAJOR . MINOR . PATCH)
-        Example: plan+v0.1.2
+        Example: plan+0.1.2
 
 - prefix for standard / boilerplate files: **$**
 
-        Example: $curriculum+v1.1.2
+        Example: $curriculum+1.1.2
 
 ---
 ####Actions:
@@ -147,6 +147,8 @@ Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) manage
 - or just use spaces, not everybody is a geek:
 
         Example using spaces: #large investor@house in lisbon
+
+- but you shouldn't use these symbols for regular naming: **# @ . - + { } [ ]**
 
 - to detail an action, a file or a folder name:
 
