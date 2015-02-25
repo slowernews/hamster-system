@@ -18,7 +18,7 @@ Organize your documents<sup> 1</sup>. Simple system inspired in [GTD](http://en.
 
 This system is inspired in:
 
-- [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done). *Everything is* a *project*, an *action* or a *reference*.
+- [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done). *Everything is* a *project* or an *action*.
 - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
 - [SemVer](http://www.semver.org/), used for file versioning.
 - [Twitter](https://twitter.com/)'s concept of *#* and *@*, used for *project* notation.
@@ -100,21 +100,18 @@ to reduce the need of memorization while navigating:
 
 - files named using folders logic or another naming system relevant to your job.
 
-        Example using folders logic: plan+v1.0.1.2
-        Example using another naming system: @ARC.EXE-plan+v1.0.1.2
+        Example using folders logic: plan+v0.1.2
+        Example using a naming system relevant to your job: @ARC.EXE-plan+v0.1.2
 
 - archived file (version): **+**
         
         Using + and semantic versioning (MAJOR . MINOR . PATCH)
         Example: plan+v0.1.2
 
-        Using + and a versioning variant (MARKETING RELEASE . MAJOR . MINOR . WORKING FILE)
-        Example: plan+v0.1.1.2
-
 - prefix for standard / boilerplate files: **$**
 
         Example: $curriculum
-        Example: $curriculum+v1.0.1.2
+        Example: $curriculum+v1.1.2
 
 ---
 ####Actions:
@@ -144,13 +141,13 @@ Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) manage
 
 - use UpperCamelCase, lowerCamelCase or snake_case:
 
-        Example using lowerCamelCase: #largeInvestor@houseInLisbon.buildingPermit
-        Example using UpperCamelCase: #LargeInvestor@HouseInLisbon.BuildingPermit
-        Example using snake_case: #large_investor@house_in_lisbon.building_permit
+        Example using lowerCamelCase: #largeInvestor@houseInLisbon
+        Example using UpperCamelCase: #LargeInvestor@HouseInLisbon
+        Example using snake_case: #large_investor@house_in_lisbon
 
 - or just use spaces, not everybody is a geek:
 
-        Example using spaces: #large investor@house in lisbon.building permit
+        Example using spaces: #large investor@house in lisbon
 
 - to detail an action, a file or a folder name:
 
