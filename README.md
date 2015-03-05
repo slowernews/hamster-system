@@ -18,7 +18,7 @@ Organize your documents<sup> 1</sup>. Simple system influenced by [GTD](http://e
 
 This system is influenced by:
 
-- [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done). *Everything is* a *project* or an *action*.
+- [GTD](http://amzn.to/1BKSJbz). *Everything is* a *project* or an *action*.
 - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
 - [SemVer](http://www.semver.org/), used for file versioning.
 - [Twitter](https://twitter.com/)'s concept of *#* and *@*, used for *project* notation.
@@ -102,7 +102,7 @@ Without understanding these concepts this system will not make much sense.
         Example using folder's naming logic: plan+0.1.2
         Example using a naming system relevant to your job: @ARC.EXE-plan+0.1.2
 
-- archived file (a version adds a change on data): **+**
+- archived file (a version *adds* a change on data): **+**
         
         Using + and semantic versioning (MAJOR . MINOR . PATCH)
         Example: plan+0.1.2
@@ -163,7 +163,7 @@ Without understanding these concepts this system will not make much sense.
 
         Example using spaces: #large investor@house in lisbon
 
-- but avoid these symbols for regular naming: **# @ . - + { } [ ] $ %**
+- but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
