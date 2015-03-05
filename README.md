@@ -163,7 +163,7 @@ Without understanding these concepts this system will not make much sense.
 
         Example using spaces: #large investor@house in lisbon
 
-- but avoid these symbols for regular naming: **# @ . - + { } [ ]**
+- but avoid these symbols for regular naming: **# @ . - + { } [ ] $ %**
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
