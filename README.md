@@ -18,7 +18,7 @@ Organize your documents<sup> 1</sup>. Simple system influenced by [GTD](http://e
 
 This system is influenced by:
 
-- [GTD](http://amzn.to/1BKSJbz). *Everything is* a *project* or an *action*.
+- [GTD](http://amzn.to/1BKSJbz). *Everything is* a *project*, an *action* or a *list*.
 - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
 - [SemVer](http://www.semver.org/), used for file versioning.
 - [Twitter](https://twitter.com/)'s concept of *#* and *@*, used for *project* notation.
@@ -114,7 +114,7 @@ Without understanding these concepts this system will not make much sense.
 ---
 ####Actions:
 
-- actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) managed in Evernote using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
 - prefix for a finished action: **%**
 
