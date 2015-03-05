@@ -93,7 +93,6 @@ to reduce the need of memorization while navigating:
 
         Example: #large investor@house in lisbon
         Example: @house in lisbon.building permit
-        Example: .building permit-drawings
 
 ---
 ####Files:
@@ -115,7 +114,7 @@ to reduce the need of memorization while navigating:
 ---
 ####Actions:
 
-Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) managed in Evernote using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) managed in Evernote using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
 - prefix for a finished action: **%**
 
@@ -138,7 +137,7 @@ Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) manage
 		Example: #large investor@house in lisbon
 		Example: [work] #large investor
 		Example: [personal] #friends
-        Example: .building permit-drawings
+        Example: @house in lisbon.building permit
 
 ---
 ####Others:
