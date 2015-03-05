@@ -83,7 +83,8 @@ Without understanding these concepts this system will not make much sense.
     	Inside projects you can have subprojects:
         Example: .building permit
 
-        On subprojects always add project name:
+        On subprojects always add project name
+        to reduce the need of memorization while navigating:
         Example: @house in lisbon.building permit
 
 - folder (each nesting level): **-**
@@ -91,7 +92,8 @@ Without understanding these concepts this system will not make much sense.
     	Inside subprojects you can have folders:
         Example: -plans
 
-        On nested folders always add previous folder(s) name:
+        On nested folders always add previous folder(s) name
+        to reduce the need of memorization while navigating:
         Example: -drawings-sections
         Example: -drawings-details-wall
 
