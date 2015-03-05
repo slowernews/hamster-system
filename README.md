@@ -117,6 +117,11 @@ to reduce the need of memorization while navigating:
 
 Actions ([GTD concept](http://en.wikipedia.org/wiki/Getting_Things_Done)) managed in Evernote using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
+- finished action: **%**
+
+        Use it in the beggining of the line to allow sorting.
+        Example: % going to bank
+        
 ---
 ####How to navigate through my documents:
 
