@@ -74,7 +74,7 @@ Without understanding these concepts this system will not make much sense.
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
 
-        When naming project folders you can add bundle name (if existent)
+        On projects always add bundle name (if existent)
         to reduce the need of memorization while navigating:
         Example: #large investor@house in lisbon
 
