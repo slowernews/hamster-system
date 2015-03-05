@@ -103,7 +103,7 @@ Without understanding these concepts this system will not make much sense.
         Example using folder's naming logic: plan+0.1.2
         Example using a naming system relevant to your job: @ARC.EXE-plan+0.1.2
 
-- archived file (version): **+**
+- archived file (inspiration: a version adds a change on data): **+**
         
         Using + and semantic versioning (MAJOR . MINOR . PATCH)
         Example: plan+0.1.2
