@@ -74,8 +74,7 @@ Without understanding these concepts this system will not make much sense.
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
 
-        On projects always add bundle name (if existent)
-        to reduce the need of memorization while navigating:
+        On projects always add bundle name (if existent) to reduce the need of memorization:
         Example: #large investor@house in lisbon
 
 - subproject<sup> 2</sup> (inspired in object oriented programming): **.**
@@ -83,8 +82,7 @@ Without understanding these concepts this system will not make much sense.
     	Inside projects you can have subprojects:
         Example: .building permit
 
-        On subprojects always add project name
-        to reduce the need of memorization while navigating:
+        On subprojects always add project name to reduce the need of memorization:
         Example: @house in lisbon.building permit
 
 - folder (each nesting level): **-**
@@ -92,8 +90,7 @@ Without understanding these concepts this system will not make much sense.
     	Inside subprojects you can have folders:
         Example: -plans
 
-        On nested folders always add previous folder(s) name
-        to reduce the need of memorization while navigating:
+        On nested folders always add previous folder(s) name to reduce the need of memorization:
         Example: -drawings-sections
         Example: -drawings-details-wall
 
