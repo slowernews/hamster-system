@@ -74,25 +74,26 @@ Without understanding these concepts this system will not make much sense.
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
 
+        When naming project folders you can add bundle name (if existent)
+        to reduce the need of memorization while navigating:
+        Example: #large investor@house in lisbon
+
 - subproject<sup> 2</sup> (inspired in object oriented programming): **.**
 
     	Inside projects you can have subprojects:
         Example: .building permit
+
+        On subprojects always add project name:
+        Example: @house in lisbon.building permit
 
 - folder (each nesting level): **-**
 
     	Inside subprojects you can have folders:
         Example: -plans
 
-        On nested folders always add previous folder name:
+        On nested folders always add previous folder(s) name:
         Example: -drawings-sections
         Example: -drawings-details-wall
-
-When naming folders you can combine this notation (adding the previous naming level) 
-to reduce the need of memorization while navigating:
-
-        Example: #large investor@house in lisbon
-        Example: @house in lisbon.building permit
 
 ---
 ####Files:
@@ -118,8 +119,8 @@ to reduce the need of memorization while navigating:
 
 - prefix for a finished action: **%**
 
-        Use it in the beggining of the line to allow sorting.
-        Example: %going to bank
+        Use it in the beggining of the line to allow sorting:
+        Example: % going to bank
         
 ---
 ####How to navigate through my documents:
@@ -132,7 +133,7 @@ to reduce the need of memorization while navigating:
         If you use it often (in theory you don't - they are archived projects):
         Shortcut to {archive}
 
-- and some *temporary shortcuts* to specific folders that you use a lot.
+- and some *temporary shortcuts* to specific folders that you use a lot:
 
 		Example: #large investor@house in lisbon
 		Example: [work] #large investor
