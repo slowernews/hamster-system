@@ -9,7 +9,7 @@ Organize your documents<sup> 1</sup>. Simple system influenced by [GTD](http://e
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
 - [Files](#files)
-- [Actions & lists](#actions-&-lists)
+- [Actions & lists](#actions--lists)
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
 
@@ -114,11 +114,11 @@ Without understanding these concepts this system will not make much sense.
 ---
 ####Actions & lists:
 
-- actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
-- lists managed in Evernote. There are 2 types of lists:
+- lists are also managed in Evernote. There are 2 types of lists:
 
-        Briefings (list of actions)
+        Briefing (list of actions)
         Cabinets (list of references)
 
 - prefix for a finished action: **%**
@@ -132,7 +132,7 @@ Without understanding these concepts this system will not make much sense.
 - you only need 2 *permanent shortcuts* to navigate your files: 
 
         Shortcut to {inbox}
-        Shortcut to {next actions}
+        Shortcut to {current projects}
 
         If you use it often (in theory you don't - they are archived projects):
         Shortcut to {archive}
