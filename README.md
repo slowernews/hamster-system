@@ -15,7 +15,7 @@ Organize your documents and workflow<sup> 1</sup>. Simple system influenced by [
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
 
-**Organize your workflow (Action-system ):**
+**Organize your workflow (Action-system):**
 
 - [Actions and lists](#actions-and-lists)
 
@@ -32,6 +32,9 @@ This system is influenced by:
 Without understanding these concepts this system will not make much sense.
 
 ---
+
+###Project-system
+
 ####Main folders:
 
 **ALL CAPS {project status} [project scope]**
@@ -150,6 +153,9 @@ Without understanding these concepts this system will not make much sense.
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
+
+###Action-system
+
 ####Actions and lists:
 
 - actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
@@ -163,7 +169,7 @@ Without understanding these concepts this system will not make much sense.
 
         Use it in the beggining of the line to allow sorting:
         Example: % going to bank
-        
+
 - if you need to detail an action (sometimes a file or a folder name):
 
         Insert a comment: (comment)
