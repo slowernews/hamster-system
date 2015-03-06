@@ -34,6 +34,7 @@ Without understanding these concepts this system will not make much sense.
 ---
 
 ###Project-system
+=================
 
 ####Main folders:
 
@@ -155,6 +156,7 @@ Without understanding these concepts this system will not make much sense.
 ---
 
 ###Action-system
+================
 
 ####Actions and lists:
 
