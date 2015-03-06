@@ -9,8 +9,8 @@ Organize your documents<sup> 1</sup>. Simple system influenced by [GTD](http://e
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
 - [Files](#files)
-- [Actions and lists](#actions-and-lists)
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
+- [Actions and lists](#actions-and-lists)
 - [Others](#others)
 
 ---
@@ -110,22 +110,7 @@ Without understanding these concepts this system will not make much sense.
 - prefix for standard / boilerplate files: **$**
 
         Example: $curriculum+1.1.2
-
----
-####Actions and lists:
-
-- actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
-
-- lists are also managed in Evernote. There are 2 types of lists:
-
-        Briefing (list of actions)
-        Cabinet (list of references)
-
-- prefix for a finished action: **%**
-
-        Use it in the beggining of the line to allow sorting:
-        Example: % going to bank
-        
+     
 ---
 ####How to navigate through my documents:
 
@@ -144,6 +129,21 @@ Without understanding these concepts this system will not make much sense.
 		Example: [personal] #friends
         Example: @house in lisbon.building permit
 
+---
+####Actions and lists:
+
+- actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+
+- lists are also managed in Evernote. There are 2 types of lists:
+
+        Briefing (list of actions)
+        Cabinet (list of references)
+
+- prefix for a finished action: **%**
+
+        Use it in the beggining of the line to allow sorting:
+        Example: % going to bank
+   
 ---
 ####Others:
 
