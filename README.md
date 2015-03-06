@@ -34,6 +34,7 @@ Without understanding these concepts this system will not make much sense.
 ---
 
 ###Project-system
+*Organize your documents*
 =================
 
 ####Main folders:
@@ -156,6 +157,7 @@ Without understanding these concepts this system will not make much sense.
 ---
 
 ###Action-system
+*Organize your workflow*
 ================
 
 ####Actions and lists:
