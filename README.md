@@ -147,7 +147,7 @@ Without understanding these concepts this system will not make much sense.
 ---
 ####Others:
 
-- to detail an action (sometimes a file or a folder name):
+- if you need to detail an action (sometimes a file or a folder name):
 
         Insert a comment: (comment)
         Example with an action: Write a mail to Susy (your comment here)
@@ -157,15 +157,12 @@ Without understanding these concepts this system will not make much sense.
         Example with an action: (2012-11-29=9h) Doctor appointment
         Example with a file name: plan+1.1.2 (2012-11-29)
 
-- use UpperCamelCase, lowerCamelCase or snake_case:
+- you can use UpperCamelCase, lowerCamelCase, snake_case or spaces:
 
         Example using lowerCamelCase: #largeInvestor@houseInLisbon
         Example using UpperCamelCase: #LargeInvestor@HouseInLisbon
         Example using snake_case: #large_investor@house_in_lisbon
-
-- or just use spaces, not everybody is a geek:
-
-        Example using spaces: #large investor@house in lisbon
+        Example using spaces: #large investor@house in lisbon  
 
 - but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
