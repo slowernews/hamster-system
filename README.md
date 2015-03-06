@@ -9,7 +9,7 @@ Organize your documents<sup> 1</sup>. Simple system influenced by [GTD](http://e
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
 - [Files](#files)
-- [Actions](#actions)
+- [Actions & lists](#actions-&-lists)
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
 
@@ -28,7 +28,7 @@ Without understanding these concepts this system will not make much sense.
 ---
 ####Main folders:
 
-**ALL CAPS {action time} [action scope]**
+**ALL CAPS {project status} [project scope]**
 
 - your main folder: **ALL CAPS**
 
@@ -37,25 +37,25 @@ Without understanding these concepts this system will not make much sense.
         or/and surname using ALL CAPS.
         Example: JOHN
 
-- action time: **{ }**
+- project status: **{ }**
 
         Inside your main folder there are 3 folders:
-        {inbox}, {next actions} and {archive}
+        {inbox}, {current projects} and {archive}
 
         Resuming:
 
-        {inbox} is the folder where you put new files until deciding what to do with them.
-        {next actions} is the folder where you store your current projects.
+        {inbox} is the folder where you put new documents until deciding what to do with them.
+        {current projects} is the folder where you store your current projects.
         {archive} is the folder where you store your archived projects.
     
-- action scope: **[ ]** 
+- project scope: **[ ]** 
 
         Inside folder {inbox} there are no permanent folders, just temporary stuff.
 
-        Inside folder {next actions} there are 2 folders with action scopes:
+        Inside folder {current projects} there are 2 folders with project scopes:
         [personal], [work]
     
-        Inside folder {archive} there are 2 folders with action scopes and archive symbol: 
+        Inside folder {archive} there are 2 folders with project scopes and archive symbol: 
         +[personal], +[work]
 
 ---
@@ -102,7 +102,7 @@ Without understanding these concepts this system will not make much sense.
         Example using folder's naming logic: plan+0.1.2
         Example using a naming system relevant to your job: @ARC.EXE-plan+0.1.2
 
-- archived file (a version *adds* a change on data): **+**
+- archived file (each version *adds* a change on data): **+**
         
         Using + and semantic versioning (MAJOR . MINOR . PATCH)
         Example: plan+0.1.2
@@ -112,9 +112,14 @@ Without understanding these concepts this system will not make much sense.
         Example: $curriculum+1.1.2
 
 ---
-####Actions:
+####Actions & lists:
 
 - actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+
+- lists managed in Evernote. There are 2 types of lists:
+
+        Briefings (list of actions)
+        Cabinets (list of references)
 
 - prefix for a finished action: **%**
 
@@ -142,11 +147,10 @@ Without understanding these concepts this system will not make much sense.
 ---
 ####Others:
 
-- to detail an action, a file or a folder name:
+- to detail an action (sometimes a file or a folder name):
 
         Insert a comment: (comment)
         Example with an action: Write a mail to Susy (your comment here)
-        Example with a folder name: #large investor@house in lisbon (your comment here)
 
         Insert a date: (year-month-day=hour)
         You can use it in the beggining of the line to allow chronological sorting.
