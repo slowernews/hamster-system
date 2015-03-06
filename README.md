@@ -153,7 +153,7 @@ Without understanding these concepts this system will not make much sense.
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
-###Action-system (Organize your workflow)
+###Action-system (organize your workflow)
 =========================================
 
 ####Actions and lists:
