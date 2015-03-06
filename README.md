@@ -1,16 +1,23 @@
 Folder-System
 =============
 
-Organize your documents<sup> 1</sup>. Simple system influenced by [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [SemVer](http://www.semver.org/) and [Twitter](https://twitter.com/). 
+Organize your documents and workflow<sup> 1</sup>. Simple system influenced by [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [SemVer](http://www.semver.org/) and [Twitter](https://twitter.com/). 
 
-###So, how to organize my documents?
+###So, how to organize myself?
 
 - [Introduction](#introduction)
+
+####Project-system (organize your documents):
+
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
 - [Files](#files)
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
+
+####Action-system (organize your workflow):
+
 - [Actions and lists](#actions-and-lists)
+
 - [Others](#others)
 
 ---
