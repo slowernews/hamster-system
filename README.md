@@ -68,7 +68,7 @@ Without understanding these concepts this system will not make much sense.
         Inside folder {archive} there are 2 folders with project scopes and archive symbol: 
         +[personal], +[work]
 
----
+===
 ####Project folders:
 
 **# bundle @ project . subproject - folder - nested folder**
@@ -104,7 +104,7 @@ Without understanding these concepts this system will not make much sense.
         Example: -drawings-sections
         Example: -drawings-details-wall
 
----
+===
 ####Files:
 
 - files named using folders logic or another naming system relevant to your job.
@@ -121,7 +121,7 @@ Without understanding these concepts this system will not make much sense.
 
         Example: $curriculum+1.1.2
      
----
+===
 ####How to navigate through my documents:
 
 - you only need 2 *permanent shortcuts* to navigate your files: 
@@ -139,7 +139,7 @@ Without understanding these concepts this system will not make much sense.
 		Example: [personal] #friends
         Example: @house in lisbon.building permit
 
----
+===
 ####Others:
 
 - use UpperCamelCase, lowerCamelCase, snake_case or spaces:
@@ -154,7 +154,6 @@ Without understanding these concepts this system will not make much sense.
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
-
 ###Action-system (Organize your workflow)
 =========================================
 
