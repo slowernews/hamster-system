@@ -67,7 +67,6 @@ Without understanding these concepts this system will not make much sense.
     
         Inside folder {archive} there are 2 folders with project scopes and archive symbol: 
         +[personal], +[work]
-
 ===
 ####Project folders:
 
@@ -103,7 +102,6 @@ Without understanding these concepts this system will not make much sense.
         On nested folders always add previous folder(s) name to reduce the need of memorization:
         Example: -drawings-sections
         Example: -drawings-details-wall
-
 ===
 ####Files:
 
@@ -119,8 +117,7 @@ Without understanding these concepts this system will not make much sense.
 
 - prefix for standard / boilerplate files: **$**
 
-        Example: $curriculum+1.1.2
-     
+        Example: $curriculum+1.1.2  
 ===
 ####How to navigate through my documents:
 
@@ -138,7 +135,6 @@ Without understanding these concepts this system will not make much sense.
 		Example: [work] #large investor
 		Example: [personal] #friends
         Example: @house in lisbon.building permit
-
 ===
 ####Others:
 
