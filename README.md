@@ -7,7 +7,7 @@ Organize your documents and workflow<sup> 1</sup>. Simple system influenced by [
 
 - [Introduction](#introduction)
 
-**Project-system (organize your documents):**
+**Organize your documents (Project-system):**
 
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
@@ -15,10 +15,9 @@ Organize your documents and workflow<sup> 1</sup>. Simple system influenced by [
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
 
-**Action-system (organize your workflow):**
+**Organize your workflow (Action-system ):**
 
 - [Actions and lists](#actions-and-lists)
-- [Others](#others)
 
 ---
 ####Introduction:
@@ -137,6 +136,20 @@ Without understanding these concepts this system will not make much sense.
         Example: @house in lisbon.building permit
 
 ---
+####Others:
+
+- use UpperCamelCase, lowerCamelCase, snake_case or spaces:
+
+        Example using lowerCamelCase: #largeInvestor@houseInLisbon
+        Example using UpperCamelCase: #LargeInvestor@HouseInLisbon
+        Example using snake_case: #large_investor@house_in_lisbon
+        Example using spaces: #large investor@house in lisbon  
+
+- but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
+
+- great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
+
+---
 ####Actions and lists:
 
 - actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
@@ -150,10 +163,7 @@ Without understanding these concepts this system will not make much sense.
 
         Use it in the beggining of the line to allow sorting:
         Example: % going to bank
-   
----
-####Others:
-
+        
 - if you need to detail an action (sometimes a file or a folder name):
 
         Insert a comment: (comment)
@@ -163,17 +173,6 @@ Without understanding these concepts this system will not make much sense.
         You can use it in the beggining of the line to allow chronological sorting.
         Example with an action: (2012-11-29=9h) Doctor appointment
         Example with a file name: plan+1.1.2 (2012-11-29)
-
-- you can use UpperCamelCase, lowerCamelCase, snake_case or spaces:
-
-        Example using lowerCamelCase: #largeInvestor@houseInLisbon
-        Example using UpperCamelCase: #LargeInvestor@HouseInLisbon
-        Example using snake_case: #large_investor@house_in_lisbon
-        Example using spaces: #large investor@house in lisbon  
-
-- but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
-
-- great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
 
