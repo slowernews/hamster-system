@@ -9,7 +9,7 @@ Organize your documents<sup> 1</sup>. Simple system influenced by [GTD](http://e
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
 - [Files](#files)
-- [Actions & lists](#actions--lists)
+- [Actions and lists](#actions-and-lists)
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
 
@@ -112,14 +112,14 @@ Without understanding these concepts this system will not make much sense.
         Example: $curriculum+1.1.2
 
 ---
-####Actions & lists:
+####Actions and lists:
 
 - actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
 - lists are also managed in Evernote. There are 2 types of lists:
 
         Briefing (list of actions)
-        Cabinets (list of references)
+        Cabinet (list of references)
 
 - prefix for a finished action: **%**
 
