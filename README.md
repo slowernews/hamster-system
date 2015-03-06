@@ -40,19 +40,19 @@ Without understanding these concepts this system will not make much sense.
 - project status: **{ }**
 
         Inside your main folder there are 3 folders:
-        {inbox}, {current projects} and {archive}
+        {inbox}, {current} and {archive}
 
         Resuming:
 
         {inbox} is the folder where you put new documents until deciding what to do with them.
-        {current projects} is the folder where you store your current projects.
+        {current} is the folder where you store your current projects.
         {archive} is the folder where you store your archived projects.
     
 - project scope: **[ ]** 
 
         Inside folder {inbox} there are no permanent folders, just temporary stuff.
 
-        Inside folder {current projects} there are 2 folders with project scopes:
+        Inside folder {current} there are 2 folders with project scopes:
         [personal], [work]
     
         Inside folder {archive} there are 2 folders with project scopes and archive symbol: 
@@ -117,7 +117,7 @@ Without understanding these concepts this system will not make much sense.
 - you only need 2 *permanent shortcuts* to navigate your files: 
 
         Shortcut to {inbox}
-        Shortcut to {current projects}
+        Shortcut to {current}
 
         If you use it often (in theory you don't - they are archived projects):
         Shortcut to {archive}
@@ -139,7 +139,7 @@ Without understanding these concepts this system will not make much sense.
         Briefing (list of actions)
         Cabinet (list of references)
 
-- prefix for a finished action: **%**
+- prefix for a finished action (until delete or store it): **%**
 
         Use it in the beggining of the line to allow sorting:
         Example: % going to bank
