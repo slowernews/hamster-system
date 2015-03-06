@@ -7,17 +7,17 @@ Organize your documents and workflow<sup> 1</sup>. Simple system influenced by [
 
 - [Introduction](#introduction)
 
-####Project-system (organize your documents):
+**Project-system (organize your documents):**
 
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
 - [Files](#files)
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
+- [Others](#others)
 
-####Action-system (organize your workflow):
+**Action-system (organize your workflow):**
 
 - [Actions and lists](#actions-and-lists)
-
 - [Others](#others)
 
 ---
