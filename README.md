@@ -32,7 +32,7 @@ This system is influenced by:
 Without understanding these concepts this system will not make much sense.
 
 ---
-###Project-system (organize your documents)
+###Organize your documents (Project-system)
 ===========================================
 
 ####Main folders:
@@ -153,7 +153,7 @@ Without understanding these concepts this system will not make much sense.
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
-###Action-system (organize your workflow)
+###Organize your workflow (Action-system)
 =========================================
 
 ####Actions and lists:
