@@ -1,13 +1,17 @@
 Hamster-System
 =============
 
-Organize your documents and workflow<sup> 1</sup>. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done).
+Organize your documents and workflow. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup>, using:
 
-###So, how to organize myself?
+- [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of project notation,
+- [SemVer](http://www.semver.org/) for file versioning and 
+- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote
 
-- [Introduction](#introduction)
+**Resuming: in GTD everything is a project, an action or a list.** 
 
-**Organize your documents (Project-system):**
+###So, how can I start?
+
+**Organize your documents:**
 
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
@@ -15,25 +19,9 @@ Organize your documents and workflow<sup> 1</sup>. An ultra-simple implementatio
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
 
-**Organize your workflow (Action-system):**
+**Organize your workflow:**
 
 - [Actions and lists](#actions-and-lists)
-
----
-####Introduction:
-
-Hamster-system is an ultra simple implementation of [GTD](http://amzn.to/1BKSJbz).<sup> 3</sup>
-
-**Resuming: Everything is a project, an action or a list.** Hamster-system has 2 goals:
-
-- Organize your documents.
-
-    - using [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of project notation.
-    - using [SemVer](http://www.semver.org/) for file versioning.
-
-- Organize your workflow.
-
-	- using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
 
 ---
 ###Organize your documents (Project-system)
