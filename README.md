@@ -8,11 +8,9 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 - [SemVer](http://www.semver.org/) for file versioning.
 - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) to manage actions in Evernote.
 
-*Resuming: in GTD everything is a project, an action or a list.* 
-
 ###So, how can you start?
 
-**Organize your documents:**
+**Organize your documents:** *Resuming: in GTD, any document belongs to a project.* 
 
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
@@ -20,9 +18,10 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
 
-**Organize your workflow:**
+**Organize your workflow:** *Resuming: in GTD, undivisible tasks are called actions.* 
 
-- [Actions and lists](#actions-and-lists)
+- [Actions](#actions)
+- [Lists](#lists)
 
 ---
 ###Organize your documents (Project-system)
@@ -149,14 +148,9 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ###Organize your workflow (Action-system)
 =========================================
 
-####Actions and lists:
+####Actions:
 
 - actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
-
-- lists are also managed in Evernote. There are 2 types of lists:
-
-        Briefing (list of actions)
-        Cabinet (list of references)
 
 - prefix for a finished action (until delete or store it): **%**
 
@@ -172,6 +166,13 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         You can use it in the beggining of the line to allow chronological sorting.
         Example with an action: (2012-11-29=9h) Doctor appointment
         Example with a file name: plan+1.1.2 (2012-11-29)
+
+####Lists:
+
+- lists are also managed in Evernote. There are 2 types of lists:
+
+        Briefing (list of actions)
+        Cabinet (list of references)
 
 ---
 
