@@ -1,7 +1,7 @@
-Folder-System
+Hamster-System
 =============
 
-Organize your documents and workflow<sup> 1</sup>. Simple system influenced by [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [SemVer](http://www.semver.org/) and [Twitter](https://twitter.com/). 
+Organize your documents and workflow<sup> 1</sup>. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), [SemVer](http://www.semver.org/) and [Twitter](https://twitter.com/). 
 
 ###So, how to organize myself?
 
@@ -22,14 +22,17 @@ Organize your documents and workflow<sup> 1</sup>. Simple system influenced by [
 ---
 ####Introduction:
 
-This system is influenced by:
+Hamster-system is an ultra simple implementation of [GTD](http://amzn.to/1BKSJbz) (Resuming: *Everything is* a *project*, an *action* or a *list*.)
+Without understanding GTD this system will not make much sense. Hamster-system has 2 components:
 
-- [GTD](http://amzn.to/1BKSJbz). Resuming: *Everything is* a *project*, an *action* or a *list*.
-- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
+1 - Project-system (to organize your documents) using or influenced by:
+
 - [SemVer](http://www.semver.org/), used for file versioning.
 - [Twitter](https://twitter.com/)'s concept of *#* and *@*, used for *project* notation.
 
-Without understanding these concepts this system will not make much sense.
+2 - Action-system (to organize your workflow) using or influenced by:
+
+- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
 
 ---
 ###Organize your documents (Project-system)
@@ -123,7 +126,7 @@ Without understanding these concepts this system will not make much sense.
 ===
 ####How to navigate through my documents:
 
-- you only need 2 *permanent shortcuts* to navigate your files: 
+- you only need 2 *permanent shortcuts* to navigate your documents: 
 
         Shortcut to {inbox}
         Shortcut to {current}
