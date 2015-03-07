@@ -22,11 +22,8 @@ Organize your documents and workflow<sup> 1</sup>. An ultra-simple implementatio
 ---
 ####Introduction:
 
-Hamster-system is an ultra simple implementation of [GTD](http://amzn.to/1BKSJbz).
-
-*(Resuming: Everything is a project, an action or a list.)*
-
-Without understanding GTD this system will not make much sense. Hamster-system has 2 goals:
+Hamster-system is an ultra simple implementation of [GTD](http://amzn.to/1BKSJbz).<sup> 3</sup>
+**Resuming: Everything is a project, an action or a list.** Hamster-system has 2 goals:
 
 - Organize your documents.
 
@@ -92,7 +89,7 @@ Without understanding GTD this system will not make much sense. Hamster-system h
         On projects always add bundle name (if existent) to reduce the need of memorization:
         Example: #large investor@house in lisbon
 
-- subproject<sup> 2</sup> (inspired in object oriented programming): **.**
+- subproject<sup> 3</sup> (inspired in object oriented programming): **.**
 
     	Inside projects you can have subprojects:
         Example: .building permit
@@ -190,7 +187,8 @@ Without understanding GTD this system will not make much sense. Hamster-system h
 
 <sup>Notes:</sup><br>
 <sup>1 - This system was tested in a Windows PC and Evernote.</sup><br>
-<sup>2 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
+<sup>2 - Without understanding GTD this system will not make much sense.</sup>
+<sup>3 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
 
 ---
 
