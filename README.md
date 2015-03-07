@@ -23,6 +23,7 @@ Organize your documents and workflow<sup> 1</sup>. An ultra-simple implementatio
 ####Introduction:
 
 Hamster-system is an ultra simple implementation of [GTD](http://amzn.to/1BKSJbz).<sup> 3</sup>
+
 **Resuming: Everything is a project, an action or a list.** Hamster-system has 2 goals:
 
 - Organize your documents.
