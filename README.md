@@ -3,13 +3,13 @@ Hamster-System
 
 Organize your documents and workflow. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup>, using:
 
-- [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of project notation,
-- [SemVer](http://www.semver.org/) for file versioning and 
-- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote
+- [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of project notation.
+- [SemVer](http://www.semver.org/) for file versioning.
+- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) to manage actions in Evernote.
 
-**Resuming: in GTD everything is a project, an action or a list.** 
+*Resuming: in GTD everything is a project, an action or a list.* 
 
-###So, how can I start?
+###So, how can you start?
 
 **Organize your documents:**
 
