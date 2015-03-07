@@ -24,8 +24,8 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 - [Lists](#lists)
 
 ---
-###Organize your documents (Project-system)
-===========================================
+###Organize your documents
+==========================
 
 ####Main folders:
 
@@ -145,8 +145,8 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
-###Organize your workflow (Action-system)
-=========================================
+###Organize your workflow
+=========================
 
 ####Actions:
 
