@@ -75,7 +75,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
 
-        On projects always add bundle name (if existent) to reduce the need of memorization:
+        On projects you can add bundle name (if existent) to reduce the need of memorization:
         Example: #large investor@house in lisbon
 
 - subproject<sup> 3</sup> (inspired in object oriented programming): **.**
@@ -83,7 +83,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
     	Inside projects you can have subprojects:
         Example: .building permit
 
-        On subprojects always add project name to reduce the need of memorization:
+        On subprojects you can add project name to reduce the need of memorization:
         Example: @house in lisbon.building permit
 
 - folder (each nesting level): **-**
@@ -175,7 +175,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ---
 
 <sup>Notes:</sup><br>
-<sup>1 - Without understanding GTD, Hamster-system will not make much sense.</sup><br>
+<sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
 <sup>2 - Hamster-system was tested in a Windows PC and Evernote.</sup><br>
 <sup>3 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
 
