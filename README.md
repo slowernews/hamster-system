@@ -1,7 +1,7 @@
 Hamster-System
 =============
 
-Organize your documents and workflow. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup>, using:
+Organize your documents and workflow. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup><sup> 2</sup>, using:
 
 - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of project notation.
 - [SemVer](http://www.semver.org/) for file versioning.
@@ -175,8 +175,8 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ---
 
 <sup>Notes:</sup><br>
-<sup>1 - This system was tested in a Windows PC and Evernote.</sup><br>
-<sup>2 - Without understanding GTD this system will not make much sense.</sup><br>
+<sup>1 - Without understanding GTD this system will not make much sense.</sup><br>
+<sup>2 - This system was tested in a Windows PC and Evernote.</sup><br>
 <sup>3 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
 
 ---
