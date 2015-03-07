@@ -22,17 +22,18 @@ Organize your documents and workflow<sup> 1</sup>. An ultra-simple implementatio
 ---
 ####Introduction:
 
-Hamster-system is an ultra simple implementation of [GTD](http://amzn.to/1BKSJbz) (Resuming: *Everything is* a *project*, an *action* or a *list*.)
-Without understanding GTD this system will not make much sense. Hamster-system has 2 components:
+Hamster-system is an ultra simple implementation of [GTD](http://amzn.to/1BKSJbz)
+*(Resuming: Everything is a project, an action or a list.)*
+Without understanding GTD this system will not make much sense. Hamster-system has 2 goals:
 
-1 - Project-system (to organize your documents) using or influenced by:
+1. Organize your documents.
 
-- [SemVer](http://www.semver.org/), used for file versioning.
-- [Twitter](https://twitter.com/)'s concept of *#* and *@*, used for *project* notation.
+    - using [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of project notation.
+    - using [SemVer](http://www.semver.org/) for file versioning.
 
-2 - Action-system (to organize your workflow) using or influenced by:
+2. Organize your workflow.
 
-- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
+	- using [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf), used to manage actions in Evernote.
 
 ---
 ###Organize your documents (Project-system)
