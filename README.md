@@ -10,7 +10,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 ###So, how can you start?
 
-**Organize your documents:** *Resuming: in GTD, any document belongs to a project.* 
+**Organize your documents:** *(in GTD, any document belongs to a project.)* 
 
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
@@ -18,7 +18,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 - [How to navigate through my documents](#how-to-navigate-through-my-documents)
 - [Others](#others)
 
-**Organize your workflow:** *Resuming: in GTD, undivisible tasks are called actions.* 
+**Organize your workflow:** *(in GTD, undivisible tasks are called actions.)* 
 
 - [Actions](#actions)
 - [Lists](#lists)
