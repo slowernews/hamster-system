@@ -182,7 +182,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 <sup>Notes:</sup><br>
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
-<sup>2 - Hamster-system was tested in a Windows PC and Evernote.</sup><br>
+<sup>2 - Hamster-gtd was tested in a Windows PC and Evernote.</sup><br>
 <sup>3 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
 
 ---
