@@ -25,6 +25,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 ---
 ###Organize your documents
+
 *(in GTD, any document belongs to a project.)* 
 ==========================
 
@@ -147,6 +148,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 ---
 ###Organize your workflow
+
  *(in GTD, undivisible tasks are called actions.)*
 =========================
 
