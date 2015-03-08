@@ -25,9 +25,10 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 ---
 ###Organize your documents
-==========================
+
 *(in GTD, any document belongs to a project.)*
 
+===
 ####Main folders:
 
 **ALL CAPS {project status} [project scope]**
@@ -147,9 +148,10 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 ---
 ###Organize your workflow
-=========================
+
 *(in GTD, undivisible tasks are called actions.)*
 
+===
 ####Actions:
 
 - actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
