@@ -13,7 +13,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 **Organize your documents:**
 
 - [Main folders](#main-folders)
-- [Project folders](#project-folders-in-GTD-any-document-belongs-to-a-project)
+- [Project folders](#project-folders)
 - [Files](#files)
 - [How to navigate through your documents](#how-to-navigate-through-your-documents)
 - [Others](#others)
