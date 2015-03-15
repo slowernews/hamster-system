@@ -4,7 +4,7 @@ Hamster-GTD
 
 Organize your documents and workflow. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup><sup> 2</sup>, using:
 
-- [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of project notation.
+- [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of a project notation.
 - [SemVer](http://www.semver.org/) for file versioning.
 - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) to manage actions in Evernote.
 
@@ -15,7 +15,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 - [Main folders](#main-folders)
 - [Project folders](#project-folders)
 - [Files](#files)
-- [How to navigate through my documents](#how-to-navigate-through-my-documents)
+- [How to navigate through your documents](#how-to-navigate-through-your-documents)
 - [Others](#others)
 
 **Organize your workflow:**
@@ -33,7 +33,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 **ALL CAPS {project status} [project scope]**
 
-- your main folder: **ALL CAPS**
+- your main folder<sup> 3</sup>: **ALL CAPS**
 
         First of all create a folder in a safe place of your disk.
         ALL your stuff will be stored inside this folder named with your name 
@@ -80,7 +80,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         On projects you can add bundle name (if existent) to reduce the need of memorization:
         Example: #large investor@house in lisbon
 
-- subproject<sup> 3</sup> (inspired in object oriented programming): **.**
+- subproject<sup> 4</sup> (inspired in object oriented programming): **.**
 
     	Inside projects you can have subprojects:
         Example: .building permit
@@ -115,14 +115,14 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         Example: $curriculum+1.1.2  
 
 ===
-####How to navigate through my documents:
+####How to navigate through your documents:
 
 - you only need 2 *permanent shortcuts* to navigate your documents: 
 
         Shortcut to {inbox}
         Shortcut to {current}
 
-        If you use it often (in theory you don't - they are archived projects):
+        If you use it often (in theory you don't, they are archived projects):
         Shortcut to {archive}
 
 - and some *temporary shortcuts* to specific folders that you use a lot:
@@ -164,12 +164,11 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 - if you need to detail an action (sometimes a file or a folder name):
 
         Insert a comment: (comment)
-        Example with an action: Write a mail to Susy (your comment here)
+        Example: Write a mail to Susy (your comment here)
 
         Insert a date: (year-month-day=hour)
         You can use it in the beggining of the line to allow chronological sorting.
-        Example with an action: (2012-11-29=9h) Doctor appointment
-        Example with a file name: plan+1.1.2 (2012-11-29)
+        Example: (2012-11-29=9h) Doctor appointment
 
 ####Lists:
 
@@ -183,7 +182,8 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 <sup>Notes:</sup><br>
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
 <sup>2 - Hamster-gtd was tested in a Windows PC and Evernote.</sup><br>
-<sup>3 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
+<sup>2 - The hamster cheeks :) </sup><br>
+<sup>4 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
 
 ---
 
