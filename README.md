@@ -105,7 +105,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         Example using folder's naming logic: plan+0.1.2
         Example using a naming system relevant to your job: @ARC.EXE-plan+0.1.2
 
-- archived file (each version *adds* a change on data): **+ major . minor . patch** ([SemVer](http://www.semver.org/))
+- archived file (each version *adds* a change on data) using [SemVer](http://www.semver.org/): **+ major . minor . patch** 
         
         Example: plan+0.1.2
 
