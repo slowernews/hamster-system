@@ -151,7 +151,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 - in GTD, undivisible tasks are called actions. Actions are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
-- if you need to detail an action (sometimes a file or a folder name):
+- if you need to detail an action:
 
         Insert a comment: (comment)
         Example: Write a mail to Susy (your comment here)
@@ -160,7 +160,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         You can use it in the beggining of the line to allow chronological sorting.
         Example: (2012-11-29=9h) Doctor appointment
 
-- prefix for a finished action (until delete or store it): **%**
+- prefix for a finished action (before delete or store it): **%**
 
         Use it in the beggining of the line to allow sorting:
         Example: % going to bank
