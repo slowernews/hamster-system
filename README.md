@@ -151,7 +151,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 - in GTD, undivisible tasks are called actions. Actions are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
-- if you need to detail an action:
+- if you need to detail an action: **( )**
 
         Insert a comment: (comment)
         Example: Write a mail to Susy (your comment here)
