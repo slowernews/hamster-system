@@ -107,7 +107,6 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 - archived file (each version *adds* a change on data): **+ major . minor . patch** ([SemVer](http://www.semver.org/))
         
-        Using + and semantic versioning 
         Example: plan+0.1.2
 
 - prefix for standard / boilerplate files: **$**
