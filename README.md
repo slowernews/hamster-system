@@ -64,8 +64,6 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 **# bundle @ project . subproject - folder - nested folder**
 
- *(in GTD, any document belongs to a project)*
-
 - bundle of projects (inspired in twitter hashtag): **#**
 
         Inside folders [personal], [work] you can have bundles of projects:
@@ -73,6 +71,8 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         Example: #family (bundle with all your family related projects)
 
 - project (inspired in twitter mention): **@**
+
+*(in GTD, any document belongs to a project)*
 
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
