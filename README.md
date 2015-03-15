@@ -70,9 +70,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         Example: #large investor (bundle with all projects of a client)
         Example: #family (bundle with all your family related projects)
 
-- project (inspired in twitter mention): **@**
-
-*(in GTD, any document belongs to a project)*
+- project (inspired in twitter mention): **@** *(in GTD, any document belongs to a project)*
 
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
