@@ -26,8 +26,6 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ---
 ###Organize your documents
 
-*(in GTD, any document belongs to a project.)*
-
 ===
 ####Main folders:
 
@@ -62,7 +60,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         +[personal], +[work]
 
 ===
-####Project folders:
+####Project folders (in GTD, any document belongs to a project):
 
 **# bundle @ project . subproject - folder - nested folder**
 
@@ -148,17 +146,10 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ---
 ###Organize your workflow
 
-*(in GTD, undivisible tasks are called actions.)*
-
 ===
 ####Actions:
 
-- actions ([GTD concept](http://amzn.to/1BKSJbz)) managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
-
-- prefix for a finished action (until delete or store it): **%**
-
-        Use it in the beggining of the line to allow sorting:
-        Example: % going to bank
+- actions (in GTD, undivisible tasks are called actions) managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
 - if you need to detail an action (sometimes a file or a folder name):
 
@@ -168,6 +159,11 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         Insert a date: (year-month-day=hour)
         You can use it in the beggining of the line to allow chronological sorting.
         Example: (2012-11-29=9h) Doctor appointment
+
+- prefix for a finished action (until delete or store it): **%**
+
+        Use it in the beggining of the line to allow sorting:
+        Example: % going to bank
 
 ####Lists:
 
