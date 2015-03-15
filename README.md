@@ -60,9 +60,11 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         +[personal], +[work]
 
 ===
-####Project folders (in GTD, any document belongs to a project):
+####Project folders:
 
 **# bundle @ project . subproject - folder - nested folder**
+
+ *(in GTD, any document belongs to a project)*
 
 - bundle of projects (inspired in twitter hashtag): **#**
 
