@@ -13,7 +13,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 **Organize your documents:**
 
 - [Main folders](#main-folders)
-- [Project folders](#project-folders)
+- [Project folders](#project-folders-in-GTD-any-document-belongs-to-a-project)
 - [Files](#files)
 - [How to navigate through your documents](#how-to-navigate-through-your-documents)
 - [Others](#others)
@@ -24,7 +24,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 - [Lists](#lists)
 
 ---
-###Organize your documents
+###// Organize your documents
 
 ===
 ####Main folders:
@@ -144,12 +144,12 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
-###Organize your workflow
+###// Organize your workflow
 
 ===
 ####Actions:
 
-- actions (in GTD, undivisible tasks are called actions) managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- in GTD, undivisible tasks are called actions. Actions are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
 - if you need to detail an action (sometimes a file or a folder name):
 
