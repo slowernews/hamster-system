@@ -173,7 +173,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
 <sup>2 - Hamster-gtd was tested in a Windows PC and Evernote.</sup><br>
 <sup>3 - The hamster cheeks :)</sup><br>
-<sup>5 - In GTD any document belongs to a project.</sup><br>
+<sup>4 - In GTD any document belongs to a project.</sup><br>
 <sup>5 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
 
 ---
