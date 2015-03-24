@@ -70,7 +70,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         Example: #large investor (bundle with all projects of a client)
         Example: #family (bundle with all your family related projects)
 
-- project (inspired in twitter mention): **@** *(in GTD, any document belongs to a project)*
+- project<sup> 4</sup> (inspired in twitter mention): **@**
 
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
@@ -78,7 +78,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         On projects you can add bundle name (if existent) to reduce the need of memorization:
         Example: #large investor@house in lisbon
 
-- subproject<sup> 4</sup> (inspired in object oriented programming): **.**
+- subproject<sup> 5</sup> (inspired in object oriented programming): **.**
 
     	Inside projects you can have subprojects:
         Example: .building permit
@@ -122,12 +122,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         If you use it often (in theory you don't, they are archived projects):
         Shortcut to {archive}
 
-- and some *temporary shortcuts* to specific folders that you use a lot:
-
-		Example: #large investor@house in lisbon
-		Example: [work] #large investor
-		Example: [personal] #friends
-        Example: @house in lisbon.building permit
+- and some *temporary shortcuts* to specific folders that you use a lot.
 
 ===
 ####Others:
@@ -177,8 +172,9 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 <sup>Notes:</sup><br>
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
 <sup>2 - Hamster-gtd was tested in a Windows PC and Evernote.</sup><br>
-<sup>3 - The hamster cheeks.. :)</sup><br>
-<sup>4 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
+<sup>3 - The hamster cheeks :)</sup><br>
+<sup>5 - In GTD any document belongs to a project.</sup><br>
+<sup>5 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
 
 ---
 
