@@ -20,8 +20,8 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 **Organize your workflow:**
 
-- [Actions](#actions)
-- [Lists](#lists)
+- [Actions and briefings](#actions-and-briefings)
+- [Cabinet](#cabinet)
 
 ---
 ###// Organize your documents
@@ -142,9 +142,11 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ###// Organize your workflow
 
 ===
-####Actions:
+####Actions and briefings:
 
-- in GTD, undivisible tasks are called actions. Actions are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- in GTD, undivisible tasks are called actions. A list of actions is called briefing.
+
+- actions and briefings are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
 - if you need to detail an action: **( )**
 
@@ -160,12 +162,9 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         Use it in the beggining of the line to allow sorting:
         Example: % going to bank
 
-####Lists:
+####Cabinet:
 
-- lists are also managed in Evernote. There are 2 types of lists:
-
-        Briefing (list of actions)
-        Cabinet (list of references)
+- to simplify and optimize your workflow, your project references and notes are stored here (not inside project folders). They are also managed in Evernote.
 
 ---
 
