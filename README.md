@@ -144,7 +144,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ===
 ####Actions and briefings:
 
-- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*.
+- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*<sup> 6</sup>.
 
 - actions and briefings are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
@@ -173,7 +173,8 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 <sup>2 - Hamster-gtd was tested in a Windows PC and Evernote.</sup><br>
 <sup>3 - The hamster cheeks :)</sup><br>
 <sup>4 - In GTD any document belongs to a project.</sup><br>
-<sup>5 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup>
+<sup>5 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup><br>
+<sup>6 - Innovation by Hamster-gtd.</sup>
 
 ---
 
