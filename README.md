@@ -101,7 +101,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 - files named using folders logic or another naming system relevant to your job.
 
         Example using folder's naming logic: plan+0.1.2
-        Example using a naming system relevant to your job: @ARC.EXE-plan+0.1.2
+        Example using other naming system: @ARC.EXE-plan+0.1.2
 
 - archived file using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch** 
         
@@ -114,7 +114,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ===
 ####How to navigate through your documents:
 
-- you only need 2 *permanent shortcuts* to navigate your documents: 
+- you only need 2 *permanent desktop shortcuts* to navigate your documents: 
 
         Shortcut to {inbox}
         Shortcut to {current}
@@ -122,15 +122,15 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         If you use it often (in theory you don't, they are archived projects):
         Shortcut to {archive}
 
-- and some *temporary shortcuts* to specific folders that you use a lot.
+- and some *temporary desktop shortcuts* to specific folders that you use a lot.
 
 ===
 ####Others:
 
-- use UpperCamelCase, lowerCamelCase, snake_case or spaces:
+- use camelCase, PascalCase, snake_case or spaces:
 
-        Example using lowerCamelCase: #largeInvestor@houseInLisbon
-        Example using UpperCamelCase: #LargeInvestor@HouseInLisbon
+        Example using camelCase: #largeInvestor@houseInLisbon
+        Example using PascalCase: #LargeInvestor@HouseInLisbon
         Example using snake_case: #large_investor@house_in_lisbon
         Example using spaces: #large investor@house in lisbon  
 
