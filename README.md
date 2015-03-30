@@ -51,7 +51,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
     
 - project scope: **[ ]** 
 
-        Inside folder {inbox} there are no permanent folders, just temporary stuff.
+        Inside folder {inbox} there aren't permanent folders, just temporary stuff.
 
         Inside folder {current} there are 2 folders with project scopes:
         [personal], [work]
@@ -144,7 +144,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ===
 ####Actions and briefings:
 
-- in GTD, undivisible tasks are called actions. A list of actions is called briefing.
+- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*.
 
 - actions and briefings are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
