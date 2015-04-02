@@ -4,7 +4,7 @@ Hamster-GTD
 
 Organize your documents and workflow. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup><sup> 2</sup>, using:
 
-- [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of a project notation.
+- [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of a project folders notation.
 - [SemVer](http://www.semver.org/) for file versioning.
 - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) to manage actions in Evernote.
 
@@ -12,8 +12,8 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 **Organize your documents:**
 
-- [Main folders](#main-folders)
-- [Project folders](#project-folders)
+- [Main folder organization](#main-folder-organization)
+- [Project folders organization](#project-folders-organization)
 - [Files](#files)
 - [How to navigate through your documents](#how-to-navigate-through-your-documents)
 - [Others](#others)
@@ -27,20 +27,20 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ###// Organize your documents
 
 ===
-####Main folders:
+####Main folder organization:
 
-**ALL CAPS {project status} [project scope]**
+**YOUR FOLDER {project status} [project scope]**
 
-- your main folder<sup> 3</sup>: **ALL CAPS**
+- your folder: **ALL CAPS**
 
         First of all create a folder in a safe place of your disk.
-        ALL your stuff will be stored inside this folder named with your name 
-        or/and surname using ALL CAPS.
+        Rename it with your name or/and surname using ALL CAPS.
+        ALL your stuff will be stored here - the hamster cheeks :)
         Example: JOHN
 
 - project status: **{ }**
 
-        Inside your main folder there are 3 folders:
+        Inside your folder there are 3 folders:
         {inbox}, {current} and {archive}
 
         Resuming:
@@ -51,16 +51,17 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
     
 - project scope: **[ ]** 
 
-        Inside folder {inbox} there aren't permanent folders, just temporary stuff.
+        Resuming, inside:
 
-        Inside folder {current} there are 2 folders with project scopes:
-        [personal], [work]
-    
-        Inside folder {archive} there are 2 folders with project scopes and archive symbol: 
-        +[personal], +[work]
+        {inbox} there aren't permanent folders, just temporary stuff.
+        {current} there are 2 folders: [personal], [work]
+        {archive} there are 2 folders with archive symbol: +[personal], +[work]
+
+        Inside these 2 folders with project scopes we will have project folders.
+        Simple.
 
 ===
-####Project folders:
+####Project folders organization:
 
 **# bundle @ project . subproject - folder - nested folder**
 
@@ -70,7 +71,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         Example: #large investor (bundle with all projects of a client)
         Example: #family (bundle with all your family related projects)
 
-- project<sup> 4</sup> (inspired in twitter mention): **@**
+- project<sup> 3</sup> (inspired in twitter mention): **@**
 
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
@@ -78,7 +79,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
         On projects you can add bundle name (if existent) to reduce the need of memorization:
         Example: #large investor@house in lisbon
 
-- subproject<sup> 5</sup> (inspired in object oriented programming): **.**
+- subproject<sup> 4</sup> (inspired in object oriented programming): **.**
 
     	Inside projects you can have subprojects:
         Example: .building permit
@@ -98,7 +99,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ===
 ####Files:
 
-- files named using folders logic or another naming system relevant to your job.
+- files named using folders logic or other naming system relevant to your job.
 
         Example using folder's naming logic: plan+0.1.2
         Example using other naming system: @ARC.EXE-plan+0.1.2
@@ -144,7 +145,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ===
 ####Actions and briefings:
 
-- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*<sup> 6</sup>.
+- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*<sup> 5</sup>.
 
 - actions and briefings are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
@@ -164,17 +165,16 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, your project references and notes are stored here (not inside project folders). They are also managed in Evernote.
+- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders). They are also managed in Evernote.
 
 ---
 
 <sup>Notes:</sup><br>
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
 <sup>2 - Hamster-gtd was tested in a Windows PC and Evernote.</sup><br>
-<sup>3 - The hamster cheeks :)</sup><br>
-<sup>4 - In GTD any document belongs to a project.</sup><br>
-<sup>5 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup><br>
-<sup>6 - Innovation by Hamster-gtd.</sup>
+<sup>3 - In GTD any document belongs to a project.</sup><br>
+<sup>4 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup><br>
+<sup>5 - Innovation by Hamster-gtd.</sup>
 
 ---
 
