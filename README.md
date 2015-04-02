@@ -6,7 +6,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
 - [SemVer](http://www.semver.org/) for file versioning.
-- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) to manage actions in Evernote.
+- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) to manage the workflow in Evernote.
 
 ###So, how can you start?
 
@@ -41,7 +41,7 @@ ALL your stuff will be stored here - the hamster cheeks :)
 
 - project status: **{ }**
 
-        Inside your folder there are 3 folders:
+        Inside your main folder there are 3 folders:
         {inbox}, {current} and {archive}
 
         Resuming:
@@ -58,7 +58,7 @@ ALL your stuff will be stored here - the hamster cheeks :)
         {current} there are 2 folders: [personal], [work]
         {archive} there are 2 folders with archive symbol: +[personal], +[work]
 
-        Inside these 2 folders with project scopes we will have the project folders.
+        Inside these 2 folders with project scopes we will store the project folders.
 
 ===
 ####Project folders organization:
