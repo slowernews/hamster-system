@@ -164,6 +164,7 @@ ALL your stuff will be stored here - the hamster cheeks :)
 
 - to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders). They are also managed in Evernote.
 
+- name your notes using project folders notation:
 
         Note with all references regarding a particular subproject:
         Example: @house in lisbon.building permit
