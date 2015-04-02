@@ -12,7 +12,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 **Organize your documents:**
 
-- [Main folder organization](#main-folder-organization)
+- [Main organization](#main-organization)
 - [Project folders organization](#project-folders-organization)
 - [Files](#files)
 - [How to navigate through your documents](#how-to-navigate-through-your-documents)
@@ -27,15 +27,16 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ###// Organize your documents
 
 ===
-####Main folder organization:
+####Main organization:
+
+First of all create a folder in a safe place of your disk.
+ALL your stuff will be stored here - the hamster cheeks :)
 
 **YOUR FOLDER {project status} [project scope]**
 
-- your folder: **ALL CAPS**
+- your folder: **YOUR NAME**
 
-        First of all create a folder in a safe place of your disk.
-        Rename it with your name or/and surname using ALL CAPS.
-        ALL your stuff will be stored here - the hamster cheeks :)
+		Rename it with your name or/and surname using ALL CAPS.
         Example: JOHN
 
 - project status: **{ }**
