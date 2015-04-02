@@ -31,7 +31,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 **YOUR MAIN FOLDER {project status} [project scope]**
 
-First of all create a folder in a safe place of your disk.</br>
+First of all create a folder in a safe place of your disk.
 ALL your stuff will be stored here - the hamster cheeks :)
 
 - your main folder: **YOUR NAME**
@@ -42,9 +42,6 @@ ALL your stuff will be stored here - the hamster cheeks :)
 - project status: **{ }**
 
         Inside your main folder there are 3 folders:
-        {inbox}, {current} and {archive}
-
-        Resuming:
 
         {inbox} is the folder where you put new documents until deciding what to do with them.
         {current} is the folder where you store your current projects.
