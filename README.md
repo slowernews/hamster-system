@@ -29,12 +29,12 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ===
 ####Main organization:
 
-**YOUR FOLDER {project status} [project scope]**
+**YOUR MAIN FOLDER {project status} [project scope]**
 
 First of all create a folder in a safe place of your disk.</br>
 ALL your stuff will be stored here - the hamster cheeks :)
 
-- your folder: **YOUR NAME**
+- your main folder: **YOUR NAME**
 
 		Rename your folder with your name or/and surname using ALL CAPS.
         Example: JOHN
