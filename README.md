@@ -4,7 +4,7 @@ Hamster-GTD
 
 Organize your documents and workflow. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup><sup> 2</sup>, using:
 
-- [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of a project folders notation.
+- [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
 - [SemVer](http://www.semver.org/) for file versioning.
 - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) to manage actions in Evernote.
 
@@ -29,14 +29,14 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ===
 ####Main organization:
 
-First of all create a folder in a safe place of your disk.
-ALL your stuff will be stored here - the hamster cheeks :)
-
 **YOUR FOLDER {project status} [project scope]**
+
+First of all create a folder in a safe place of your disk.</br>
+ALL your stuff will be stored here - the hamster cheeks :)
 
 - your folder: **YOUR NAME**
 
-		Rename it with your name or/and surname using ALL CAPS.
+		Rename your folder with your name or/and surname using ALL CAPS.
         Example: JOHN
 
 - project status: **{ }**
@@ -58,8 +58,7 @@ ALL your stuff will be stored here - the hamster cheeks :)
         {current} there are 2 folders: [personal], [work]
         {archive} there are 2 folders with archive symbol: +[personal], +[work]
 
-        Inside these 2 folders with project scopes we will have project folders.
-        Simple.
+        Inside these 2 folders with project scopes we will have the project folders.
 
 ===
 ####Project folders organization:
