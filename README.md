@@ -32,7 +32,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 *YOUR MAIN FOLDER {project status} [project scope]*
 
 First of all create a folder in a safe place of your disk.
-ALL your stuff will be stored here - the hamster cheeks :)
+ALL your stuff will be stored here<sup> 3</sup>. 
 
 - your main folder: **YOUR NAME**
 
@@ -68,7 +68,7 @@ ALL your stuff will be stored here - the hamster cheeks :)
         Example: #large investor (bundle with all projects of a client)
         Example: #family (bundle with all your family related projects)
 
-- project<sup> 3</sup> (inspired in twitter mention): **@**
+- project<sup> 4</sup> (inspired in twitter mention): **@**
 
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
@@ -76,7 +76,7 @@ ALL your stuff will be stored here - the hamster cheeks :)
         On projects you can add bundle name (if existent) to reduce the need of memorization:
         Example: #large investor@house in lisbon
 
-- subproject<sup> 4</sup> (inspired in object oriented programming): **.**
+- subproject<sup> 5</sup> (inspired in object oriented programming): **.**
 
     	Inside projects you can have subprojects:
         Example: .building permit
@@ -142,7 +142,7 @@ ALL your stuff will be stored here - the hamster cheeks :)
 ===
 ####Actions and briefings:
 
-- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*<sup> 5</sup>. Actions and briefings are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*<sup> 6</sup>. Actions and briefings are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
 - if you need to detail an action: **( )**
 
@@ -171,9 +171,10 @@ ALL your stuff will be stored here - the hamster cheeks :)
 <sup>Notes:</sup><br>
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
 <sup>2 - Hamster-gtd was tested in a Windows PC and Evernote.</sup><br>
-<sup>3 - In GTD any document belongs to a project.</sup><br>
-<sup>4 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup><br>
-<sup>5 - Innovation by Hamster-gtd.</sup>
+<sup>3 - The hamster cheeks :)</sup><br>
+<sup>4 - In GTD any document belongs to a project.</sup><br>
+<sup>5 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup><br>
+<sup>6 - Innovation by Hamster-gtd.</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
