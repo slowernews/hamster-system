@@ -6,14 +6,14 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
 - [SemVer](http://www.semver.org/) for file versioning.
-- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) to manage the workflow in Evernote.
+- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow management in Evernote.
 
 ###So, how can you start?
 
 **Organize your documents:**
 
-- [Main organization](#main-organization)
-- [Project folders organization](#project-folders-organization)
+- [Main folder](#main-folder)
+- [Project folders](#project-folders)
 - [Files](#files)
 - [How to navigate through your documents](#how-to-navigate-through-your-documents)
 - [Others](#others)
@@ -27,9 +27,9 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ###// Organize your documents
 
 ===
-####Main organization:
+####Main folder:
 
-**YOUR MAIN FOLDER {project status} [project scope]**
+*YOUR MAIN FOLDER {project status} [project scope]*
 
 First of all create a folder in a safe place of your disk.
 ALL your stuff will be stored here - the hamster cheeks :)
@@ -49,18 +49,18 @@ ALL your stuff will be stored here - the hamster cheeks :)
     
 - project scope: **[ ]** 
 
-        Resuming, inside:
+        Inside:
 
         {inbox} there aren't permanent folders, just temporary stuff.
         {current} there are 2 folders: [personal], [work]
         {archive} there are 2 folders with archive symbol: +[personal], +[work]
 
-        Inside these 2 folders with project scopes we will store the project folders.
+        Inside these 2 folders with project scopes we will store our projects.
 
 ===
-####Project folders organization:
+####Project folders:
 
-**# bundle @ project . subproject - folder - nested folder**
+*# bundle @ project . subproject - folder - nested folder*
 
 - bundle of projects (inspired in twitter hashtag): **#**
 
@@ -160,7 +160,7 @@ ALL your stuff will be stored here - the hamster cheeks :)
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders). They are also managed in Evernote.
+- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders). They are also managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
 - name your notes using project folders notation:
 
@@ -168,7 +168,6 @@ ALL your stuff will be stored here - the hamster cheeks :)
         Example: @house in lisbon.building permit
 
 ---
-
 <sup>Notes:</sup><br>
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
 <sup>2 - Hamster-gtd was tested in a Windows PC and Evernote.</sup><br>
@@ -177,5 +176,4 @@ ALL your stuff will be stored here - the hamster cheeks :)
 <sup>5 - Innovation by Hamster-gtd.</sup>
 
 ---
-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
