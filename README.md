@@ -29,8 +29,6 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ===
 ####Main folder:
 
-*MAIN FOLDER {project status} [project scope]*
-
 First of all create a folder in a safe place of your disk.
 ALL your stuff will be stored here<sup> 3</sup>. 
 
