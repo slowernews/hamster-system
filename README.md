@@ -29,7 +29,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 ===
 ####Main folder:
 
-*YOUR MAIN FOLDER {project status} [project scope]*
+*MAIN FOLDER {project status} [project scope]*
 
 First of all create a folder in a safe place of your disk.
 ALL your stuff will be stored here<sup> 3</sup>. 
@@ -55,7 +55,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
         {current} there are 2 folders: [personal], [work]
         {archive} there are 2 folders with archive symbol: +[personal], +[work]
 
-        Inside these 2 folders with project scopes we will store our projects.
+        Inside these 2 folders with project scopes you will store your projects.
 
 ===
 ####Project folders:
