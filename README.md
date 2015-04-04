@@ -32,7 +32,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 First of all create a folder in a safe place of your disk.
 ALL your stuff will be stored here<sup> 3</sup>. 
 
-- your main folder: **YOUR NAME**
+- main folder: **YOUR NAME**
 
 		Rename your folder with your name or/and surname using ALL CAPS.
         Example: JOHN
