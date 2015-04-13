@@ -1,7 +1,6 @@
 Hamster-GTD
 ===========
 
-
 Organize your documents and workflow. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup><sup> 2</sup>, using:
 
 - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
@@ -165,6 +164,9 @@ ALL your stuff will be stored here<sup> 3</sup>.
         Note with all references regarding a particular subproject:
         Example: @house in lisbon.building permit
 
+- use notes to keep your collections of bookmarks for easy access and share:
+
+		Example: #resources@frontend.javascript
 ---
 <sup>Notes:</sup><br>
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
