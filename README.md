@@ -164,7 +164,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
         Note with all references regarding a particular subproject:
         Example: @house in lisbon.building permit
 
-- use notes to keep your collections of bookmarks for easy access and share:
+- use notes to keep your bookmark collections. It will allow easy access and share:
 
 		Example: #resources@frontend.javascript
 ---
