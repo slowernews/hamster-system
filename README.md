@@ -52,7 +52,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
         {current} there are 2 folders: [personal], [work]
         {archive} there are 2 folders with archive symbol: +[personal], +[work]
 
-        Inside these 2 folders with project scopes you will store your projects.
+        Inside these folders with project scopes you will store your projects.
 
 ===
 ####Project folders:
@@ -86,7 +86,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
     	Inside subprojects you can have folders:
         Example: -plans
 
-        On nested folders always add previous folder(s) name to reduce the need of memorization:
+        On nested folders you can add previous folder(s) name to reduce the need of memorization:
         Example: -drawings-sections
         Example: -drawings-details-wall
 
@@ -147,7 +147,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
         Example: Write a mail to Susy (your comment here)
 
         Insert a date: (year-month-day=hour)
-        You can use it in the beggining of the line to allow chronological sorting.
+        Use it in the beggining of the line to allow chronological sorting:
         Example: (2012-11-29=9h) Doctor appointment
 
 - prefix for a finished action (before delete or store it): **%**
@@ -166,7 +166,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 
 - use notes to keep your bookmark collections. It will allow easy access and share:
 
-		Example: #resources@frontend.javascript
+		Example: #resources@frontend.bootstrap
 ---
 <sup>Notes:</sup><br>
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
