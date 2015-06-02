@@ -152,7 +152,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
         Insert dates in the beggining of the line to allow chronological sorting:
         Example: (2012-11-29=9h) Doctor appointment
 
-        Insert a starting date: (date >) or 
+        Insert a starting date: (date >)
         Example: (2014-12-10 >) Waiting for client feedback after this date
 
         Insert a deadline date: (date <)
