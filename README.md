@@ -141,7 +141,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 ===
 ####Actions and briefings:
 
-- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*<sup> 6</sup>. Actions and briefings are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*<sup> 6</sup>. Actions and briefings are managed in Evernote using Hamster-note (a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)).
 
 - if you need to detail an action: **( )**
 
@@ -165,7 +165,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders). They are managed in Evernote using a Hamster-note a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders). They are managed in Evernote using Hamster-note (a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)).
 
 - name your notes using project folders notation:
 
