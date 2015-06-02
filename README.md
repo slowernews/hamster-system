@@ -151,6 +151,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
         Insert a date: (year-month-day=hour)
         Use it in the beggining of the line to allow chronological sorting:
         Example: (2012-11-29=9h) Doctor appointment
+        Example: (>2014-12-10) Cliente promised feedback after this date
 
 - prefix for a finished action (before delete or store it): **%**
 
@@ -159,7 +160,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders). They are managed in Evernote using a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders). They are managed in Evernote using a Hamster-note a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
 - name your notes using project folders notation:
 
