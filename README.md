@@ -5,7 +5,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
 - [SemVer](http://www.semver.org/) for file versioning.
-- [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow management in Evernote.
+- Hamster-note<sup> 6</sup> for workflow management in Evernote.
 
 ###So, how can you start?
 
@@ -182,7 +182,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 <sup>3 - The hamster cheeks :)</sup><br>
 <sup>4 - In GTD any document belongs to a project.</sup><br>
 <sup>5 - Innovation by Hamster-gtd.</sup><br>
-<sup>6 - Hamster-note is a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)</sup>
+<sup>6 - Hamster-note is a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
