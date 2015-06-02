@@ -148,10 +148,15 @@ ALL your stuff will be stored here<sup> 3</sup>.
         Insert a comment: (comment)
         Example: Write a mail to Susy (your comment here)
 
-        Insert a date: (year-month-day=hour)
+        Insert a strict date: (year-month-day=hour)
         Use it in the beggining of the line to allow chronological sorting:
         Example: (2012-11-29=9h) Doctor appointment
-        Example: (>2014-12-10) Cliente promised feedback after this date
+
+        Insert a starting date: (> date) or 
+        Example: (> 2014-12-10) Waiting for client feedback after this date
+
+        Insert a deadline date: (date !)
+        Example: (2014-12-10 !) Pay electricity bill
 
 - prefix for a finished action (before delete or store it): **%**
 
