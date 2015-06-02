@@ -153,10 +153,10 @@ ALL your stuff will be stored here<sup> 3</sup>.
         Example: (2012-11-29=9h) Doctor appointment
 
         Insert a starting date: (date >>)
-        Example: (2014-12-10 >>) Waiting for client feedback after this date
+        Example: (2013-03-10 >>) Waiting for client feedback after this date
 
         Insert a deadline date: (date <<)
-        Example: (2014-12-10 <<) Pay electricity bill
+        Example: (2014-10-22 <<) Pay electricity bill before this date
 
 - prefix for a finished action (before delete or store it): **%**
 
