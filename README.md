@@ -74,7 +74,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
         you can also add the bundle name (if existent):
         Example: #large investor@house in lisbon
 
-- subproject<sup> 5</sup> (inspired in object oriented programming): **.**
+- subproject (inspired in object oriented programming): **.**
 
     	Inside projects you can have subprojects:
         Example: .building permit
@@ -141,7 +141,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 ===
 ####Actions and briefings:
 
-- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*<sup> 6</sup>. Actions and briefings are managed in Evernote using Hamster-note (a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)).
+- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*<sup> 5</sup>. Actions and briefings are managed in Evernote using Hamster-note<sup> 6</sup>.
 
 - if you need to detail an action: **( )**
 
@@ -165,7 +165,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders). They are managed in Evernote using Hamster-note (a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)).
+- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders). They are managed in Evernote using Hamster-note<sup> 6</sup>.
 
 - name your notes using project folders notation:
 
@@ -181,8 +181,8 @@ ALL your stuff will be stored here<sup> 3</sup>.
 <sup>2 - Hamster-gtd was tested in a Windows PC and Evernote.</sup><br>
 <sup>3 - The hamster cheeks :)</sup><br>
 <sup>4 - In GTD any document belongs to a project.</sup><br>
-<sup>5 - You can optionally use an underscore instead of a dot but beware of searching dificulties in Evernote.</sup><br>
-<sup>6 - Innovation by Hamster-gtd.</sup>
+<sup>5 - Innovation by Hamster-gtd.</sup><br>
+<sup>6 - Hamster-note is a variant of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
