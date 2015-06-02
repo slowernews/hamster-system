@@ -149,7 +149,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
         Example: Write a mail to Susy (your comment here)
 
         Insert a strict date: (year-month-day=hour)
-        Use it in the beggining of the line to allow chronological sorting:
+        Insert dates in the beggining of the line to allow chronological sorting:
         Example: (2012-11-29=9h) Doctor appointment
 
         Insert a starting date: (> date) or 
