@@ -40,9 +40,9 @@ ALL your stuff will be stored here<sup> 3</sup>.
 
         Inside your main folder there are 3 folders:
 
-        {inbox} is the folder where you put new documents until deciding what to do with them.
-        {current} is the folder where you store your current projects.
-        {archive} is the folder where you store your archived projects.
+        {inbox} folder where you put new documents until deciding what to do with them.
+        {current} folder where you store your current projects.
+        {archive} folder where you store your archived projects.
     
 - project scope: **[ ]** 
 
