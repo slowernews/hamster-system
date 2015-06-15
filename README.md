@@ -6,7 +6,7 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 - *Hamster-folder* for documents management, inspired in:
   - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
   - [SemVer](http://www.semver.org/) for file versioning.
-- *Hamster-note* for workflow management, inspired:
+- *Hamster-note* for workflow management, inspired in:
   - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow organization in [Evernote](https://www.evernote.com/).
 
 ###So, how can you start?
@@ -181,7 +181,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 
 - use notes to keep your bookmark collections. It will allow easy access and share:
 
-		Example: #resources@frontend.bootstrap
+		Example: @resources.frontend-bootstrap
 
 ####How does it look:
 
