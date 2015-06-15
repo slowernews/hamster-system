@@ -179,7 +179,7 @@ ALL your stuff will be stored here<sup> 2</sup>.
 
 ####How does it look?
 
-- example of hamster-note (a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)):
+- example of hamster-GTD workflow management (a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)) in [Evernote](https://www.evernote.com/):
 
 ![hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
 
