@@ -8,7 +8,7 @@ Hamster-GTD has 2 components:
   - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
   - [SemVer](http://www.semver.org/) for file versioning.
 
-- *Hamster-note* for workflow management in [Evernote](https://www.evernote.com/), inspired in [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
+- *Hamster-note* (inspired in [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)) for workflow management in [Evernote](https://www.evernote.com/).
 
 ###So, how can you start?
 
