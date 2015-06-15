@@ -138,7 +138,7 @@ ALL your stuff will be stored here<sup> 2</sup>.
 ===
 ####Actions:
 
-- in GTD, undivisible tasks are called *actions*. Actions are managed in Evernote.
+- in GTD, undivisible tasks are called *actions*. Actions are managed in [Evernote](https://www.evernote.com/).
 
 - if you need to detail an action: **( )**
 
@@ -162,11 +162,11 @@ ALL your stuff will be stored here<sup> 2</sup>.
 
 ####Briefings:
 
-- a list of actions is called *briefing*<sup> 5</sup>. Briefings are managed in Evernote.
+- a list of actions is called *briefing*<sup> 5</sup>. Briefings are managed in [Evernote](https://www.evernote.com/).
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders) and managed in Evernote.
+- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders) and managed in [Evernote](https://www.evernote.com/).
 
 - name your notes using project folders notation:
 
@@ -179,7 +179,7 @@ ALL your stuff will be stored here<sup> 2</sup>.
 
 ####How does it look?
 
-- example of hamster-GTD workflow management (a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)) in [Evernote](https://www.evernote.com/):
+- workflow management in Hamster-GTD is a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). Example:
 
 ![hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
 
@@ -189,7 +189,7 @@ ALL your stuff will be stored here<sup> 2</sup>.
 <sup>2 - The hamster cheeks :)</sup><br>
 <sup>3 - In GTD any document belongs to a project.</sup><br>
 <sup>4 - snake_case is not recommended due to search difficulties in Evernote</sup><br>
-<sup>5 - Innovation by Hamster-gtd.</sup>
+<sup>5 - Innovation by Hamster-GTD.</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
