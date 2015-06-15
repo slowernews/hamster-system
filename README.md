@@ -185,7 +185,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 
 ####How does it look?:
 
-[hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
+![hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
 
 ---
 <sup>Notes:</sup><br>
