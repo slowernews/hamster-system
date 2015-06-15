@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Organize your documents and workflow. Boost your productivity with this ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1 2</sup>. Hamster-GTD has 2 components:
+Organize your documents and workflow. Boost your productivity with this ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup>. Hamster-GTD has 2 components:
 
 - *Hamster-folder* for documents management, using:
   - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
@@ -33,7 +33,7 @@ Organize your documents and workflow. Boost your productivity with this ultra-si
 ####Main folder:
 
 First of all create a folder in a safe place of your disk.
-ALL your stuff will be stored here<sup> 3</sup>. 
+ALL your stuff will be stored here<sup> 2</sup>. 
 
 - main folder: **YOUR NAME**
 
@@ -69,7 +69,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
         Example: #large investor (bundle with all projects of a client)
         Example: #family (bundle with all your family related projects)
 
-- project<sup> 4</sup> (inspired in twitter mention): **@**
+- project<sup> 3</sup> (inspired in twitter mention): **@**
 
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
@@ -128,7 +128,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 ===
 ####Others:
 
-- use camelCase, PascalCase or spaces<sup> 5</sup>:
+- use camelCase, PascalCase or spaces<sup> 4</sup>:
 
         Example using camelCase: #largeInvestor@houseInLisbon
         Example using PascalCase: #LargeInvestor@HouseInLisbon
@@ -168,7 +168,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 
 ####Briefings:
 
-- a list of actions is called *briefing*<sup> 6</sup>. Briefings are managed in Evernote.
+- a list of actions is called *briefing*<sup> 5</sup>. Briefings are managed in Evernote.
 
 ####Cabinet:
 
@@ -192,11 +192,10 @@ ALL your stuff will be stored here<sup> 3</sup>.
 ---
 <sup>Notes:</sup><br>
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
-<sup>2 - Hamster-gtd was tested in a Windows PC and Evernote.</sup><br>
-<sup>3 - The hamster cheeks :)</sup><br>
-<sup>4 - In GTD any document belongs to a project.</sup><br>
-<sup>5 - snake_case is not recommended due to search difficulties in Evernote</sup><br>
-<sup>6 - Innovation by Hamster-gtd.</sup>
+<sup>2 - The hamster cheeks :)</sup><br>
+<sup>3 - In GTD any document belongs to a project.</sup><br>
+<sup>4 - snake_case is not recommended due to search difficulties in Evernote</sup><br>
+<sup>5 - Innovation by Hamster-gtd.</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
