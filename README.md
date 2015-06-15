@@ -197,7 +197,7 @@ Main differences:
            4-Waiting (actions with a starting date to be done/get feedback)
            5-Calendar (actions with a precise/deadline date to be done)
 
-- screenshot example:
+- screenshot of Hamster-GTD in Evernote:
 
 ![hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
 
