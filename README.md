@@ -1,13 +1,14 @@
 Hamster-GTD
 ===========
 
-Organize your documents and workflow. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup><sup> 2</sup>, using:
+Organize your documents and workflow. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1 2</sup>.<br>
+Hamster-GTD has 2 components:
 
-- *Hamster-folder* for documents management, inspired in:
+- *Hamster-folder* for documents management, using:
   - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
   - [SemVer](http://www.semver.org/) for file versioning.
-- *Hamster-note* for workflow management, inspired in:
-  - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow organization in [Evernote](https://www.evernote.com/).
+
+- *Hamster-note* for workflow management in [Evernote](https://www.evernote.com/), inspired in [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).
 
 ###So, how can you start?
 
@@ -183,7 +184,7 @@ ALL your stuff will be stored here<sup> 3</sup>.
 
 		Example: @resources.frontend-bootstrap
 
-####How does it look?:
+####How does it look?
 
 ![hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
 
