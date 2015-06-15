@@ -3,11 +3,11 @@ Hamster-GTD
 
 Organize your documents and workflow. An ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup><sup> 2</sup>, using:
 
-- Hamster-folder for documents management, based on:
+- *Hamster-folder* for documents management, inspired in:
   - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
   - [SemVer](http://www.semver.org/) for file versioning.
-- Hamster-note for workflow management, based on:
-  - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow organization in [Evernote](https://www.evernote.com/)
+- *Hamster-note* for workflow management, inspired:
+  - [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow organization in [Evernote](https://www.evernote.com/).
 
 ###So, how can you start?
 
@@ -21,8 +21,10 @@ Organize your documents and workflow. An ultra-simple implementation of [GTD](ht
 
 **Organize your workflow:**
 
-- [Actions and briefings](#actions-and-briefings)
+- [Actions](#actions)
+- [Briefings](#briefings)
 - [Cabinet](#cabinet)
+- [How does it look?](#how-does-it-look)
 
 ---
 ###// Organize your documents
@@ -126,11 +128,10 @@ ALL your stuff will be stored here<sup> 3</sup>.
 ===
 ####Others:
 
-- use camelCase, PascalCase, snake_case or spaces:
+- use camelCase, PascalCase or spaces<sup> 5</sup>:
 
         Example using camelCase: #largeInvestor@houseInLisbon
         Example using PascalCase: #LargeInvestor@HouseInLisbon
-        Example using snake_case: #large_investor@house_in_lisbon
         Example using spaces: #large investor@house in lisbon  
 
 - but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
@@ -141,9 +142,9 @@ ALL your stuff will be stored here<sup> 3</sup>.
 ###// Organize your workflow
 
 ===
-####Actions and briefings:
+####Actions:
 
-- in GTD, undivisible tasks are called *actions*. A list of actions is called *briefing*<sup> 5</sup>. Actions and briefings are managed in Evernote using Hamster-note<sup> 6</sup>.
+- in GTD, undivisible tasks are called *actions*. Actions are managed in Evernote.
 
 - if you need to detail an action: **( )**
 
@@ -165,9 +166,13 @@ ALL your stuff will be stored here<sup> 3</sup>.
         Use it in the beggining of the line to allow sorting:
         Example: % going to bank
 
+####Briefings:
+
+- a list of actions is called *briefing*<sup> 6</sup>. Briefings are managed in Evernote.
+
 ####Cabinet:
 
-- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders). They are managed in Evernote using Hamster-note<sup> 6</sup>.
+- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders) and managed in Evernote.
 
 - name your notes using project folders notation:
 
@@ -177,13 +182,19 @@ ALL your stuff will be stored here<sup> 3</sup>.
 - use notes to keep your bookmark collections. It will allow easy access and share:
 
 		Example: #resources@frontend.bootstrap
+
+####How does it look:
+
+- insert screenshot
+
 ---
 <sup>Notes:</sup><br>
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
 <sup>2 - Hamster-gtd was tested in a Windows PC and Evernote.</sup><br>
 <sup>3 - The hamster cheeks :)</sup><br>
 <sup>4 - In GTD any document belongs to a project.</sup><br>
-<sup>5 - Innovation by Hamster-gtd.</sup>
+<sup>5 - snake_case is not recommended due to search difficulties in Evernote</sup><br>
+<sup>6 - Innovation by Hamster-gtd.</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
