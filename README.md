@@ -179,18 +179,18 @@ ALL your stuff will be stored here<sup> 2</sup>.
 
 ####How does it look?
 
-- workflow management in Hamster-GTD is a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). Main differences:
+- workflow management in Hamster-GTD is a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf). Differences:
   - 4 Notebooks:
-    1. Inbox
-    2. Actions
-    3. Briefings
-    4. Cabinet
+    - 1.Inbox
+    - 2.Actions
+    - 3.Briefings
+    - 4.Cabinet
   - Simplified *.When* tags:
-    1. Next
-    2. Soon
-    3. Someday & maybe
-    4. Waiting
-    5. Calendar
+    - 1-Next
+    - 2-Soon
+    - 3-Someday & maybe
+    - 4-Waiting
+    - 5-Calendar
 
 - Example:
 
