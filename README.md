@@ -1,8 +1,7 @@
 Hamster-GTD
 ===========
 
-Organize your documents and workflow. Boost your productivity with an ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1 2</sup>.<br>
-Hamster-GTD has 2 components:
+Organize your documents and workflow. Boost your productivity with this ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1 2</sup>. Hamster-GTD has 2 components:
 
 - *Hamster-folder* for documents management, using:
   - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
