@@ -166,7 +166,7 @@ ALL your stuff will be stored here<sup> 2</sup>.
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders) and managed in [Evernote](https://www.evernote.com/).
+- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders) and managed in [Evernote](https://www.evernote.com/). Cabinet holds items for reference that aren’t to-do.
 
 - name your notes using project folders notation:
 
@@ -179,8 +179,7 @@ ALL your stuff will be stored here<sup> 2</sup>.
 
 ####How does it look?
 
-- workflow management in Hamster-GTD is a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf).<br>.
-Main differences:
+- Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow management.Main differences:
 
   - 4 Notebooks:
 
@@ -189,7 +188,7 @@ Main differences:
            3.Briefings (to store all briefings)
            4.Cabinet (to store all notes/project references)
   
-  - Simplified *.When* action tags:
+  - Simplified *.When* tags for *actions*:
 
            1-Next (next actions to be done)
            2-Soon (actions in the queue to be done)
@@ -197,7 +196,7 @@ Main differences:
            4-Waiting (actions with a starting date)
            5-Calendar (actions with a precise/deadline date)
 
-- Example:
+- example:
 
 ![hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
 
@@ -206,7 +205,7 @@ Main differences:
 <sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
 <sup>2 - The hamster cheeks :)</sup><br>
 <sup>3 - In GTD any document belongs to a project.</sup><br>
-<sup>4 - snake_case is not recommended due to search difficulties in Evernote</sup><br>
+<sup>4 - snake_case is not recommended due to search difficulties in Evernote.</sup><br>
 <sup>5 - Innovation by Hamster-GTD.</sup>
 
 ---
