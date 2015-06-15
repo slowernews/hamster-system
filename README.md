@@ -179,7 +179,8 @@ ALL your stuff will be stored here<sup> 2</sup>.
 
 ####How does it look?
 
-- Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow management.Main differences:
+- Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow management.<br>
+Main differences:
 
   - 4 Notebooks:
 
@@ -193,10 +194,10 @@ ALL your stuff will be stored here<sup> 2</sup>.
            1-Next (next actions to be done)
            2-Soon (actions in the queue to be done)
            3-Someday & maybe (actions to be done later/someday & maybe)
-           4-Waiting (actions with a starting date)
-           5-Calendar (actions with a precise/deadline date)
+           4-Waiting (actions with a starting date to be done/get feedback)
+           5-Calendar (actions with a precise/deadline date to be done)
 
-- example:
+- screenshot example:
 
 ![hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
 
