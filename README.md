@@ -1,13 +1,7 @@
 Hamster-GTD
 ===========
 
-Organize your documents and workflow. Boost your productivity with this ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup>. Hamster-GTD has 2 components:
-
-- *Hamster-folder* for documents management, using:
-  - [Twitter](https://twitter.com/)'s concept of *#* and *@* as the basis of the project folders notation.
-  - [SemVer](http://www.semver.org/) for file versioning.
-
-- *Hamster-note* (a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)) for workflow management in [Evernote](https://www.evernote.com/).
+Organize your documents and workflow. Boost productivity with this ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup>.
 
 ###So, how can you start?
 
