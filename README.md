@@ -183,9 +183,9 @@ ALL your stuff will be stored here<sup> 3</sup>.
 
 		Example: @resources.frontend-bootstrap
 
-####How does it look:
+####How does it look?:
 
-- insert screenshot
+[hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
 
 ---
 <sup>Notes:</sup><br>
