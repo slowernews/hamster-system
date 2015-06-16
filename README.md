@@ -145,16 +145,16 @@ ALL your stuff will be stored here<sup> 2</sup>.
   - non-actionable items are called *notes* or *references*.
 
 - for workflow management, Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 1</sup>.<br>
-Main differences (you may check also, [how does it look](#how-does-it-look)):
+Main differences (you may also check [how does it look](#how-does-it-look)):
 
-  - Different notebook structure:
+  - different notebook structure:
 
            1.Inbox (temporary storage before deciding what to do with an item)
            2.Actions (to store all actions)
            3.Briefings (to store all briefings)
            4.Cabinet (to store all notes/project references)
   
-  - Simplified *.When* tags for *actions*:
+  - simplified *.When* tags for *actions*:
 
            1-Next (next actions to be done)
            2-Soon (actions in the queue to be done)
@@ -183,7 +183,7 @@ Main differences (you may check also, [how does it look](#how-does-it-look)):
 
 ####Briefings:
 
-- a list of actions is called *briefing*<sup> 5</sup>. Briefings are managed in one Evernote<sup> 5</sup> notebook.
+- a list of actions is called *briefing*. Briefings are managed in one Evernote<sup> 5</sup> notebook.
 
 ####Cabinet:
 
