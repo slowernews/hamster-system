@@ -199,7 +199,7 @@ Main differences (you may also check [how does it look](#how-does-it-look)):
 
 - screenshot of Hamster-GTD using Evernote<sup> 5</sup>.
 
-![hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
+![hamster-workflow-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.png)
 
 ---
 <sup>Notes:</sup><br>
