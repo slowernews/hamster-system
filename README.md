@@ -139,8 +139,13 @@ ALL your stuff will be stored here<sup> 2</sup>.
 ===
 ####Introduction:
 
-- Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow management.<br>
-Main differences:
+- Resuming, in Hamster-GTD:
+  - undivisible tasks are called *actions*.
+  - a list of actions is called *briefing*<sup> 5</sup>.
+  - non-actionable items are called *notes* or *references*.
+
+- for workflow management, Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 1</sup>.<br>
+Main differences (you may check also, [how does it look](#how-does-it-look)):
 
   - Different notebook structure:
 
@@ -159,7 +164,7 @@ Main differences:
 
 ####Actions:
 
-- in GTD, undivisible tasks are called *actions*. Actions are managed in an Evernote<sup> 6</sup> notebook.
+- undivisible tasks are called *actions*. Actions are managed in one Evernote<sup> 6</sup> notebook.
 
 - if you need to detail an action: **( )**
 
@@ -178,11 +183,11 @@ Main differences:
 
 ####Briefings:
 
-- a list of actions is called *briefing*<sup> 5</sup>. Briefings are managed in an Evernote<sup> 6</sup> notebook.
+- a list of actions is called *briefing*<sup> 5</sup>. Briefings are managed in one Evernote<sup> 6</sup> notebook.
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, items for reference that aren’t to-do (your project references and notes) are always stored here (not inside project folders) and managed in an Evernote<sup> 6</sup> notebook.
+- to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside project folders) and managed in one Evernote<sup> 6</sup> major notebook (and several nested notebooks).
 
 - name your notes using project folders notation:
 
