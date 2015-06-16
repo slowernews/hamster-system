@@ -15,6 +15,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 **Organize your workflow:**
 
+- [Introduction](#introduction)
 - [Actions](#actions)
 - [Briefings](#briefings)
 - [Cabinet](#cabinet)
@@ -136,9 +137,29 @@ ALL your stuff will be stored here<sup> 2</sup>.
 ###// Organize your workflow
 
 ===
+####Introduction:
+
+- Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow management.<br>
+Main differences:
+
+  - Different notebook structure:
+
+           1.Inbox (temporary storage before deciding what to do with an item)
+           2.Actions (to store all actions)
+           3.Briefings (to store all briefings)
+           4.Cabinet (to store all notes/project references)
+  
+  - Simplified *.When* tags for *actions*:
+
+           1-Next (next actions to be done)
+           2-Soon (actions in the queue to be done)
+           3-Someday & maybe (actions to be done later/someday & maybe)
+           4-Waiting (actions with a starting date to be done/get feedback)
+           5-Calendar (actions with a precise/deadline date to be done)
+
 ####Actions:
 
-- in GTD, undivisible tasks are called *actions*. Actions are managed in [Evernote](https://www.evernote.com/).
+- in GTD, undivisible tasks are called *actions*. Actions are managed in an Evernote<sup> 6</sup> notebook.
 
 - if you need to detail an action: **( )**
 
@@ -155,59 +176,37 @@ ALL your stuff will be stored here<sup> 2</sup>.
         Insert a deadline date: (date <<)
         Example: (2014-10-22 <<) Pay electricity bill before this date
 
-- prefix for a finished action (before delete or store it): **%**
-
-        Use it in the beggining of the line to allow sorting:
-        Example: % going to bank
-
 ####Briefings:
 
-- a list of actions is called *briefing*<sup> 5</sup>. Briefings are managed in [Evernote](https://www.evernote.com/).
+- a list of actions is called *briefing*<sup> 5</sup>. Briefings are managed in an Evernote<sup> 6</sup> notebook.
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, your project references and notes are always stored here (not inside project folders) and managed in [Evernote](https://www.evernote.com/). Cabinet holds items for reference that aren’t to-do.
+- to simplify and optimize your workflow, items for reference that aren’t to-do (your project references and notes) are always stored here (not inside project folders) and managed in an Evernote<sup> 6</sup> notebook.
 
 - name your notes using project folders notation:
 
         Note with all references regarding a particular subproject:
         Example: @house in lisbon.building permit
 
-- use notes to keep your bookmark collections. It will allow easy access and share:
+- suggestion: use notes to keep your bookmark collections. It will allow easy access and share:
 
 		Example: @resources.frontend-bootstrap
 
 ####How does it look?
 
-- Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) for workflow management.<br>
-Main differences:
-
-  - 4 Notebooks:
-
-           1.Inbox (temporary storing before deciding what to do with an item)
-           2.Actions (to store all actions)
-           3.Briefings (to store all briefings)
-           4.Cabinet (to store all notes/project references)
-  
-  - Simplified *.When* tags for *actions*:
-
-           1-Next (next actions to be done)
-           2-Soon (actions in the queue to be done)
-           3-Someday & maybe (actions to be done later/someday & maybe)
-           4-Waiting (actions with a starting date to be done/get feedback)
-           5-Calendar (actions with a precise/deadline date to be done)
-
-- screenshot of Hamster-GTD in Evernote:
+- screenshot of Hamster-GTD using Evernote<sup> 6</sup>:
 
 ![hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
 
 ---
 <sup>Notes:</sup><br>
-<sup>1 - Without understanding GTD, this system will not make much sense.</sup><br>
+<sup>1 - Without understanding it, this system will not make much sense.</sup><br>
 <sup>2 - The hamster cheeks :)</sup><br>
 <sup>3 - In GTD any document belongs to a project.</sup><br>
 <sup>4 - snake_case is not recommended due to search difficulties in Evernote.</sup><br>
-<sup>5 - Innovation by Hamster-GTD.</sup>
+<sup>5 - Innovation by Hamster-GTD.</sup><br>
+<sup>6 - Other note taking apps might work also.</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
