@@ -94,9 +94,9 @@ ALL your stuff will be stored here<sup> 2</sup>.
 ===
 ####Files:
 
-- files named using folders notation or other naming system relevant to your job.
+- name your files using folders notation or other naming system relevant to your job.
 
-- archived file using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch** 
+- archive files using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch** 
         
         Example: plan+0.1.2
 
