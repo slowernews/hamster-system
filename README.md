@@ -184,7 +184,7 @@ Main differences (you may also check [how does it look](#how-does-it-look)):
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside project folders) and managed in one Evernote<sup> 6</sup> major notebook (and several nested notebooks).
+- to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside project folders) and managed in one Evernote<sup> 6</sup> major notebook.
 
 - name your notes using project folders notation:
 
