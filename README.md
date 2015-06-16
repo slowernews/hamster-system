@@ -139,9 +139,9 @@ ALL your stuff will be stored here<sup> 2</sup>.
 ===
 ####Introduction:
 
-- Resuming, in Hamster-GTD:
+- resuming, in Hamster-GTD workflow:
   - undivisible tasks are called *actions*.
-  - a list of actions is called *briefing*<sup> 5</sup>.
+  - a list of actions is called *briefing*.
   - non-actionable items are called *notes* or *references*.
 
 - for workflow management, Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 1</sup>.<br>
@@ -164,7 +164,7 @@ Main differences (you may check also, [how does it look](#how-does-it-look)):
 
 ####Actions:
 
-- undivisible tasks are called *actions*. Actions are managed in one Evernote<sup> 6</sup> notebook.
+- undivisible tasks are called *actions*. Actions are managed in one Evernote<sup> 5</sup> notebook.
 
 - if you need to detail an action: **( )**
 
@@ -183,7 +183,7 @@ Main differences (you may check also, [how does it look](#how-does-it-look)):
 
 ####Briefings:
 
-- a list of actions is called *briefing*<sup> 5</sup>. Briefings are managed in one Evernote<sup> 6</sup> notebook.
+- a list of actions is called *briefing*<sup> 5</sup>. Briefings are managed in one Evernote<sup> 5</sup> notebook.
 
 ####Cabinet:
 
@@ -200,7 +200,7 @@ Main differences (you may check also, [how does it look](#how-does-it-look)):
 
 ####How does it look?
 
-- screenshot of Hamster-GTD using Evernote<sup> 6</sup>:
+- screenshot of Hamster-GTD using Evernote<sup> 5</sup>.
 
 ![hamster-note-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-note_screenshot%20example.png)
 
@@ -210,8 +210,7 @@ Main differences (you may check also, [how does it look](#how-does-it-look)):
 <sup>2 - The hamster cheeks :)</sup><br>
 <sup>3 - In GTD any document belongs to a project.</sup><br>
 <sup>4 - snake_case is not recommended due to search difficulties in Evernote.</sup><br>
-<sup>5 - Innovation by Hamster-GTD.</sup><br>
-<sup>6 - Other note taking apps might work also.</sup>
+<sup>5 - Other note taking apps might work also.</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
