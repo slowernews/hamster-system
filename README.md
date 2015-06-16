@@ -94,10 +94,7 @@ ALL your stuff will be stored here<sup> 2</sup>.
 ===
 ####Files:
 
-- files named using folders logic or other naming system relevant to your job.
-
-        Example using folder's naming logic: plan+0.1.2
-        Example using other naming system: @ARC.EXE-plan+0.1.2
+- files named using folders notation or other naming system relevant to your job.
 
 - archived file using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch** 
         
@@ -172,7 +169,7 @@ Main differences (you may also check [how does it look](#how-does-it-look)):
         Example: Write a mail to Susy (your comment here)
 
         Insert a strict date: (year-month-day=hour)
-        Insert dates in the beggining of the line to allow chronological sorting:
+        Insert dates as a prefix to allow chronological sorting:
         Example: (2012-11-29=9h) Doctor appointment
 
         Insert a starting date: (date >>)
