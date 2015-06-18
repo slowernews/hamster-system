@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Organize your documents and workflow. Boost productivity while reducing your stress levels with an ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup>.
+Organize your documents and workflow. Boost productivity while reducing your stress levels with an ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup> using Evernote<sup> 5</sup>.
 
 ###So, how can you start?
 
@@ -94,7 +94,7 @@ ALL your stuff will be stored here<sup> 2</sup>.
 ===
 ####Files:
 
-- name your files using folders notation or other naming system relevant to your job.
+- name your files using folders notation (or other file naming system relevant to you).
 
 - archive files using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch** 
         
@@ -127,7 +127,6 @@ ALL your stuff will be stored here<sup> 2</sup>.
         Example using spaces: #large investor@house in lisbon  
 
 - but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
-
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
@@ -136,13 +135,13 @@ ALL your stuff will be stored here<sup> 2</sup>.
 ===
 ####Introduction:
 
-- resuming, in Hamster-GTD workflow:
+- in Hamster-GTD:
   - undivisible tasks are called *actions*.
   - a list of actions is called *briefing*.
   - non-actionable items are called *notes* or *references*.
 
 - for workflow management, Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 1</sup>.<br>
-Main differences (you may also check [how does it look](#how-does-it-look)):
+Main differences (check also [how does it look](#how-does-it-look)):
 
   - different notebook structure:
 
@@ -162,7 +161,6 @@ Main differences (you may also check [how does it look](#how-does-it-look)):
 ####Actions:
 
 - undivisible tasks are called *actions*. Actions are managed in one Evernote<sup> 5</sup> notebook.
-
 - if you need to detail an action: **( )**
 
         Insert a comment: (comment)
@@ -203,11 +201,11 @@ Main differences (you may also check [how does it look](#how-does-it-look)):
 
 ---
 <sup>Notes:</sup><br>
-<sup>1 - Without understanding it, this system will not make much sense.</sup><br>
-<sup>2 - The hamster cheeks :)</sup><br>
-<sup>3 - In GTD any document belongs to a project.</sup><br>
+<sup>1 - without understanding it, this system will not make much sense.</sup><br>
+<sup>2 - the hamster cheeks :)</sup><br>
+<sup>3 - in GTD any document belongs to a project.</sup><br>
 <sup>4 - snake_case is not recommended due to search difficulties in Evernote.</sup><br>
-<sup>5 - Other note taking apps might work also.</sup>
+<sup>5 - other note taking apps might work also.</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
