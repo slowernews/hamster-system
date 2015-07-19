@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Organize your documents and workflow. Boost productivity while reducing your stress levels with an ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup> using Evernote<sup> 5</sup>.
+Organize your documents and workflow. Boost productivity while reducing your stress levels with an ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup> using [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> 5</sup>.
 
 ###So, how can you start?
 
@@ -182,7 +182,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside project folders) and managed in one Evernote<sup> 6</sup> major notebook.
+- to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside project folders) and managed in one Evernote<sup> 5</sup> major notebook.
 
 - name your notes using project folders notation:
 
@@ -204,7 +204,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 <sup>1 - without understanding it, this system will not make much sense.</sup><br>
 <sup>2 - the hamster cheeks :)</sup><br>
 <sup>3 - in GTD any document belongs to a project.</sup><br>
-<sup>4 - snake_case is not recommended due to search difficulties in Evernote.</sup><br>
+<sup>4 - snake_case is not recommended due to search difficulties in Evernote software.</sup><br>
 <sup>5 - other note taking apps might work also.</sup>
 
 ---
