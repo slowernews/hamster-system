@@ -27,6 +27,8 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Main folder:
 
+*MAIN FOLDER {project status} [project scope]*
+
 First of all create a folder in a safe place of your disk.
 ALL your stuff will be stored here<sup> 2</sup>. 
 
