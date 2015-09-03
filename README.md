@@ -51,9 +51,9 @@ ALL your stuff will be stored here<sup> 2</sup>.
 
         {inbox} there aren't permanent folders, just temporary stuff.
         {current} there are 2 folders: [personal], [work]
-        {archive} there are 2 folders with archive symbol: +[personal], +[work]
+        {archive} there are 2 folders: [personal], [work]
 
-        Inside these folders with project scopes you will store your projects.
+        Inside these folders you will store your projects.
 
 ===
 ####Project folders:
