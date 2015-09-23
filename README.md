@@ -89,7 +89,7 @@ ALL your stuff will be stored there<sup> 2</sup>.
     	Inside subprojects you can have folders:
         Example: -plans
 
-        On nested folders you can add previous folder(s) name to reduce the need of memorization:
+        On nested folders you can add previous folder(s) name to reduce memorization:
         Example: -drawings-sections
         Example: -drawings-details-wall
 
@@ -165,10 +165,10 @@ Main differences (check also [how does it look](#how-does-it-look)):
 - undivisible tasks are called *actions*. Actions are managed in one Evernote<sup> 5</sup> notebook.
 - if you need to detail an action adding a comment: **( )**
 
-		Comments are inserted after the action description.
+        Comments are inserted after the action description.
         Example: Write a mail to Susy (your comment here)
 
-        To allow chronological sorting, dates are inserted before the action description.
+        Dates are inserted before the action description (allowing chronological sorting)
         
         Example inserting a strict date: (year-month-day=hour)
         (2015-11-29=9h) Doctor appointment
