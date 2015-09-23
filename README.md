@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Organize your documents and workflow. Boost productivity while reducing your stress levels with an ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup> using [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> 5</sup>.
+Organize your documents and workflow. Boost productivity while reducing your stress with an ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup> using [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> 5</sup>.
 
 ###So, how can you start?
 
@@ -30,7 +30,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 *MAIN FOLDER {project status} [project scope]*
 
 First of all create a folder in a safe place of your disk.
-ALL your stuff will be stored here<sup> 2</sup>. 
+ALL your stuff will be stored there<sup> 2</sup>. 
 
 - main folder: **YOUR NAME**
 
@@ -168,23 +168,24 @@ Main differences (check also [how does it look](#how-does-it-look)):
         Insert a comment: (comment)
         Example: Write a mail to Susy (your comment here)
 
-        Insert a strict date: (year-month-day=hour)
-        Insert dates as a prefix to allow chronological sorting:
-        Example: (2012-11-29=9h) Doctor appointment
+        To allow chronological sorting, dates are inserted as a prefix comment.
+        
+        Example inserting a strict date: (year-month-day=hour)
+        (2015-11-29=9h) Doctor appointment
 
-        Insert a starting date: (date >>)
-        Example: (2013-03-10 >>) Waiting for client feedback after this date
+        Example inserting a starting date: (date >>)
+        (2015-03-10 >>) Waiting for client feedback after this date
 
-        Insert a deadline date: (date <<)
-        Example: (2014-10-22 <<) Pay electricity bill before this date
+        Example inserting a deadline date: (date <<)
+        (2015-10-22 <<) Pay electricity bill before this date
 
 ####Briefings:
 
-- a list of actions is called *briefing*. Briefings are managed in one Evernote<sup> 5</sup> notebook.
+- a list of actions is called *briefing*. Briefings are managed in one Evernote notebook.
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside project folders) and managed in one Evernote<sup> 5</sup> major notebook.
+- to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside project folders) and managed in one Evernote major notebook.
 
 - name your notes using project folders notation:
 
