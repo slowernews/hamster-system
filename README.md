@@ -60,13 +60,13 @@ ALL your stuff will be stored there<sup> 2</sup>.
 
 *# bundle @ project . subproject - folder - nested folder*
 
-- bundle of projects (inspired in twitter hashtag): **#**
+- bundle of projects (derived from twitter hashtag): **#**
 
         Inside folders [personal], [work] you can have bundles of projects:
         Example: #large investor (bundle with all projects of a client)
         Example: #family (bundle with all your family related projects)
 
-- project<sup> 3</sup> (inspired in twitter mention): **@**
+- project<sup> 3</sup> (derived from twitter mention): **@**
 
     	Inside folders [personal], [work] or bundles you have projects:
         Example: @house in lisbon
@@ -75,7 +75,7 @@ ALL your stuff will be stored there<sup> 2</sup>.
         you can also add the bundle name (if existent):
         Example: #large investor@house in lisbon
 
-- subproject (inspired in object oriented programming): **.**
+- subproject (derived from object oriented programming): **.**
 
     	Inside projects you can have subprojects:
         Example: .building permit
@@ -163,12 +163,12 @@ Main differences (check also [how does it look](#how-does-it-look)):
 ####Actions:
 
 - undivisible tasks are called *actions*. Actions are managed in one Evernote<sup> 5</sup> notebook.
-- if you need to detail an action: **( )**
+- if you need to detail an action adding a comment: **( )**
 
-        Insert a comment: (comment)
+		Comments are inserted after the action description.
         Example: Write a mail to Susy (your comment here)
 
-        To allow chronological sorting, dates are inserted as a prefix comment.
+        To allow chronological sorting, dates are inserted before the action description.
         
         Example inserting a strict date: (year-month-day=hour)
         (2015-11-29=9h) Doctor appointment
