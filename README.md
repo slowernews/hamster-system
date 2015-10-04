@@ -208,7 +208,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 <sup>2 - the hamster cheeks :)</sup><br>
 <sup>3 - in GTD any document belongs to a project.</sup><br>
 <sup>4 - snake_case is not recommended due to search difficulties in Evernote software.</sup><br>
-<sup>5 - other note taking apps might work also.</sup>
+<sup>5 - other note taking apps might work also.</sup><br>
 <sup>6 - other archiving systems, depending on your needs, might be used also.</sup>
 
 ---
