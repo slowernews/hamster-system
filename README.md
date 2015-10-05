@@ -163,12 +163,12 @@ Main differences (check also [how does it look](#how-does-it-look)):
 ####Actions:
 
 - undivisible tasks are called *actions*. Actions are managed in one Evernote<sup> 5</sup> notebook.
-- if you need to detail an action adding a comment: **( )**
+- if you need to detail an action add a comment: **( )**
 
         Comments are inserted after the action description.
         Example: Write a mail to Susy (your comment here)
 
-        Dates are inserted before the action description (allowing chronological sorting)
+        Dates are inserted before the action description (allowing chronological sorting):
         
         Example inserting a strict date: (year-month-day=hour)
         (2015-11-29=9h) Doctor appointment
