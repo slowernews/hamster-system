@@ -177,7 +177,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
         (2015-03-10 >>) Waiting for client feedback after this date
 
         Example inserting a deadline date: (date <<)
-        (2015-10-22 <<) Pay electricity bill before this date
+        (2015-10-22 <<) Pay electricity bill until this date
 
 ####Briefings:
 
