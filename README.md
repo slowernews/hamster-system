@@ -72,7 +72,7 @@ ALL your stuff will be stored there<sup> 2</sup>.
         Example: @house in lisbon
 
         To reduce the need of memorization, when naming the project folder
-        you can also add the bundle name (if existent):
+        you might add the bundle name (if existent):
         Example: #large investor@house in lisbon
 
 - subproject (derived from object oriented programming): **.**
@@ -81,7 +81,7 @@ ALL your stuff will be stored there<sup> 2</sup>.
         Example: .building permit
 
         To reduce the need of memorization, when naming the subproject folder
-        you can also add the project name:
+        you might add the project name:
         Example: @house in lisbon.building permit
 
 - folder (each nesting level): **-**
@@ -89,7 +89,7 @@ ALL your stuff will be stored there<sup> 2</sup>.
     	Inside subprojects you can have folders:
         Example: -plans
 
-        On nested folders you can add previous folder(s) name to reduce memorization:
+        On nested folders you might add previous folder(s) name to reduce memorization:
         Example: -drawings-sections
         Example: -drawings-details-wall
 
@@ -109,7 +109,7 @@ ALL your stuff will be stored there<sup> 2</sup>.
 ===
 ####How to navigate through your documents:
 
-- you only need 2 *permanent desktop shortcuts* to navigate your documents: 
+- you only need 2 *permanent* desktop shortcuts to navigate your documents: 
 
         Shortcut to {inbox}
         Shortcut to {current}
@@ -117,7 +117,7 @@ ALL your stuff will be stored there<sup> 2</sup>.
         If you use it often (in theory you don't, they are archived projects):
         Shortcut to {archive}
 
-- and some *temporary desktop shortcuts* to specific folders that you use a lot.
+- and some *temporary* desktop shortcuts to specific folders that you use a lot.
 
 ===
 ####Others:
@@ -198,7 +198,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
 ####How does it look?
 
-- screenshot of Hamster-GTD using Evernote<sup> 5</sup>.
+- screenshot of Hamster-GTD using Evernote.
 
 ![hamster-workflow-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.png)
 
