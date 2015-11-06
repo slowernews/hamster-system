@@ -34,9 +34,6 @@ ALL your stuff will be stored there<sup> 2</sup>.
 
 - main folder: **YOUR NAME**
 
-		Rename this folder with your name or/and surname using ALL CAPS.
-        Example: JOHN
-
 - project status: **{ }**
 
         Inside your main folder there are 3 folders:
@@ -50,8 +47,7 @@ ALL your stuff will be stored there<sup> 2</sup>.
         Inside:
 
         {inbox} there aren't permanent folders, just temporary stuff.
-        {current} there are 2 folders: [personal], [work]
-        {archive} there are 2 folders: [personal], [work]
+        {current} and {archive} there are 2 folders: [personal], [work]
 
         Inside these folders you will store your projects.
 
