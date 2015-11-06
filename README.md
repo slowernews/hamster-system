@@ -31,8 +31,8 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - main folder<sup> 2</sup>: **YOUR NAME**
 
-	First of all create a folder in a safe place of your disk.
-	ALL your stuff will be stored there.
+        First of all create a folder in a safe place of your disk.
+        ALL your stuff will be stored there.
 
 - project status: **{ }**
 
