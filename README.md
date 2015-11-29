@@ -152,7 +152,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
            1-Next (next actions to be done)
            2-Soon (actions in the queue to get done)
-           3-Someday & maybe (actions to get done later/someday & maybe)
+           3-Someday (actions to get done later/someday)
            4-Calendar (actions with a precise/deadline date or with a trigger/fuzzy date to get done)
 
 ####Actions:
