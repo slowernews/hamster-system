@@ -94,7 +94,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - name your files using folders notation (or other file naming system relevant to you).
 
-- archive files using [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor . patch**
+- archive files using [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor . progress**
         
         Example: plan+0.1.2
 
