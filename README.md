@@ -94,9 +94,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - name your files using folders notation (or other file naming system relevant to you).
 
-- archive files using [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor . progress**
-        
-        Example: plan+0.1.2
+- archive using [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor . progress**
 
 - prefix for standard / boilerplate files: **$**
 
@@ -180,7 +178,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
 ####Cabinet:
 
-- to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside project folders) and managed in one Evernote major notebook.
+- to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside project folders) and managed in one major notebook.
 
 - name your notes using project folders notation:
 
