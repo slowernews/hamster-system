@@ -42,7 +42,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
         {current} folder where you store your current projects.
         {archive} folder where you store your archived projects.
     
-- project scope<sup> 7</sup>: **[ ]** 
+- project scope: **[ ]** 
 
         Inside:
 
@@ -202,8 +202,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 <sup>3 - in GTD any document belongs to a project.</sup><br>
 <sup>4 - snake_case is not recommended due to search difficulties in Evernote software.</sup><br>
 <sup>5 - other note taking apps might work also.</sup><br>
-<sup>6 - other archiving systems, depending on your needs, might be used also or even recommended.</sup><br>
-<sup>7 - [research] scope to keep notes that are not strictly work neither strictly personal.</sup>
+<sup>6 - other archiving systems, depending on your needs, might be used also or even recommended.</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
