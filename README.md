@@ -47,8 +47,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
         Inside:
 
         {inbox} there aren't permanent folders, just temporary stuff.
-        {current} and {archive} there are 3 folders: [personal], [work] and [research]
-
+        {current} and {archive} there are 2 folders: [personal], [work]
         Inside these folders you will store your projects.
 
 ===
