@@ -42,12 +42,12 @@ Organize your documents and workflow. Boost productivity while reducing your str
         {current} folder where you store your current projects.
         {archive} folder where you store your archived projects.
     
-- project scope: **[ ]** 
+- project scope<sup> 7</sup>: **[ ]** 
 
         Inside:
 
         {inbox} there aren't permanent folders, just temporary stuff.
-        {current} and {archive} there are 3 folders: [personal], [work] and [research]<sup> 7</sup>
+        {current} and {archive} there are 3 folders: [personal], [work] and [research]
 
         Inside these folders you will store your projects.
 
