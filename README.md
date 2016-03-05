@@ -18,7 +18,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 - [Introduction](#introduction)
 - [Actions](#actions)
 - [Briefings](#briefings)
-- [Cabinet](#cabinet)
+- [Notes](#notes)
 - [How does it look?](#how-does-it-look)
 
 ---
@@ -178,7 +178,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
 - a list of actions is called *briefing*. Briefings are managed in one Evernote notebook.
 
-####Cabinet:
+####Notes:
 
 - to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside project folders) and managed in one major notebook.
 
