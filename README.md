@@ -143,7 +143,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
            1.Inbox (temporary storage before deciding what to do with an item)
            2.Actions (to store all actions)
            3.Briefings (to store all briefings)
-           4.Cabinet (to store all notes/project references)
+           4.Notes (to store all notes/project references)
   
   - simplified *.When* tags for *actions*:
 
@@ -155,10 +155,8 @@ Main differences (check also [how does it look](#how-does-it-look)):
 ####Actions:
 
 - undivisible tasks are called *actions*. Actions are managed in one Evernote notebook.
-- if you need to detail an action add a comment: **( )**
 
-        Comments are inserted after the action description.
-        Example: Write a mail to Susy (your comment here)
+- every action should have a due date: **( )**
 
         Dates are inserted before the action description (allowing chronological sorting):
         
@@ -170,6 +168,11 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
         Example inserting a deadline date: (date <<)
         (2015-10-22 <<) Pay electricity bill until this date
+        
+- to detail an action add a comment: **( )**
+
+        Comments are inserted after the action description.
+        Example: Write a mail to Susy (your comment here)
 
 ####Briefings:
 
