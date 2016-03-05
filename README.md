@@ -9,9 +9,9 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - [Main folder](#main-folder)
 - [Project folders](#project-folders)
-- [Files](#files)
+- [Naming](#naming)
+- [Archiving](#archiving)
 - [How to navigate through your documents](#how-to-navigate-through-your-documents)
-- [Others](#others)
 
 **Organize your workflow:**
 
@@ -89,15 +89,30 @@ Organize your documents and workflow. Boost productivity while reducing your str
         Example: -drawings-details-wall
 
 ===
-####Files:
+####Naming:
 
-- name your files using folders notation (or other file naming system relevant to you).
+- use camelCase, PascalCase or spaces<sup> 4</sup>:
 
-- archive using [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor . progress**
+        Example using camelCase: #largeInvestor@houseInLisbon
+        Example using PascalCase: #LargeInvestor@HouseInLisbon
+        Example using spaces: #large investor@house in lisbon  
+
+- but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
+
+- use also folders notation to name your files (or other file naming system relevant to you).
 
 - prefix for standard / boilerplate files: **$**
 
         Example: $curriculum+1.1.2  
+
+- great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
+
+===
+####Archiving:
+
+- archive releases of projects (and sometimes subprojects) using [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor . progress**
+
+- archive files using [BranchVer](https://github.com/eniomauro/branchVer9) (each version *adds* a change on data):**+ branch . build**
 
 ===
 ####How to navigate through your documents:
@@ -111,18 +126,6 @@ Organize your documents and workflow. Boost productivity while reducing your str
         Shortcut to {archive}
 
 - and some *temporary* desktop shortcuts to specific folders that you use a lot.
-
-===
-####Others:
-
-- use camelCase, PascalCase or spaces<sup> 4</sup>:
-
-        Example using camelCase: #largeInvestor@houseInLisbon
-        Example using PascalCase: #LargeInvestor@HouseInLisbon
-        Example using spaces: #large investor@house in lisbon  
-
-- but avoid these symbols for regular naming: **# @ . - + $ % { } [ ]**
-- great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
 ###// Organize your workflow
