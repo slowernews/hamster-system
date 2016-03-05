@@ -112,7 +112,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - archive releases of (sub)projects using [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor . progress**
 
-- archive files using [BranchVer](https://github.com/eniomauro/branchVer9) (each version *adds* a change on data):**+ branch . build**
+- archive files using [BranchVer](https://github.com/eniomauro/branchVer) (each version *adds* a change on data):**+ branch . build**
 
 ===
 ####How to navigate through your documents:
