@@ -5,4 +5,4 @@
 - Added: all actions should have a due date.
 
 [Documents]
-- Changed: files use now BranchVer as archive system. Projects and subprojects keep using SemVer. 
+- Changed: files use now BranchVer as archive system. Releases of projects and subprojects keep using SemVer. 
