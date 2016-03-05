@@ -3,3 +3,6 @@
 [Workflow]
 - Changed: Cabinet folder was renamed as Notes.
 - Added: all actions should have a due date.
+
+[Documents]
+- Changed: files use now BranchVer as archive system. Projects and subprojects keep using SemVer. 
