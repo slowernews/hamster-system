@@ -110,7 +110,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Archiving:
 
-- archive releases of projects (and sometimes subprojects) using [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor . progress**
+- archive releases of (sub)projects using [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor . progress**
 
 - archive files using [BranchVer](https://github.com/eniomauro/branchVer9) (each version *adds* a change on data):**+ branch . build**
 
