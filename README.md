@@ -183,7 +183,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
 ####Notes:
 
-- to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside project folders) and managed in one major notebook.
+- to simplify and optimize your workflow, items for reference that aren’t actionable (project references and notes) are always stored here (not inside local project folders) and managed in one major notebook.
 
 - name your notes using project folders notation:
 
