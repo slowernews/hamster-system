@@ -157,7 +157,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
 ####Actions:
 
-- undivisible tasks are called *actions*. Actions are managed in one Evernote notebook.
+- undivisible tasks are called *actions*. All actions are tagged and managed in one Evernote notebook.
 
 - every action should have a due date: **( )**
 
