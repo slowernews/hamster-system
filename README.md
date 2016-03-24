@@ -103,7 +103,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - prefix for standard / boilerplate files: **$**
 
-        Example: $curriculum+1.1.2  
+        Example: $curriculum+A007  
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
