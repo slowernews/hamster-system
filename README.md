@@ -202,11 +202,11 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
 ####How does it look?
 
-- screenshot of Hamster-GTD using Evernote (briefings notebook).
+- screenshot of Hamster-GTD using Evernote (*briefings* notebook).
 
 ![hamster-workflow-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.png)
 
-- screenshot of Hamster-GTD using Evernote (calendar tag).
+- screenshot of Hamster-GTD using Evernote (*calendar* tag).
 
 ![hamster-workflow-screenshot2](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.PNG)
 
