@@ -134,25 +134,26 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ####Introduction:
 
 - in Hamster-GTD:
-  - undivisible tasks are called *actions*.
-  - a list of actions is called *briefing*.
-  - non-actionable items are called *notes*.
+
+    - undivisible tasks are called *actions*.
+    - a list of actions is called *briefing*.
+    - non-actionable items are called *notes*.
 
 - for workflow management, Hamster-GTD uses [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> 5</sup> with a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 1</sup>.<br>
 Main differences (check also [how does it look](#how-does-it-look)):
 
-  - different notebook structure:
+    - different notebook structure:
 
-       1.Inbox (temporary storage before deciding what to do with an item)
-       2.Actions (to store all actions)
-       3.Briefings (to store all briefings)
-       4.Notes (to store all notes/project references)
+           1.Inbox (temporary storage before deciding what to do with an item)
+           2.Actions (to store all actions)
+           3.Briefings (to store all briefings)
+           4.Notes (to store all notes/project references)
   
-  - simplified *.When* tags for *actions*:
+    - simplified *.When* tags for *actions*:
 
-       1-Soon (actions in the queue to get done)
-       2-Someday (actions to get done someday)
-       3-Calendar (actions with a precise/deadline date or with a trigger/fuzzy date to get done)
+           1-Soon (actions in the queue to get done)
+           2-Someday (actions to get done someday)
+           3-Calendar (actions with a precise/deadline date or with a trigger/fuzzy date to get done)
 
 ####Actions:
 
@@ -202,6 +203,10 @@ Main differences (check also [how does it look](#how-does-it-look)):
 - screenshot of Hamster-GTD using Evernote.
 
 ![hamster-workflow-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.png)
+
+---
+
+![hamster-workflow-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
 
 ---
 <sup>Notes:</sup><br>
