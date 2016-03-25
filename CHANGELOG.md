@@ -3,7 +3,7 @@
 [Workflow]
 - Changed: *.when* tags were simplified.
 - Changed: non actionable items are now only called *notes*.
-- Added: all actions should have a due date. Unknown dates are represented as (soon) or (someday)
+- Added: all actions should have a due date. Unknown dates are represented as (soon) or (someday).
 
 ##+1.4 (2016-03-05)
 
