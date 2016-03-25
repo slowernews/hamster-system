@@ -1,9 +1,9 @@
 ##+1.5 (2016-03-25)
 
 [Workflow]
-- Changed: *.when* tags were simplified.
-- Changed: non actionable items are now only called *notes*.
 - Added: all actions should have a due date. Unknown dates are represented as (soon) or (someday).
+- Removed: *.when* *1-Next* tag. This tag migrated for a paper notebook.
+- Changed: non actionable items could be called *notes* or *references*. Now they are only called *notes*.
 
 ##+1.4 (2016-03-05)
 
