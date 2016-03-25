@@ -143,17 +143,16 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
   - different notebook structure:
 
-           1.Inbox (temporary storage before deciding what to do with an item)
-           2.Actions (to store all actions)
-           3.Briefings (to store all briefings)
-           4.Notes (to store all notes/project references)
+       1.Inbox (temporary storage before deciding what to do with an item)
+       2.Actions (to store all actions)
+       3.Briefings (to store all briefings)
+       4.Notes (to store all notes/project references)
   
   - simplified *.When* tags for *actions*:
 
-           1-Next (next actions to be done)
-           2-Soon (actions in the queue to get done)
-           3-Someday (actions to get done later/someday)
-           4-Calendar (actions with a precise/deadline date or with a trigger/fuzzy date to get done)
+       1-Soon (actions in the queue to get done)
+       2-Someday (actions to get done someday)
+       3-Calendar (actions with a precise/deadline date or with a trigger/fuzzy date to get done)
 
 ####Actions:
 
@@ -171,6 +170,10 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
         Example inserting a deadline date: (date <<)
         (2015-10-22 <<) Pay electricity bill until this date
+
+        Example without knowing the due date: (soon) (someday)
+        (soon) Call Mary
+        (someday) Holydays in north pole
         
 - to detail an action add a comment: **( )**
 
