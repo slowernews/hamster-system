@@ -154,6 +154,8 @@ Main differences (check also [how does it look](#how-does-it-look)):
            1-Soon (actions in the queue to get done)
            2-Someday (actions to get done someday)
            3-Calendar (actions with a precise/deadline date or with a trigger/fuzzy date to get done)
+           
+  - next actions to be done will be listed in a paper notebook. This list is fed mostly by *1-Soon* tag.
 
 ####Actions:
 
@@ -174,7 +176,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
         Example without knowing the due date: (soon) (someday)
         (soon) Call Mary
-        (someday) Holydays in north pole
+        (someday) Holydays in North Pole
         
 - to detail an action add a comment: **( )**
 
