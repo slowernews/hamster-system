@@ -154,7 +154,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 - resuming, in Hamster-GTD:
 
   - undivisible tasks are called [Actions](#actions).
-  - a list of actions is called [Briefings](#briefings).
+  - lists of actions are called [Briefings](#briefings).
   - non-actionable items are called [Notes](#notes).
 
 ####Actions:
