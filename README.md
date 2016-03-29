@@ -177,11 +177,6 @@ Main differences (check also [how does it look](#how-does-it-look)):
         Example without knowing the due date: (soon) (someday)
         (soon) Call Mary
         (someday) Holydays in North Pole
-        
-- to detail an action add a comment: **( )**
-
-        Comments are inserted after the action description.
-        Example: Write a mail to Susy (your comment here)
 
 ####Briefings:
 
