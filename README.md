@@ -184,7 +184,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
 ####Notes:
 
-- to simplify and optimize your workflow, items for reference that aren’t actionable are always stored here (not inside local project folders) and managed in one major notebook.
+- non-actionable items are called *notes*. To simplify and optimize your workflow, they are managed in one major Evernote notebook (and not inside local project folders).
 
 - name your notes using project folders notation:
 
