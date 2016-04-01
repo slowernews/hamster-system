@@ -165,7 +165,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
         Dates are inserted before the action description (allowing chronological sorting):
         
-        Example inserting a strict date: (year-month-day=hour)
+        Example inserting a scheduled date: (year-month-day=hour)
         (2015-11-29=9h) Doctor appointment
 
         Example inserting a trigger/fuzzy date: (date >>)
