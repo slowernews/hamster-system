@@ -44,11 +44,11 @@ Organize your documents and workflow. Boost productivity while reducing your str
     
 - project scope: **[ ]** 
 
-        Inside:
-
-        {inbox} there aren't permanent folders, just temporary stuff.
-        {current} and {archive} there are 2 folders: [personal], [work]
-        Inside these folders you will store your projects.
+        Inside {inbox} folder there aren't permanent folders, just temporary stuff.
+        Inside {current} and {archive} folders there are 2 folders:
+        
+        [personal] folder where you store your personal related projects.
+        [work] folder where you store your work related projects.
 
 ===
 ####Project folders:
@@ -175,7 +175,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
         (2015-10-22 <<) Pay electricity bill until this date
 
         Example without knowing the due date: (soon) (someday)
-        (soon) Call Mary
+        (soon) Call Mom
         (someday) Holydays in North Pole
 
 ####Briefings:
