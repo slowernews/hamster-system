@@ -135,7 +135,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - for workflow management, Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 1</sup> for  [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> 5</sup> and a paper notebook. Main differences (check also [how does it look](#how-does-it-look)):
 
-  - different notebook structure:
+  - different Evernote notebook's structure:
 
            1.Inbox (temporary storage before deciding what to do with an item)
            2.Actions (to store all actions)
@@ -148,7 +148,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
            2-Someday (actions to get done someday)
            3-Calendar (actions with a precise/deadline date or with a trigger/fuzzy date to get done)
            
-  - to make the workflow more agile, *Next* actions to be done are listed only in a **paper notebook**. This list is fed mostly by *1-Soon* tag.
+  - to make the workflow more agile, *Next* actions to be done are listed only in a paper notebook. This list is fed mostly by *1-Soon* tag.
 
 - resuming, in Hamster-GTD:
 
