@@ -1,3 +1,8 @@
+##+ Next release
+
+[Workflow]
+- Changed: tags and notebooks were renamed.
+
 ##+1.5 (2016-03-25)
 
 [Workflow]
