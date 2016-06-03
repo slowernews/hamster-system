@@ -112,7 +112,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - archive releases of (sub)projects using [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor . progress**
 
-- archive files using [BranchVer](https://github.com/eniomauro/branchVer) (each version *adds* a change on data):**+ branch . progress**
+- archive files using [BranchVer](https://github.com/eniomauro/branchVer) (each version *adds* a change on data): **+ branch . progress**
 
 ===
 ####How to navigate through your documents:
@@ -141,7 +141,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
            1.Inbox (temporary storage before deciding what to do with an item)
            2.Actions (to store all actions)
            3.Briefings (to store all briefings)
-           4.Notes (to store all notes/project references)
+           4.Notes (to store all notes)
   
   - simplified *.When* tags for *actions*:
 
@@ -176,7 +176,7 @@ Main differences (check also [how does it look](#how-does-it-look)):
 
         Example without knowing the due date: (soon) (someday)
         (soon) Call Mom
-        (someday) Holydays in North Pole
+        (someday) Holidays in North Pole
 
 ####Briefings:
 
