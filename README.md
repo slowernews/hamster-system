@@ -144,12 +144,12 @@ Organize your documents and workflow. Boost productivity while reducing your str
   
   - simplified *.When* tags for *actions*:
 
-           0-Next (actions to be done)
+           0-Next (actions to be done ASAP)
            1-Soon (actions in the queue to get done)
            2-Someday (actions to get done someday)
            3-Calendar (actions with a precise/deadline date or with a trigger/fuzzy date to get done)
            
-  - to be more agile, *0-Next* actions to be done are listed only in a paper notebook. This list is fed mostly by *1-Soon* tag.
+  - to be more agile, *0-Next* actions are listed only in a paper notebook. This list is fed mostly by *1-Soon* tag.
 
 - resuming, in Hamster-GTD:
 
