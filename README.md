@@ -137,10 +137,10 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
   - different Evernote notebook's structure:
 
-           1.Inbox (temporary storage before deciding what to do with an item)
-           2.Actions (to store all actions)
-           3.Briefings (to store all briefings)
-           4.Notes (to store all notes)
+           0.Inbox (temporary storage before deciding what to do with an item)
+           1.Actions (to store all actions)
+           2.Briefings (to store all briefings)
+           3.Notes (to store all notes)
   
   - simplified *.When* tags for *actions*:
 
