@@ -1,7 +1,7 @@
-##+ Next release
+##+Next release
 
 [Documents]
-- Merged: {project status} and [project scope] folders were merged.
+- Removed: [project scope] folders were removed.
 
 [Workflow]
 - Changed: tags and notebooks were renamed.
