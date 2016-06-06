@@ -1,4 +1,4 @@
-##+0.6 (2016-06-06)
+##+0.7 (2016-06-06)
 
 [Documents]
 - Removed: [project scope] folders were removed. [personal] folder became a bundle folder.
