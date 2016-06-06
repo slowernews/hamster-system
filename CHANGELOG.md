@@ -1,7 +1,7 @@
 ##+0.7 (2016-06-06)
 
 [Documents]
-- Removed: [project scope] folders were removed. [Personal scope] will live as a bundle folder.
+- Removed: [project scope] folders were removed. [personal] folder became a bundle folder.
 
 [Workflow]
 - Changed: tags and notebooks were renamed.
