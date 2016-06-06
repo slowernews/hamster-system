@@ -27,7 +27,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Main folder:
 
-*MAIN FOLDER {project status} [project scope]*
+*MAIN FOLDER {project status}*
 
 - main folder<sup> 2</sup>: **YOUR NAME**
 
@@ -41,14 +41,6 @@ Organize your documents and workflow. Boost productivity while reducing your str
         {inbox} folder where you put new documents until deciding what to do with them.
         {current} folder where you store your current projects.
         {archive} folder where you store your archived projects.
-    
-- project scope: **[ ]** 
-
-        Inside {inbox} folder there aren't permanent folders, just temporary stuff.
-        Inside {current} and {archive} folders there are 2 folders:
-        
-        [personal] folder where you store your personal related projects.
-        [work] folder where you store your work related projects.
 
 ===
 ####Project folders:
@@ -59,7 +51,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
         Inside folders [personal], [work] you can have bundles of projects:
         Example: #large investor (bundle with all projects of a client)
-        Example: #family (bundle with all your family related projects)
+        Example: #personal (bundle with all your personal related projects)
 
 - project<sup> 3</sup> (derived from twitter mention): **@**
 
