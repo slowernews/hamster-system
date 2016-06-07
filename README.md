@@ -49,13 +49,13 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - bundle of projects (derived from twitter hashtag): **#**
 
-        Inside folders [personal], [work] you can have bundles of projects:
+        Inside folders {current} and {archive} you have bundles of projects:
         Example: #large investor (bundle with all projects of a client)
         Example: #personal (bundle with all your personal related projects)
 
 - project<sup> 3</sup> (derived from twitter mention): **@**
 
-    	Inside folders [personal], [work] or bundles you have projects:
+    	Inside bundle folders you have projects:
         Example: @house in lisbon
 
         To reduce the need of memorization, when naming the project folder
@@ -102,14 +102,14 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Archiving:
 
-- archive releases of (sub)projects using [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor . progress**
+- archive releases of (sub)projects using a simplified [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor**
 
 - archive files using [BranchVer](https://github.com/eniomauro/branchVer) (each version *adds* a change on data): **+ branch . progress**
 
 ===
 ####How to navigate through your documents:
 
-- you only need 2 *permanent* desktop shortcuts to navigate through your documents: 
+- you only need 2 (or 3) *permanent* desktop shortcuts to navigate through your documents: 
 
         Shortcut to {inbox}
         Shortcut to {current}
@@ -136,12 +136,13 @@ Organize your documents and workflow. Boost productivity while reducing your str
   
   - simplified *.When* tags for *actions*:
 
+           // Used on a paper notebook
            0-Next (actions to be done ASAP)
+           
+           // Used on Evernote
            1-Soon (actions in the queue to get done)
            2-Someday (actions to get done someday)
            3-Calendar (actions with a precise/deadline date or with a trigger/fuzzy date to get done)
-           
-  - to be more agile, *0-Next* actions are listed only in a paper notebook. This list is fed mostly by *1-Soon* tag.
 
 - resuming, in Hamster-GTD:
 
