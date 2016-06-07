@@ -102,9 +102,9 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Archiving:
 
-- archive releases of (sub)projects using a simplified [SemVer](http://www.semver.org/)<sup> 6</sup> (each version *adds* a change on data): **+ major . minor**
+- archive releases of (sub)projects using a simplified [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor**
 
-- archive files using [BranchVer](https://github.com/eniomauro/branchVer) (each version *adds* a change on data): **+ branch . progress**
+- archive files using [BranchVer](https://github.com/galfarragem/branchVer) (each version *adds* a change on data): **+ branch . progress**
 
 ===
 ####How to navigate through your documents:
@@ -204,8 +204,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 <sup>2 - the hamster cheeks :)</sup><br>
 <sup>3 - in GTD any document belongs to a project.</sup><br>
 <sup>4 - snake_case is not recommended due to search difficulties in Evernote software.</sup><br>
-<sup>5 - other note taking apps might work also.</sup><br>
-<sup>6 - other archiving systems, depending on your needs, might be used also or even recommended.</sup>
+<sup>5 - other note taking apps might work also.</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
