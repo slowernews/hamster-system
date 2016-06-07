@@ -1,7 +1,8 @@
-##+0.6 (2016-06-06)
+##+0.6 (2016-06-07)
 
 [Documents]
-- Removed: [project scope] folders were removed. [personal] folder became a bundle folder.
+- Removed: [project scope] folders were removed. Scopes can be settled on bundle folders.
+- Changed: project (and subproject) releases will use a simplified version of *SemVer*.
 
 [Workflow]
 - Changed: tags and notebooks were renamed.
