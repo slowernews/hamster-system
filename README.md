@@ -51,7 +51,6 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
         Inside folders {current} and {archive} you have bundles of projects:
         Example: #large investor (bundle with all projects of a client)
-        Example: #personal (bundle with all your personal related projects)
 
 - project<sup> 3</sup> (derived from twitter mention): **@**
 
@@ -91,13 +90,17 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
+- enclose folder's name to mark them as private: **[ ]**
+
+          Example: [#personal] (private bundle with all your personal related projects)
+
 - name your files using the same rules (or other file naming system relevant to you).
-- suggestions:
-  - use a prefix for standard / boilerplate files: **$**
+
+- use a prefix for standard / boilerplate files: **$**
 
           Example: $curriculum+A007
 
-  - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
+- great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ===
 ####Archiving:
