@@ -1,3 +1,8 @@
+##+next release
+
+[Documents]
+- Added: notation for private bundles.
+
 ##+0.6 (2016-06-07)
 
 [Documents]
