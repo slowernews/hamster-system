@@ -90,11 +90,11 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
+- name your files using the same rules (or other file naming system relevant to you).
+
 - enclose folder's name to mark it as private: **[ ]**
 
         Example: [#personal] (private bundle with all your personal related projects)
-
-- name your files using the same rules (or other file naming system relevant to you).
 
 - use a prefix for standard / boilerplate files: **$**
 
