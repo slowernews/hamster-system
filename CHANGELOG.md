@@ -1,7 +1,7 @@
 ##+next release
 
 [Documents]
-- Added: notation for private bundles.
+- Added: notation for private folders.
 
 ##+0.6 (2016-06-07)
 
