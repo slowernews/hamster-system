@@ -90,7 +90,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
-- enclose folder's name to mark them as private: **[ ]**
+- enclose folder's name to mark it as private: **[ ]**
 
           Example: [#personal] (private bundle with all your personal related projects)
 
