@@ -1,11 +1,7 @@
-##+next release
+##+0.6 (2016-06-08)
 
 (Documents)
 - Added: *[ ]* notation for private folders.
-
-##+0.6 (2016-06-07)
-
-(Documents)
 - Removed: [project scope] folders were removed. Scopes can be settled on bundle folders.
 - Changed: project (and subproject) releases will use a simplified version of *SemVer*.
 
