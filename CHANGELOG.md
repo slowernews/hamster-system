@@ -3,7 +3,7 @@
 (Documents)
 - Removed: [project scope] folders were removed. Scopes can be settled with private folders.
 - Changed: *[ ]* notation now marks a folder as private.
-- Changed: project (and subproject) releases will use a simplified version of *SemVer*.
+- Changed: project (and subproject) releases use a simplified version of *SemVer*.
 
 (Workflow)
 - Changed: tags and notebooks were renamed.
