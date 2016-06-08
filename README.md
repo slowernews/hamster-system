@@ -170,7 +170,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
         Example inserting a deadline date: (date <<)
         (2015-10-22 <<) Pay electricity bill until this date
 
-        Example without knowing the due date: (soon) (someday)
+        Example without knowing the due date: (soon) or (someday)
         (soon) Call Mom
         (someday) Holidays in North Pole
 
