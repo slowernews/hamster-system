@@ -92,13 +92,13 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - enclose folder's name to mark it as private: **[ ]**
 
-          Example: [#personal] (private bundle with all your personal related projects)
+        Example: [#personal] (private bundle with all your personal related projects)
 
 - name your files using the same rules (or other file naming system relevant to you).
 
 - use a prefix for standard / boilerplate files: **$**
 
-          Example: $curriculum+A007
+        Example: $curriculum+A007
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
