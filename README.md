@@ -82,11 +82,11 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Naming:
 
-- use camelCase, PascalCase or spaces<sup> 4</sup>:
+- use spaces or other naming style<sup> 4</sup>:
 
+        Example using spaces: #large investor@house in lisbon
         Example using camelCase: #largeInvestor@houseInLisbon
         Example using PascalCase: #LargeInvestor@HouseInLisbon
-        Example using spaces: #large investor@house in lisbon  
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
