@@ -195,11 +195,11 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - screenshot of Hamster-GTD using Evernote (*briefings* notebook).
 
-![hamster-workflow-screenshot](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.png)
+![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.png)
 
 - screenshot of Hamster-GTD using Evernote (*calendar* tag).
 
-![hamster-workflow-screenshot2](https://github.com/we-build-dreams/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.PNG)
+![hamster-workflow-screenshot2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.PNG)
 
 ---
 <sup>Notes:</sup><br>
