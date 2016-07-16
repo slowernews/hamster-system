@@ -17,7 +17,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - [Introduction](#introduction)
 - [Actionable items: Tasks](#actionable-items-tasks)
-- [Non-Actionable items: Briefings and Notes](#non-actionable-notes)
+- [Non-Actionable items: Notes](#non-actionable-items-notes)
 - [How does it look?](#how-does-it-look)
 
 ---
@@ -147,9 +147,9 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - resuming, in Hamster-GTD:
 
-  - actionable items are called [Tasks](#actionable-items-Tasks).
+  - actionable items are called [Tasks](#actionable-items-tasks).
 
-  - non-actionable items are called [Notes](#non-actionable-Notes)
+  - non-actionable items are called [Notes](#non-actionable-notes)
 
 ===
 ####Actionable items (Tasks):
@@ -188,10 +188,6 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 ===
 ####How does it look?
-
-- screenshot of Hamster-GTD using Evernote (*briefings* notebook).
-
-![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.png)
 
 - screenshot of Hamster-GTD using Evernote (*calendar* tag).
 
