@@ -16,9 +16,8 @@ Organize your documents and workflow. Boost productivity while reducing your str
 **Organize your workflow:**
 
 - [Introduction](#introduction)
-- [Tasks](#tasks)
-- [Briefings](#briefings)
-- [Notes](#notes)
+- [Actionable items: Tasks](#actionable-items)
+- [Non-Actionable items: Briefings and Notes](#non-actionable-items)
 - [How does it look?](#how-does-it-look)
 
 ---
@@ -133,14 +132,13 @@ Organize your documents and workflow. Boost productivity while reducing your str
   - different Evernote notebook's structure:
 
            0.Inbox (temporary storage before deciding what to do with an item)
-           1.Tasks (to store all tasks)
-           2.Briefings (to store all briefings)
-           3.Notes (to store all notes)
+           1.Tasks (to store all actionable items)
+           2.Notes (to store all non actionable items)
   
   - simplified *.When* tags for *actions*:
 
            // Used on a paper notebook
-           0-Next (actions to be done ASAP)
+           0-Next (tasks to be done ASAP)
            
            // Used on Evernote
            1-Soon (tasks in the queue to get done)
@@ -149,13 +147,14 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - resuming, in Hamster-GTD:
 
-  - undivisible tasks are called [Tasks](#tasks).
-  - lists of tasks are called [Briefings](#briefings).
-  - non-actionable items are called [Notes](#notes).
+  - actionable items are called [Tasks](#tasks).
 
-####Tasks:
+  - non-actionable items are called [Notes](#notes)
 
-- undivisible actions are called *tasks*. All tasks are tagged and managed in one Evernote notebook.
+===
+####Actionable items:
+
+- actionable items are called *tasks*. All tasks are tagged and managed in one Evernote notebook.
 
 - every task should have a due date: **( )**
 
@@ -174,11 +173,8 @@ Organize your documents and workflow. Boost productivity while reducing your str
         (soon) Call Mom
         (someday) Holidays in North Pole
 
-####Briefings:
-
-- a list of tasks is called *briefing*. Briefings are managed in one Evernote notebook.
-
-####Notes:
+===
+####Non-actionable items:
 
 - non-actionable items are called *notes*. To simplify and optimize your workflow, notes are managed in one major Evernote notebook (and not inside local project folders).
 
@@ -190,6 +186,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 - suggestion: use notes to keep your collection of bookmarks. It will allow easy access and share:
 
 		Example: @bookmarks.frontend-bootstrap
+
 
 ####How does it look?
 
