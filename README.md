@@ -133,7 +133,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
            0.Inbox (temporary storage before deciding what to do with an item)
            1.Tasks (to store all actionable items)
-           2.Notes (to store all non actionable items)
+           2.Notes (to store all non-actionable items)
   
   - simplified *.When* tags for *actions*:
 
@@ -178,7 +178,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - non-actionable items are called **notes**. To simplify and optimize your workflow, notes are managed in one major Evernote notebook (and not inside local project folders).
 
-- each project (or subproject) should have a note to compiles info as: a list of future tasks (*briefing*), a list of past tasks (*changelog*) or specific *references*. Therefore name your notes using [project folders notation](#project-folders):
+- each project (or subproject) should have a note to compile info as: a list of future tasks (*briefing*), a list of past tasks (*changelog*) or specific *references*. Therefore name your notes using [project folders notation](#project-folders):
 
         Note with all references regarding a particular subproject:
         Example: @house in lisbon.building permit
