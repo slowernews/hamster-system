@@ -143,14 +143,14 @@ Organize your documents and workflow. Boost productivity while reducing your str
            0-Next (actions to be done ASAP)
            
            // Used on Evernote
-           1-Soon (actions in the queue to get done)
-           2-Someday (actions to get done someday)
-           3-Calendar (actions with a precise/deadline date or with a trigger/fuzzy date to get done)
+           1-Soon (tasks in the queue to get done)
+           2-Someday (tasks to get done someday)
+           3-Calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
 
 - resuming, in Hamster-GTD:
 
-  - undivisible actions are called [Tasks](#tasks).
-  - lists of actions are called [Briefings](#briefings).
+  - undivisible tasks are called [Tasks](#tasks).
+  - lists of tasks are called [Briefings](#briefings).
   - non-actionable items are called [Notes](#notes).
 
 ####Tasks:
