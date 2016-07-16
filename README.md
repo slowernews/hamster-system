@@ -176,7 +176,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 ####Briefings:
 
-- a list of actions is called *briefing*. Briefings are managed in one Evernote notebook.
+- a list of tasks is called *briefing*. Briefings are managed in one Evernote notebook.
 
 ####Notes:
 
