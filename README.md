@@ -178,7 +178,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - non-actionable items are called **notes**. To simplify and optimize your workflow, notes are managed in one major Evernote notebook (and not inside local project folders).
 
-- each project (or subproject) should have a note to compile info as: a list of future tasks (*briefing*), a list of past tasks (*changelog*) or specific *references*. Therefore name your notes using [project folders notation](#project-folders):
+- (sub)projects should have a note to compile info as: a list of future tasks (*briefing*), a list of past tasks (*changelog*) or specific *references*. Therefore name your notes using [project folders notation](#project-folders):
 
         Note with all references regarding a particular subproject:
         Example: @house in lisbon.building permit
