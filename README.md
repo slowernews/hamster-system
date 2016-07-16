@@ -16,7 +16,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 **Organize your workflow:**
 
 - [Introduction](#introduction)
-- [Actions](#actions)
+- [Tasks](#tasks)
 - [Briefings](#briefings)
 - [Notes](#notes)
 - [How does it look?](#how-does-it-look)
@@ -133,7 +133,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
   - different Evernote notebook's structure:
 
            0.Inbox (temporary storage before deciding what to do with an item)
-           1.Actions (to store all actions)
+           1.Tasks (to store all tasks)
            2.Briefings (to store all briefings)
            3.Notes (to store all notes)
   
@@ -149,17 +149,17 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - resuming, in Hamster-GTD:
 
-  - undivisible tasks are called [Actions](#actions).
+  - undivisible actions are called [Tasks](#tasks).
   - lists of actions are called [Briefings](#briefings).
   - non-actionable items are called [Notes](#notes).
 
-####Actions:
+####Tasks:
 
-- undivisible tasks are called *actions*. All actions are tagged and managed in one Evernote notebook.
+- undivisible actions are called *tasks*. All tasks are tagged and managed in one Evernote notebook.
 
-- every action should have a due date: **( )**
+- every task should have a due date: **( )**
 
-        Dates are inserted before the action description (allowing chronological sorting):
+        Dates are inserted before the task description (allowing chronological sorting):
         
         Example inserting a scheduled date: (year-month-day=hour)
         (2015-11-29=9h) Doctor appointment
