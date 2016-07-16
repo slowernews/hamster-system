@@ -1,3 +1,8 @@
+##+0.7 (Unreleased)
+
+(Workflow)
+- Changed: *actions* are now called *tasks* to improve compatibility with other systems/apps.
+
 ##+0.6 (2016-06-08)
 
 (Documents)
