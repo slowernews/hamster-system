@@ -149,7 +149,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
   - actionable items are called [Tasks](#actionable-items-tasks).
 
-  - non-actionable items are called [Notes](#non-actionable-notes)
+  - non-actionable items are called [Notes](#non-actionable-items-notes)
 
 ===
 ####Actionable items (Tasks):
@@ -178,7 +178,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - non-actionable items are called **notes**. To simplify and optimize your workflow, notes are managed in one major Evernote notebook (and not inside local project folders).
 
-- a project (or a subproject) should have a note that compiles info as a list of future tasks (*briefing*), a list of past tasks (*changelog*) or specific *references*. Therefore name your notes using project folders notation:
+- a project (or a subproject) should have a note that compiles info as a list of future tasks (*briefing*), a list of past tasks (*changelog*) or specific *references*. Therefore name your notes using [project folders notation](#project-folders):
 
         Note with all references regarding a particular subproject:
         Example: @house in lisbon.building permit
@@ -191,7 +191,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - screenshot of Hamster-GTD using Evernote (*calendar* tag).
 
-![hamster-workflow-screenshot2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.PNG)
+![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.PNG)
 
 ---
 <sup>Notes:</sup><br>
