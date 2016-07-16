@@ -16,8 +16,8 @@ Organize your documents and workflow. Boost productivity while reducing your str
 **Organize your workflow:**
 
 - [Introduction](#introduction)
-- [Actionable items: Tasks](#actionable-items)
-- [Non-Actionable items: Briefings and Notes](#non-actionable-items)
+- [Actionable items: Tasks](#actionable-items-(Tasks))
+- [Non-Actionable items: Briefings and Notes](#non-actionable-(Notes))
 - [How does it look?](#how-does-it-look)
 
 ---
@@ -147,14 +147,14 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - resuming, in Hamster-GTD:
 
-  - actionable items are called [Tasks](#tasks).
+  - actionable items are called [Tasks](#actionable-items-(Tasks)).
 
-  - non-actionable items are called [Notes](#notes)
+  - non-actionable items are called [Notes](#non-actionable-(Notes))
 
 ===
-####Actionable items:
+####Actionable items (Tasks):
 
-- actionable items are called *tasks*. All tasks are tagged and managed in one Evernote notebook.
+- actionable items are called **tasks**. All tasks are tagged and managed in one Evernote notebook.
 
 - every task should have a due date: **( )**
 
@@ -171,12 +171,12 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
         Example without knowing the due date: (soon) or (someday)
         (soon) Call Mom
-        (someday) Holidays in North Pole
+        (someday) Bungee jumping with friends
 
 ===
-####Non-actionable items:
+####Non-actionable items (Notes):
 
-- non-actionable items are called *notes*. To simplify and optimize your workflow, notes are managed in one major Evernote notebook (and not inside local project folders).
+- non-actionable items are called **notes**. To simplify and optimize your workflow, notes are managed in one major Evernote notebook (and not inside local project folders).
 
 - name your notes using project folders notation:
 
@@ -187,7 +187,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 		Example: @bookmarks.frontend-bootstrap
 
-
+===
 ####How does it look?
 
 - screenshot of Hamster-GTD using Evernote (*briefings* notebook).
