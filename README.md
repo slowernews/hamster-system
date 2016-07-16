@@ -16,8 +16,8 @@ Organize your documents and workflow. Boost productivity while reducing your str
 **Organize your workflow:**
 
 - [Introduction](#introduction)
-- [Actionable items: Tasks](#actionable-items-(Tasks))
-- [Non-Actionable items: Briefings and Notes](#non-actionable-(Notes))
+- [Actionable items: Tasks](#actionable-items-tasks)
+- [Non-Actionable items: Briefings and Notes](#non-actionable-notes)
 - [How does it look?](#how-does-it-look)
 
 ---
@@ -147,9 +147,9 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - resuming, in Hamster-GTD:
 
-  - actionable items are called [Tasks](#actionable-items-(Tasks)).
+  - actionable items are called [Tasks](#actionable-items-Tasks).
 
-  - non-actionable items are called [Notes](#non-actionable-(Notes))
+  - non-actionable items are called [Notes](#non-actionable-Notes)
 
 ===
 ####Actionable items (Tasks):
@@ -178,14 +178,13 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - non-actionable items are called **notes**. To simplify and optimize your workflow, notes are managed in one major Evernote notebook (and not inside local project folders).
 
-- name your notes using project folders notation:
+- a project (or a subproject) should have a note that compiles info as a list of future tasks (*briefing*), a list of past tasks (*changelog*) or specific *references*. Therefore name your notes using project folders notation:
 
         Note with all references regarding a particular subproject:
         Example: @house in lisbon.building permit
 
-- suggestion: use notes to keep your collection of bookmarks. It will allow easy access and share:
-
-		Example: @bookmarks.frontend-bootstrap
+		Suggestion: use notes to keep your collection of bookmarks. It will allow easy access and share:
+		Example: #research@frontend
 
 ===
 ####How does it look?
