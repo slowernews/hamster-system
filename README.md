@@ -104,7 +104,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Archiving:
 
-- archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch **
+- archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch**
 
 - archive files using [BranchVer](https://github.com/galfarragem/branchVer) (each version *adds* a change on data): **+ branch . progress**
 
@@ -156,7 +156,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 - actionable items are called **tasks**. All tasks are tagged and managed in one Evernote notebook.
 
-- every task should have a due date: **( )**
+- tasks should have a due date: **( )**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
