@@ -104,7 +104,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Archiving:
 
-- archive releases of (sub)projects using a simplified [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor**
+- archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch **
 
 - archive files using [BranchVer](https://github.com/galfarragem/branchVer) (each version *adds* a change on data): **+ branch . progress**
 
@@ -149,7 +149,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
   - actionable items are called [Tasks](#actionable-items-tasks).
 
-  - non-actionable items are called [Notes](#non-actionable-items-notes)
+  - non-actionable items are called [Notes](#non-actionable-items-notes).
 
 ===
 ####Actionable items (Tasks):
@@ -176,14 +176,14 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Non-actionable items (Notes):
 
-- non-actionable items are called **notes**. To simplify and optimize your workflow, notes are managed in one major Evernote notebook (and not inside local project folders).
+- non-actionable items are called **notes**. All notes are managed in one major Evernote notebook.
 
-- (sub)projects should have a note to compile info as: a list of future tasks (*briefing*), a list of past tasks (*changelog*) or specific *references*. Therefore name your notes using [project folders notation](#project-folders):
+- projects (and subprojects) should have a note to compile info as: a list of tasks (*briefing*), a list of completed tasks (*changelog*) and specific *references*. Therefore name your notes using [project folders notation](#project-folders):
 
         Note with all references regarding a particular subproject:
         Example: @house in lisbon.building permit
 
-		Suggestion: use notes to keep your collection of bookmarks. It will allow easy access and share:
+		Suggestion: use notes to keep your collection of bookmarks.
 		Example: #research@frontend
 
 ===
