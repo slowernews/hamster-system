@@ -1,4 +1,4 @@
-##+0.7 (Unreleased)
+##+0.7 (2016-07-17)
 
 (Workflow)
 - Removed: *briefing* item type was removed.
