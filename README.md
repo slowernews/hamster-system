@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Organize your documents and workflow. Boost productivity while reducing your stress with an ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup> using [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> 5</sup> and a paper notebook.
+Organize your documents and workflow. Boost productivity while reducing your stress with an ultra-simple implementation of [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> 1</sup> using [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> 4</sup> and a paper notebook.
 
 ###So, how can you start?
 
@@ -22,6 +22,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 ---
 ###// Organize your (digital) documents
+*'Every document belongs to a project'.*
 
 ===
 ####Main folder:
@@ -51,7 +52,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
         Inside folders {current} and {archive} you have bundles of projects:
         Example: #large investor (bundle with all projects of a client)
 
-- project<sup> 3</sup> (derived from twitter mention): **@**
+- project (derived from twitter mention): **@**
 
     	Inside bundle folders you have projects:
         Example: @house in lisbon
@@ -81,7 +82,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Naming:
 
-- use spaces or other naming style<sup> 4</sup>:
+- use spaces or other naming style<sup> 3</sup>:
 
         Example using spaces: #large investor@house in lisbon
         Example using camelCase: #largeInvestor@houseInLisbon
@@ -123,17 +124,16 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 ---
 ###// Organize your workflow
+*'Everything is a note'.*
 
 ===
 ####Introduction:
 
-- in Hamster-GTD workflow management *everything is a note*:
+- actionable notes are called [Tasks](#actionable-notes-tasks).
+  
+- non-actionable notes are called [References](#non-actionable-notes-references).
 
-  - actionable notes are called [Tasks](#actionable-notes-tasks).
-
-  - non-actionable notes are called [References](#non-actionable-notes-references).
-
-- for workflow management, Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 1</sup> for  [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> 5</sup> and a paper notebook. Main differences (check also [how does it look](#how-does-it-look)):
+- workflow management is made using a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 1</sup> for  [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> 5</sup> and a paper notebook. Main differences (check also [how does it look](#how-does-it-look)):
 
   - different Evernote notebook's structure:
 
@@ -197,9 +197,8 @@ Organize your documents and workflow. Boost productivity while reducing your str
 <sup>Notes:</sup><br>
 <sup>1 - without understanding it, this system will not make much sense.</sup><br>
 <sup>2 - the hamster cheeks :)</sup><br>
-<sup>3 - in GTD any document belongs to a project.</sup><br>
-<sup>4 - snake_case is not recommended due to search difficulties in Evernote software.</sup><br>
-<sup>5 - other note taking apps might work also.</sup>
+<sup>3 - snake_case is not recommended due to search difficulties in Evernote software.</sup><br>
+<sup>4 - other note taking apps might work also.</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
