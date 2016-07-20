@@ -1,8 +1,8 @@
-##+0.7 (2016-07-17)
+##+0.7 (2016-07-20
 
 (Workflow)
 - Removed: *briefing* item type was removed.
-- Changed: *actions* are now called *tasks* to improve compatibility with other systems/apps.
+- Changed: to improve compatibility with other systems/apps, *actions* are now called *tasks* and *notes* are now called *references*.
 
 ##+0.6 (2016-06-08)
 
