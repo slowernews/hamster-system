@@ -1,8 +1,7 @@
 ##+0.7 (2016-07-20)
 
 (Workflow)
-- Removed: *briefing* note type was removed.
-- Changed: to improve compatibility with other systems/apps, *actions* are now called *tasks* and *notes* are now called *references*.
+- Changed: to improve compatibility with other systems/apps, everything is a note now. Therefore *notes* are now called *references* and *actions* are now called *tasks*. *Briefing* stand-alone type was removed.
 
 ##+0.6 (2016-06-08)
 
