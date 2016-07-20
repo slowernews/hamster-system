@@ -139,7 +139,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
            0.Inbox (temporary storage before deciding what to do with an item)
            1.Tasks (to store all actionable notes)
-           2.Notes (to store all non-actionable notes)
+           2.References (to store all non-actionable notes)
   
   - simplified *.When* tags for *actions*:
 
