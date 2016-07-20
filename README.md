@@ -16,8 +16,8 @@ Organize your documents and workflow. Boost productivity while reducing your str
 **Organize your workflow:**
 
 - [Introduction](#introduction)
-- [Actionable items: Tasks](#actionable-items-tasks)
-- [Non-Actionable items: Notes](#non-actionable-items-notes)
+- [Actionable notes: Tasks](#actionable-notes-tasks)
+- [Non-Actionable notes: References](#non-actionable-notes-references)
 - [How does it look?](#how-does-it-look)
 
 ---
@@ -127,13 +127,19 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Introduction:
 
+- in Hamster-GTD workflow management *everything is a note*:
+
+  - actionable notes are called [Tasks](#actionable-notes-tasks).
+
+  - non-actionable notes are called [References](#non-actionable-notes-references).
+
 - for workflow management, Hamster-GTD uses a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> 1</sup> for  [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> 5</sup> and a paper notebook. Main differences (check also [how does it look](#how-does-it-look)):
 
   - different Evernote notebook's structure:
 
            0.Inbox (temporary storage before deciding what to do with an item)
-           1.Tasks (to store all actionable items)
-           2.Notes (to store all non-actionable items)
+           1.Tasks (to store all actionable notes)
+           2.Notes (to store all non-actionable notes)
   
   - simplified *.When* tags for *actions*:
 
@@ -145,16 +151,10 @@ Organize your documents and workflow. Boost productivity while reducing your str
            2-Someday (tasks to get done someday)
            3-Calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
 
-- resuming, in Hamster-GTD:
-
-  - actionable items are called [Tasks](#actionable-items-tasks).
-
-  - non-actionable items are called [Notes](#non-actionable-items-notes).
-
 ===
-####Actionable items (Tasks):
+####Actionable notes (Tasks):
 
-- actionable items are called **tasks**. All tasks are tagged and managed in one Evernote notebook.
+- actionable notes are called **tasks**. All tasks are tagged and managed in one Evernote notebook.
 
 - tasks should have a due date: **( )**
 
@@ -174,11 +174,11 @@ Organize your documents and workflow. Boost productivity while reducing your str
         (someday) Bungee jumping with friends
 
 ===
-####Non-actionable items (Notes):
+####Non-actionable notes (References):
 
-- non-actionable items are called **notes**. All notes are managed in one major Evernote notebook.
+- non-actionable notes are called **references**. All references are managed in one major Evernote notebook.
 
-- projects (and subprojects) should have a note to compile info as: a list of tasks (*briefing*), a list of completed tasks (*changelog*) and specific *references*. Therefore name your notes using [project folders notation](#project-folders):
+- projects (and subprojects) should have a reference note to compile info as: a list of tasks (*briefing*), a list of completed tasks (*changelog*) and specific references. Therefore name your notes using [project folders notation](#project-folders):
 
         Note with all references regarding a particular subproject:
         Example: @house in lisbon.building permit
