@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Organize your documents and workflow. Boost productivity while reducing your stress with an ultra-simple system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup> [1](#footnote1)</sup> using [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> [4](#footnote4)</sup> and a paper notebook.
+Organize your documents and workflow. Boost productivity while reducing your stress with an ultra-simple system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup id="refnote1"> [1](#footnote1)</sup> using [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
 
 ###So, how can you start?
 
@@ -29,7 +29,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 *MAIN FOLDER {project status}*
 
-- main folder<sup> [2](#footnote2)</sup>: **YOUR NAME**
+- main folder<sup id="refnote2"> [2](#footnote2)</sup>: **YOUR NAME**
 
         First of all create a folder in a safe place of your disk.
         ALL your stuff will be stored there.
@@ -82,7 +82,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
 ===
 ####Naming:
 
-- use spaces or other naming style<sup> [3](#footnote3)</sup>:
+- use spaces or other naming style<sup id="refnote3"> [3](#footnote3)</sup>:
 
         Example using spaces: #large investor@house in lisbon
         Example using camelCase: #largeInvestor@houseInLisbon
@@ -133,7 +133,7 @@ Organize your documents and workflow. Boost productivity while reducing your str
   
 - non-actionable notes are called [References](#non-actionable-notes-references).
 
-- workflow management is made using a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup> [1](#footnote1)</sup> for  [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup> [4](#footnote4)</sup> and a paper notebook. Main differences (check also [how does it look](#how-does-it-look)):
+- workflow management is made using a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup id="refnote1"> [1](#footnote1)</sup> for  [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook. Main differences (check also [how does it look](#how-does-it-look)):
 
   - different Evernote notebook's structure:
 
@@ -195,10 +195,10 @@ Organize your documents and workflow. Boost productivity while reducing your str
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - without understanding it, this system will not make much sense.</sup><br>
-<sup><a name="footnote2">2</a> - the hamster cheeks :)</sup><br>
-<sup><a name="footnote3">3</a> - snake_case is not recommended due to search difficulties in Evernote software.</sup><br>
-<sup><a name="footnote4">4</a> - other note taking apps might work also.</sup>
+<sup><a name="footnote1">1</a> - without understanding it, this system will not make much sense. [↩](#refnote1)</sup><br>
+<sup><a name="footnote2">2</a> - the hamster cheeks :) [↩](#refnote2)</sup><br>
+<sup><a name="footnote3">3</a> - snake_case is not recommended due to search difficulties in Evernote software.  [↩](#refnote3)</sup><br>
+<sup><a name="footnote4">4</a> - other note taking apps might work also. [↩](#refnote4)</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
