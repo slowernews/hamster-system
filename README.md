@@ -26,8 +26,6 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 ###Main folder:
 
-*MAIN FOLDER / PROJECT STATUS*
-
 - main folder<sup id="refnote2"> [2](#footnote2)</sup>: **YOUR NAME**
 
         First of all create a folder in a safe place of your disk.
