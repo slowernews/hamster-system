@@ -24,7 +24,6 @@ Organize your documents and workflow with simple conventions. Boost productivity
 ##Organize your (digital) documents
 *'Every document belongs to a project'.*
 
-===
 ###Main folder:
 
 *MAIN FOLDER / PROJECT STATUS*
@@ -126,7 +125,6 @@ Organize your documents and workflow with simple conventions. Boost productivity
 ##Organize your workflow
 *'Inputs to your workflow are materialized as notes'.*
 
-===
 ###Introduction:
 
 - actionable notes are called [Tasks](#actionable-notes-tasks); non-actionable notes are called [References](#non-actionable-notes-references).
