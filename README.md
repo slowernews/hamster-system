@@ -124,12 +124,12 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 ---
 ##Organize your workflow
-*'Every piece of information in your workflow is materialized as a note'.*
+*'Inputs to your workflow are materialized as notes'.*
 
 ===
 ###Introduction:
 
-- actionable notes are called [Tasks](#actionable-notes-tasks). Non-actionable notes are called [References](#non-actionable-notes-references).
+- actionable notes are called [Tasks](#actionable-notes-tasks); non-actionable notes are called [References](#non-actionable-notes-references).
 
 - workflow management is made using a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup id="refnote1"> [1](#footnote1)</sup> for  [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook. Main differences (check also [how does it look](#how-does-it-look)):
 
