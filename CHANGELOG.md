@@ -1,3 +1,9 @@
+##+0.8 (Unreleased)
+
+(Documents)
+
+- Changed: to simplify notation, project status folders use now just capital letters.
+
 ##+0.7 (2016-07-20)
 
 (Workflow)
