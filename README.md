@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Boost productivity while reducing your stress, organizing your documents and workflow with with an ultra-simple system based on conventions inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup id="refnote1"> [1](#footnote1)</sup> using [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
+Boost productivity while reducing your stress, organizing your documents and workflow with an ultra-simple system based on conventions inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup id="refnote1"> [1](#footnote1)</sup> using [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
 
 
 
@@ -18,8 +18,8 @@ Boost productivity while reducing your stress, organizing your documents and wor
 **Organize your workflow:**
 
 - [Introduction](#introduction)
-- [Actionable notes: Tasks](#actionable-notes-tasks)
-- [Non-Actionable notes: References](#non-actionable-notes-references)
+- [Actionable notes: tasks](#actionable-notes-tasks)
+- [Non-actionable notes: references](#non-actionable-notes-references)
 - [How does it look?](#how-does-it-look)
 
 
