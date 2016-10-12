@@ -1,8 +1,8 @@
-##+0.8 (2016-10-??)
+##+0.8 (2016-10-12)
 
 (Documents)
 
-- Changed: to simplify notation, project status folders use also capital letters.
+- Changed: project status folders use now capital letters.
 
 ##+0.7 (2016-07-20)
 
