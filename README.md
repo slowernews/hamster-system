@@ -54,22 +54,22 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 - bundle of projects (derived from twitter hashtag): **#**
 
-        Inside CURRENT and ARCHIVE folders you store bundles of projects:
+        Inside CURRENT and ARCHIVE folders you store #bundles of projects:
         Example: #large investor (bundle with all projects of a client)
 
 - project (derived from twitter mention): **@**
 
-    	Inside #bundle folders you store projects:
+    	Inside #bundle folders you store @projects:
         Example: @house in portugal    
 
 - subproject (derived from OO programming): **.**
 
-    	Inside @projects we store subprojects:
+    	Inside @projects we store .subprojects:
         Example: .building permit
 
 - folder (each nesting level): **-**
 
-    	Inside .subprojects we store folders:
+    	Inside .subprojects we store -folders:
         Example: -plans
 
 
@@ -96,7 +96,8 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 - enclose folder's name to mark it as private: **[ ]**
 
-        Example: [#personal] (private bundle with all your personal related projects)
+		Private bundle with all your personal related projects.
+        Example: [#personal]
 
 - name your files using a system that fits you<sup id="refnote5"> [5](#footnote3)</sup>. Suggestions:
 
@@ -139,7 +140,7 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 ###Introduction:
 
-- actionable notes are called [Tasks](#actionable-notes-tasks); non-actionable notes are called [References](#non-actionable-notes-references).
+- actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
 - workflow management is made using a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup id="refnote1"> [1](#footnote1)</sup> for  [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook. Main differences (check also [how does it look](#how-does-it-look)):
 
@@ -162,7 +163,7 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 
 ===
-###Actionable notes (Tasks):
+###Actionable notes (tasks):
 
 - actionable notes are called **tasks**. All tasks are tagged and managed in one Evernote notebook.
 
@@ -186,7 +187,7 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 
 ===
-###Non-actionable notes (References):
+###Non-actionable notes (references):
 
 - non-actionable notes are called **references**. All references are managed in one major Evernote notebook.
 
@@ -214,7 +215,7 @@ Organize your documents and workflow with simple conventions. Boost productivity
 <sup><a name="footnote1">1</a> - without understanding it, this system will not make much sense. [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - the hamster cheeks :) [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - snake_case is not recommended due to search difficulties in Evernote software.  [↩](#refnote3)</sup><br>
-<sup><a name="footnote4">4</a> - other note taking apps might work also. [↩](#refnote4)</sup>
+<sup><a name="footnote4">4</a> - other note taking apps might work also. [↩](#refnote4)</sup><br>
 <sup><a name="footnote4">5</a> - relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote5)</sup>
 
 
