@@ -77,7 +77,7 @@ Organize your documents and workflow with simple conventions. Boost productivity
 ===
 ###Naming:
 
-- to reduce the need of memorization or unnecessary nesting on a project, you can name a folder joining more than one nesting level:
+- to reduce the need of memorization or unnecessary nesting, you can name a folder joining more than one nesting level:
 
         You have only one project inside a bundle, you can simplify nesting:
         Example: #large investor@house in portugal
@@ -94,14 +94,13 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
-- name your files using the same rules (or other file naming system relevant to you).
-
 - enclose folder's name to mark it as private: **[ ]**
 
         Example: [#personal] (private bundle with all your personal related projects)
 
-- use a prefix for standard / boilerplate files: **$**
+- name your files using a system that fits you<sup id="refnote5"> [5](#footnote3)</sup>. Suggestions:
 
+		Use a prefix for standard / boilerplate files: **$**
         Example: $curriculum+A007
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
@@ -208,12 +207,17 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.PNG)
 
+
+
 ---
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - without understanding it, this system will not make much sense. [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - the hamster cheeks :) [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - snake_case is not recommended due to search difficulties in Evernote software.  [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - other note taking apps might work also. [↩](#refnote4)</sup>
+<sup><a name="footnote4">5</a> - relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote5)</sup>
+
+
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
