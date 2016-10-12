@@ -150,7 +150,7 @@ Organize your documents and workflow with simple conventions. Boost productivity
            1.Tasks (to store all actionable notes)
            2.References (to store all non-actionable notes)
   
-  - simplified *.When* tags for *actions*:
+  - simplified *.When* tags for actionable notes:
 
            // Used on a paper notebook
            0-Next (tasks to be done ASAP)
