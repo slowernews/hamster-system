@@ -3,6 +3,8 @@ Hamster-GTD
 
 Organize your documents and workflow with simple conventions. Boost productivity while reducing your stress with an ultra-simple system inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup id="refnote1"> [1](#footnote1)</sup> using [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
 
+
+
 ###So, how can you start?
 
 **Organize your (digital) documents:**
@@ -20,9 +22,13 @@ Organize your documents and workflow with simple conventions. Boost productivity
 - [Non-Actionable notes: References](#non-actionable-notes-references)
 - [How does it look?](#how-does-it-look)
 
+
+
 ---
 ##Organize your (digital) documents
 *'Every document belongs to a project'.*
+
+
 
 ###Main folder:
 
@@ -35,9 +41,11 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
         Inside your main folder there are 3 folders:
 
-        INBOX folder where you put new documents until deciding what to do with them.
-        CURRENT folder where you store your current projects.
-        ARCHIVE folder where you store your archived projects.
+        INBOX folder (to put new documents until deciding what to do with them).
+        CURRENT folder (to store your current projects).
+        ARCHIVE folder (to store your archived projects).
+
+
 
 ===
 ###Project folders:
@@ -46,44 +54,43 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 - bundle of projects (derived from twitter hashtag): **#**
 
-        Inside folders {current} and {archive} you have bundles of projects:
+        Inside CURRENT and ARCHIVE folders you store bundles of projects:
         Example: #large investor (bundle with all projects of a client)
 
 - project (derived from twitter mention): **@**
 
-    	Inside bundle folders you have projects:
-        Example: @house in lisbon
-
-        To reduce the need of memorization, when naming the project folder
-        you might add the bundle name (if existent):
-        Example: #large investor@house in lisbon
+    	Inside #bundle folders you store projects:
+        Example: @house in portugal    
 
 - subproject (derived from OO programming): **.**
 
-    	Inside projects you can have subprojects:
+    	Inside @projects we store subprojects:
         Example: .building permit
-
-        To reduce the need of memorization, when naming the subproject folder
-        you might add the project name:
-        Example: @house in lisbon.building permit
 
 - folder (each nesting level): **-**
 
-    	Inside subprojects you can have folders:
+    	Inside .subprojects we store folders:
         Example: -plans
 
-        On nested folders you might add previous folder(s) name to reduce memorization:
-        Example: -drawings-sections
-        Example: -drawings-details-wall
+
 
 ===
 ###Naming:
 
+- to reduce the need of memorization or unnecessary nesting on a project, you can name a folder joining more than one nesting level:
+
+        You have only one project inside a bundle, you can simplify nesting:
+        Example: #large investor@house in portugal
+
+        Folder name is too generalist, you can add anterior nesting name(s) to help remembering:
+        Example: @house in portugal.building permit
+        Example: -drawings-sections
+        Example: -drawings-details-wall
+
 - use spaces or other naming style<sup id="refnote3"> [3](#footnote3)</sup>:
 
-        Example using spaces: #large investor@house in lisbon
-        Example using camelCase: #largeInvestor@houseInLisbon
-        Example using PascalCase: #LargeInvestor@HouseInLisbon
+        Example using spaces: #large investor@house in portugal
+        Example using camelCase: #largeInvestor@houseInPortugal
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
@@ -99,6 +106,8 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
+
+
 ===
 ###Archiving:
 
@@ -106,22 +115,28 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 - archive files using [BranchVer](https://github.com/galfarragem/branchVer) (each version *adds* a change on data): **+ branch . progress**
 
+
+
 ===
 ###How to navigate through your documents:
 
-- you only need 2 (or 3) *permanent* desktop shortcuts to navigate through your documents: 
+- you only need 2 *permanent* desktop shortcuts to navigate through your documents: 
 
-        Shortcut to {inbox}
-        Shortcut to {current}
+        Shortcut to INBOX folder
+        Shortcut to CURRENT folder
 
         If you use it often (in theory you don't, they are archived projects):
-        Shortcut to {archive}
+        Shortcut to ARCHIVE folder
 
 - and some *temporary* desktop shortcuts to specific folders that you use a lot.
+
+
 
 ---
 ##Organize your workflow
 *'Inputs to your workflow are materialized as notes'.*
+
+
 
 ###Introduction:
 
@@ -129,7 +144,7 @@ Organize your documents and workflow with simple conventions. Boost productivity
 
 - workflow management is made using a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup id="refnote1"> [1](#footnote1)</sup> for  [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook. Main differences (check also [how does it look](#how-does-it-look)):
 
-  - different Evernote notebook's structure:
+  - simplified Evernote notebook's structure:
 
            0.Inbox (temporary storage before deciding what to do with an item)
            1.Tasks (to store all actionable notes)
@@ -144,6 +159,8 @@ Organize your documents and workflow with simple conventions. Boost productivity
            1-Soon (tasks in the queue to get done)
            2-Someday (tasks to get done someday)
            3-Calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
+
+
 
 ===
 ###Actionable notes (Tasks):
@@ -167,6 +184,8 @@ Organize your documents and workflow with simple conventions. Boost productivity
         (soon) Call Mom
         (someday) Bungee jumping with friends
 
+
+
 ===
 ###Non-actionable notes (References):
 
@@ -175,10 +194,12 @@ Organize your documents and workflow with simple conventions. Boost productivity
 - projects (and subprojects) should have a reference note to compile info as: a list of tasks (*briefing*), a list of completed tasks (*changelog*) and specific references. Therefore name your notes using [project folders notation](#project-folders):
 
         Note with all references regarding a particular subproject:
-        Example: @house in lisbon.building permit
+        Example: @house in portugal.building permit
 
 		Suggestion: use notes to keep your collection of bookmarks.
 		Example: #research@frontend
+
+
 
 ===
 ###How does it look?
