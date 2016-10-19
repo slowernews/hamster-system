@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done). It uses only plain text files on a cloud synced folder<sup> [1](#footnote1)</sup> and a paper notebook.
+Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done) and [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format).
 
 
 
@@ -102,7 +102,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 		Private bundle with all your personal related projects.
         Example: [#personal]
 
-- name your files using a system that fits you<sup id="refnote3"> [34](#footnote3)</sup>. Suggestions:
+- name your files using a system that fits you<sup id="refnote3"> [3](#footnote3)</sup>. Suggestions:
 
 		Use a prefix for standard / boilerplate files: $
         Example: $curriculum+A007
@@ -142,7 +142,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 ###Introduction:
 
-- your workflow consists of a colection of notes. Each note is a plain text file (txt).
+- your workflow consists of a collection of notes. It uses only plain text (each note is a txt file) on a cloud synced folder<sup> [1](#footnote1)</sup> and a paper notebook.   
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
