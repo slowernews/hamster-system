@@ -130,7 +130,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
         A shortcut to archive is not needed, only dormant projects are there.
 
-- and sometimes *temporary* shortcuts to very active folders.
+- and *temporary* shortcuts to very active folders.
 
 
 
@@ -146,7 +146,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on [todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup id="refnote1"> [1](#footnote1)</sup> but using only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> (edited with a text editor<sup id="refnote3"> [3](#footnote3)</sup>) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
+- workflow management is loosely inspired on [todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> (edited with a text editor<sup id="refnote3"> [3](#footnote3)</sup>) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
 
   - folder's structure:
 
@@ -207,7 +207,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###How to navigate through your notes:
 
-- I only use one *permanent* desktop shortcut to navigate through my notes: 
+- you only need one *permanent* desktop shortcut to navigate through your documents: 
 
         Shortcut to NOTES cloud synced folder
 
@@ -216,7 +216,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###How does it look?
 
-- screenshot of Hamster-GTD using a sublime text editor (calendar folder).
+- screenshot of Hamster-GTD using Sublime text editor showing calendar folder.
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
@@ -228,7 +228,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 <sup><a name="footnote2">2</a> - the hamster cheeks :) [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - any text editor is good. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup><br>
-<sup><a name="footnote5">5</a> - relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote5)</sup>
+<sup><a name="footnote5">5</a> - e.g. relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote5)</sup>
 
 
 
