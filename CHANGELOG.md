@@ -1,7 +1,11 @@
+##+0.9 UNRELEASED
+
+(Workflow)
+- Changed: inpired by Todo.txt, hamster-gtd ditched Evernote for plain text files editable in any text editor.
+
 ##+0.8 (2016-10-12)
 
 (Documents)
-
 - Changed: project status folders use now capital letters.
 
 ##+0.7 (2016-07-20)
