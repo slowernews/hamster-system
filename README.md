@@ -33,7 +33,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 ###Main folder:
 
-- main folder<sup id="refnote2"> [2](#footnote2)</sup>: **YOUR NAME**
+- main folder<sup id="refnote1"> [1](#footnote1)</sup>: **YOUR NAME**
 
         First of all create a folder in a safe place of your disk.
         ALL your stuff will be stored there.
@@ -102,7 +102,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 		Private bundle with all your personal related projects.
         Example: [#personal]
 
-- name your files using a system that fits you<sup id="refnote3"> [3](#footnote3)</sup>. Suggestions:
+- name your files using a system that fits you<sup id="refnote2"> [2](#footnote2)</sup>. Suggestions:
 
 		Use a prefix for standard / boilerplate files: $
         Example: $curriculum+A007
@@ -146,7 +146,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files on a cloud synced folder<sup> [1](#footnote1)</sup> (edited with any text editor) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
+- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> (edited with any text editor) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
 
   - folder's structure:
 
@@ -224,9 +224,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - Google Drive, Dropbox, etc.</sup><br>
-<sup><a name="footnote2">2</a> - the hamster cheeks :) [↩](#refnote2)</sup><br>
-<sup><a name="footnote3">3</a> - e.g. relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote3)</sup>
+<sup><a name="footnote1">1</a> - the hamster cheeks :) [↩](#refnote1)</sup><br>
+<sup><a name="footnote2">2</a> - e.g. relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote2)</sup><br>
+<sup><a name="footnote3">3</a> - Google Drive, Dropbox, etc. [↩](#refnote3)</sup>
 
 
 
