@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system based on conventions inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup id="refnote1"> [1](#footnote1)</sup>, using plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
+Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system based on conventions inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup id="refnote1"> [1](#footnote1)</sup>, using only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
 
 
 
@@ -92,6 +92,8 @@ Boost productivity while reducing your stress by organizing your documents and w
 
         Example using spaces: #large investor@house in portugal
         Example using camelCase: #largeInvestor@houseInPortugal
+        Example using snake_case: #large_investor@house_in_portugal
+
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
@@ -216,7 +218,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - screenshot of Hamster-GTD using a sublime text editor (calendar folder).
 
-![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.PNG)
+![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
 
 
@@ -225,7 +227,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 <sup><a name="footnote1">1</a> - without understanding it, this system will not make much sense. [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - the hamster cheeks :) [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - any text editor is good. [↩](#refnote3)</sup><br>
-<sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc [↩](#refnote4)</sup><br>
+<sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup><br>
 <sup><a name="footnote5">5</a> - relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote5)</sup>
 
 
