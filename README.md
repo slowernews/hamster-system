@@ -178,10 +178,10 @@ Boost productivity while reducing your stress by organizing your documents and w
         (2015-11-29=9h) Doctor appointment
 
         Example inserting a trigger/fuzzy date: (date »)
-        (2015-03-10 >>) Waiting for client feedback after this date
+        (2015-03-10 ») Waiting for client feedback after this date
 
         Example inserting a deadline date: (date «)
-        (2015-10-22 <<) Pay electricity bill until this date
+        (2015-10-22 «) Pay electricity bill until this date
 
         Example without knowing the due date: (soon) or (someday)
         (soon) Call Mom
