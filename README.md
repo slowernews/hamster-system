@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done). It uses only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
+Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done). It uses only plain text files on a cloud synced folder<sup id="refnote1"> [1](#footnote1)</sup> and a paper notebook.
 
 
 
@@ -146,7 +146,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> (edited with a text editor<sup id="refnote3"> [3](#footnote3)</sup>) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
+- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files on a cloud synced folder<sup id="refnote1"> [1](#footnote1)</sup> (edited with a text editor<sup id="refnote3"> [3](#footnote3)</sup>) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
 
   - folder's structure:
 
