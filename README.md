@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system based on conventions inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup id="refnote1"> [1](#footnote1)</sup> using [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
+Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system based on conventions inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup id="refnote1"> [1](#footnote1)</sup> using plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
 
 
 
@@ -20,6 +20,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 - [Introduction](#introduction)
 - [Actionable notes: tasks](#actionable-notes-tasks)
 - [Non-actionable notes: references](#non-actionable-notes-references)
+- [How to navigate through your notes](#how-to-navigate-through-your-notes)
 - [How does it look?](#how-does-it-look)
 
 
@@ -42,8 +43,8 @@ Boost productivity while reducing your stress by organizing your documents and w
         Inside your main folder there are 3 folders:
 
         INBOX folder (to put new documents until deciding what to do with them).
-        CURRENT folder (to store your current projects).
-        ARCHIVE folder (to store your archived projects).
+        CURRENT folder (to store your active projects).
+        ARCHIVE folder (to store your dormant projects).
 
 
 
@@ -64,12 +65,12 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - subproject (derived from OO programming): **.**
 
-    	Inside @projects we store .subprojects:
+    	Inside @projects you store .subprojects:
         Example: .building permit
 
 - folder (each nesting level): **-**
 
-    	Inside .subprojects we store -folders:
+    	Inside .subprojects you store -folders:
         Example: -plans
 
 
@@ -125,10 +126,9 @@ Boost productivity while reducing your stress by organizing your documents and w
         Shortcut to INBOX folder
         Shortcut to CURRENT folder
 
-        If you use it often (in theory you don't, they are archived projects):
-        Shortcut to ARCHIVE folder
+        A shortcut to archive is not needed, that's the place for dormant projects.
 
-- and some *temporary* desktop shortcuts to specific folders that you use a lot.
+- and sometimes *temporary* shortcuts to very active folders.
 
 
 
@@ -142,30 +142,31 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is made using a simplified version of [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup id="refnote1"> [1](#footnote1)</sup> for  [Evernote](https://www.evernote.com/referral/Registration.action?sig=3ce24e3db69e37fbf772dab92921127b&uid=52016286)<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook. Main differences (check also [how does it look](#how-does-it-look)):
+- your workflow consists of a colection of notes where each note is one plain text file (txt).
 
-  - simplified Evernote notebook's structure:
+- workflow management is loosely inspired on [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup id="refnote1"> [1](#footnote1)</sup> but using only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> (edited with a text editor) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
 
-           0.Inbox (temporary storage before deciding what to do with an item)
+  - simplified folder's structure:
+
+           0.Inbox (temporary storage before deciding what to do with an item)           
+
            1.Tasks (to store all actionable notes)
-           2.References (to store all non-actionable notes)
-  
-  - simplified *.When* tags for actionable notes:
+             // Used on a paper notebook
+             0. Next (tasks to be done ASAP)
 
-           // Used on a paper notebook
-           0-Next (tasks to be done ASAP)
-           
-           // Used on Evernote
-           1-Soon (tasks in the queue to get done)
-           2-Someday (tasks to get done someday)
-           3-Calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
+             // Used on a cloud synced folder.
+             1. Soon (tasks in the queue to get done)
+             2. Someday (tasks to get done someday)
+             3. Calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
+
+           2.References (to store all non-actionable notes)
 
 
 
 ===
 ###Actionable notes (tasks):
 
-- actionable notes are called **tasks**. All tasks are tagged and managed in one Evernote notebook.
+- actionable notes are called **tasks**. All tasks are tagged and managed in one folder.
 
 - tasks should have a due date: **( )**
 
@@ -196,15 +197,24 @@ Boost productivity while reducing your stress by organizing your documents and w
         Note with all references regarding a particular subproject:
         Example: @house in portugal.building permit
 
-		Suggestion: use notes to keep your collection of bookmarks.
-		Example: #research@frontend
+        Suggestion: use reference notes to keep your collection of bookmarks.
+        Example: #research@frontend
+
+
+
+===
+###How to navigate through your notes:
+
+- I only use 1 *permanent* desktop shortcut to navigate through my notes: 
+
+        Shortcut to NOTES cloud synced folder
 
 
 
 ===
 ###How does it look?
 
-- screenshot of Hamster-GTD using Evernote (*calendar* tag).
+- screenshot of Hamster-GTD using a sublime text editor (calendar folder).
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.PNG)
 
@@ -215,9 +225,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 <sup><a name="footnote1">1</a> - without understanding it, this system will not make much sense. [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - the hamster cheeks :) [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - snake_case is not recommended due to search difficulties in Evernote software.  [↩](#refnote3)</sup><br>
-<sup><a name="footnote4">4</a> - other note taking apps might work also. [↩](#refnote4)</sup><br>
-<sup><a name="footnote4">5</a> - relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote5)</sup>
-
+<sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc [↩](#refnote4)</sup><br>
+<sup><a name="footnote5">5</a> - relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote5)</sup><br>
+<sup><a name="footnote6">5</a> - any text editor is good. [↩](#refnote6)</sup>
 
 
 ---
