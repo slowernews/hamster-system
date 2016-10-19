@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system based on conventions inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup id="refnote1"> [1](#footnote1)</sup>, using only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
+Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done). It uses only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
 
 
 
@@ -102,7 +102,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 		Private bundle with all your personal related projects.
         Example: [#personal]
 
-- name your files using a system that fits you<sup id="refnote5"> [5](#footnote3)</sup>. Suggestions:
+- name your files using a system that fits you<sup id="refnote4"> [4](#footnote4)</sup>. Suggestions:
 
 		Use a prefix for standard / boilerplate files: $
         Example: $curriculum+A007
@@ -146,7 +146,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on [todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> (edited with a text editor<sup id="refnote3"> [3](#footnote3)</sup>) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
+- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> (edited with a text editor<sup id="refnote3"> [3](#footnote3)</sup>) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
 
   - folder's structure:
 
@@ -224,11 +224,10 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - without understanding it, this system will not make much sense. [↩](#refnote1)</sup><br>
+<sup><a name="footnote1">1</a> - Google Drive, Dropbox, etc. [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - the hamster cheeks :) [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - any text editor is good. [↩](#refnote3)</sup><br>
-<sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup><br>
-<sup><a name="footnote5">5</a> - e.g. relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote5)</sup>
+<sup><a name="footnote4">4</a> - e.g. relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote4)</sup>
 
 
 
