@@ -142,11 +142,11 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 ###Introduction:
 
-- your workflow consists of a collection of notes. It uses only plain text (each note is a txt file) on a cloud synced folder<sup> [1](#footnote1)</sup> and a paper notebook.   
+- your workflow consists of a collection of notes. It uses only plain text (each note is a txt file) on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook.   
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> (edited with any text editor) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
+- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files edited with any text editor and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
 
   - folder's structure:
 
@@ -177,10 +177,10 @@ Boost productivity while reducing your stress by organizing your documents and w
         Example inserting a scheduled date: (year-month-day=hour)
         (2015-11-29=9h) Doctor appointment
 
-        Example inserting a trigger/fuzzy date: (date >>)
+        Example inserting a trigger/fuzzy date: (date »)
         (2015-03-10 >>) Waiting for client feedback after this date
 
-        Example inserting a deadline date: (date <<)
+        Example inserting a deadline date: (date «)
         (2015-10-22 <<) Pay electricity bill until this date
 
         Example without knowing the due date: (soon) or (someday)
