@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system based on conventions inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup id="refnote1"> [1](#footnote1)</sup> using plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
+Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system based on conventions inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done)<sup id="refnote1"> [1](#footnote1)</sup>, using plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook.
 
 
 
@@ -88,7 +88,7 @@ Boost productivity while reducing your stress by organizing your documents and w
         Example: -drawings-sections
         Example: -drawings-details-wall
 
-- use spaces or other naming style<sup id="refnote3"> [3](#footnote3)</sup>:
+- use spaces or other naming style:
 
         Example using spaces: #large investor@house in portugal
         Example using camelCase: #largeInvestor@houseInPortugal
@@ -121,12 +121,12 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###How to navigate through your documents:
 
-- you only need 2 *permanent* desktop shortcuts to navigate through your documents: 
+- you only need two *permanent* desktop shortcuts to navigate through your documents: 
 
         Shortcut to INBOX folder
         Shortcut to CURRENT folder
 
-        A shortcut to archive is not needed, that's the place for dormant projects.
+        A shortcut to archive is not needed, only dormant projects are there.
 
 - and sometimes *temporary* shortcuts to very active folders.
 
@@ -140,13 +140,13 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 ###Introduction:
 
+- your workflow consists of a colection of notes. Each note is a plain text file (txt).
+
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- your workflow consists of a colection of notes where each note is one plain text file (txt).
+- workflow management is loosely inspired on [todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup id="refnote1"> [1](#footnote1)</sup> but using only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> (edited with a text editor<sup id="refnote3"> [3](#footnote3)</sup>) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
 
-- workflow management is loosely inspired on [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf)<sup id="refnote1"> [1](#footnote1)</sup> but using only plain text files on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> (edited with a text editor) and a paper notebook. Main structure (check also [how does it look](#how-does-it-look)):
-
-  - simplified folder's structure:
+  - folder's structure:
 
            0.Inbox (temporary storage before deciding what to do with an item)           
 
@@ -190,7 +190,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###Non-actionable notes (references):
 
-- non-actionable notes are called **references**. All references are managed in one major Evernote notebook.
+- non-actionable notes are called **references**. All references are managed in one folder.
 
 - projects (and subprojects) should have a reference note to compile info as: a list of tasks (*briefing*), a list of completed tasks (*changelog*) and specific references. Therefore name your notes using [project folders notation](#project-folders):
 
@@ -205,7 +205,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###How to navigate through your notes:
 
-- I only use 1 *permanent* desktop shortcut to navigate through my notes: 
+- I only use one *permanent* desktop shortcut to navigate through my notes: 
 
         Shortcut to NOTES cloud synced folder
 
@@ -224,10 +224,10 @@ Boost productivity while reducing your stress by organizing your documents and w
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - without understanding it, this system will not make much sense. [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - the hamster cheeks :) [↩](#refnote2)</sup><br>
-<sup><a name="footnote3">3</a> - snake_case is not recommended due to search difficulties in Evernote software.  [↩](#refnote3)</sup><br>
+<sup><a name="footnote3">3</a> - any text editor is good. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc [↩](#refnote4)</sup><br>
-<sup><a name="footnote5">5</a> - relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote5)</sup><br>
-<sup><a name="footnote6">5</a> - any text editor is good. [↩](#refnote6)</sup>
+<sup><a name="footnote5">5</a> - relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote5)</sup>
+
 
 
 ---
