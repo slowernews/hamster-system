@@ -148,18 +148,18 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files edited with any text editor and a paper notebook. Folder's structure (check also [how does it look](#how-does-it-look)):
 
-            0.Inbox (temporary storage before deciding what to do with an item)           
+        0.Inbox (temporary storage before deciding what to do with an item)           
 
-            1.Tasks (to store all actionable notes)
-                // Used on a paper notebook
-                0. Next (tasks to be done ASAP)
+        1.Tasks (to store all actionable notes)
+            // Used on a paper notebook
+            0. Next (tasks to be done ASAP)
 
-                // Used on a cloud synced folder.
-                1. Soon (tasks in the queue to get done)
-                2. Someday (tasks to get done someday)
-                3. Calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
+            // Used on a cloud synced folder.
+            1. Soon (tasks in the queue to get done)
+            2. Someday (tasks to get done someday)
+            3. Calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
 
-            2.References (to store all non-actionable notes)
+        2.References (to store all non-actionable notes)
 
 
 
