@@ -56,22 +56,22 @@ Boost productivity while reducing your stress by organizing your documents and w
 - bundle of projects (derived from twitter hashtag): **#**
 
         Inside CURRENT and ARCHIVE folders you store #bundles of projects:
-        Example: #large investor (bundle with all projects of a client)
+        e.g: #large investor (bundle with all projects of a client)
 
 - project (derived from twitter mention): **@**
 
     	Inside #bundle folders you store @projects:
-        Example: @house in portugal    
+        e.g: @house in portugal    
 
 - subproject (derived from OO programming): **.**
 
     	Inside @projects you store .subprojects:
-        Example: .building permit
+        e.g: .building permit
 
 - folder (each nesting level): **-**
 
     	Inside .subprojects you store -folders:
-        Example: -plans
+        e.g: -plans
 
 
 
@@ -80,19 +80,19 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - to reduce the need of memorization or unnecessary nesting, you can name a folder joining more than one nesting level:
 
-        You have only one project inside a bundle, you can simplify nesting:
-        Example: #large investor@house in portugal
+        When there's only one or two folders inside a folder, you can join them for nesting simplification:
+        Use: #large investor@house in portugal
+        Instead of: #large investor\@house in portugal
 
-        Folder name is too generalist, you can add anterior nesting name(s) to help remembering:
-        Example: @house in portugal.building permit
-        Example: -drawings-sections
-        Example: -drawings-details-wall
+        Folder name is too generalist, add anterior nesting name(s) for context:
+        e.g: -drawings-sections
+        e.g: -drawings-details-wall
 
 - use spaces or other naming style:
 
-        Example using spaces: #large investor@house in portugal
-        Example using camelCase: #largeInvestor@houseInPortugal
-        Example using snake_case: #large_investor@house_in_portugal
+        e.g. using spaces: #large investor@house in portugal
+        e.g. using camelCase: #largeInvestor@houseInPortugal
+        e.g. using snake_case: #large_investor@house_in_portugal
 
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ]**
@@ -100,12 +100,12 @@ Boost productivity while reducing your stress by organizing your documents and w
 - enclose folder's name to mark it as private: **[ ]**
 
 		Private bundle with all your personal related projects.
-        Example: [#personal]
+        e.g: [#personal]
 
 - name your files using a system that fits you<sup id="refnote2"> [2](#footnote2)</sup>. Suggestions:
 
 		Use a prefix for standard / boilerplate files: $
-        Example: $curriculum+A007
+        e.g: $curriculum+A007
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
@@ -172,16 +172,16 @@ Boost productivity while reducing your stress by organizing your documents and w
 
         Dates are inserted before the task description (allowing chronological sorting):
         
-        Example inserting a scheduled date: (year-month-day=hour)
+        e.g. inserting a scheduled date: (year-month-day=hour)
         (2015-11-29=9h) Doctor appointment
 
-        Example inserting a trigger/fuzzy date: (date »)
+        e.g. inserting a trigger/fuzzy date: (date »)
         (2015-03-10 ») Waiting for client feedback after this date
 
-        Example inserting a deadline date: (date «)
+        e.g. inserting a deadline date: (date «)
         (2015-10-22 «) Pay electricity bill until this date
 
-        Example without knowing the due date: (soon) or (someday)
+        e.g. without knowing the due date: (soon) or (someday)
         (soon) Call Mom
         (someday) Bungee jumping with friends
 
@@ -195,10 +195,10 @@ Boost productivity while reducing your stress by organizing your documents and w
 - projects (and subprojects) should have a reference note to compile info as: a list of tasks (*briefing*), a list of completed tasks (*changelog*) and specific references. Therefore name your notes using [project folders notation](#project-folders):
 
         Note with all references regarding a particular subproject:
-        Example: @house in portugal.building permit
+        e.g: @house in portugal.building permit
 
         Suggestion: use reference notes to keep your collection of bookmarks.
-        Example: #research@frontend
+        e.g: #research@frontend
 
 
 
@@ -216,14 +216,14 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - screenshot of Hamster-GTD showing calendar folder on [Sublime](https://www.sublimetext.com/) text editor.
 
-![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
+![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/e.g.s/hamster-workflow_screenshot%20e.g..PNG)
 
 
 
 ---
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - the hamster cheeks :) [↩](#refnote1)</sup><br>
-<sup><a name="footnote2">2</a> - e.g. relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote2)</sup><br>
+<sup><a name="footnote2">2</a> - e.g: relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - Google Drive, Dropbox, etc. [↩](#refnote3)</sup>
 
 
