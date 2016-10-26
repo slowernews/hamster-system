@@ -205,9 +205,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###How to navigate through your notes:
 
-- you only need one *permanent* desktop shortcut to navigate through your documents: 
-
-        Shortcut to NOTES cloud synced folder
+- use Sublime side bar for navigation.
 
 
 
