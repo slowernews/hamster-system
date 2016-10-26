@@ -82,9 +82,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 
         When there's only one or two folders inside a folder, you can join them for nesting simplification:
         Use: #large investor@house in portugal
-        Instead of: #large investor\@house in portugal
+        Instead of: #large investor \ house in portugal
 
-        Folder name is too generalist, add anterior nesting name(s) for context:
+        When the folder name is too generalist, add anterior nesting name(s) for context:
         e.g: -drawings-sections
         e.g: -drawings-details-wall
 
@@ -142,7 +142,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 ###Introduction:
 
-- your workflow consists of a collection of notes. It uses only plain text (each note is a txt file) on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook.   
+- your workflow consists of a collection of plain text notes on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> or on paper notebook.   
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
@@ -151,10 +151,10 @@ Boost productivity while reducing your stress by organizing your documents and w
         0.Inbox (temporary storage before deciding what to do with an item)           
 
         1.Tasks (to store all actionable notes)
-            // Used on a paper notebook
+            // on a paper notebook
             0. Next (tasks to be done ASAP)
 
-            // Used on a cloud synced folder.
+            // on a cloud synced folder.
             1. Soon (tasks in the queue to get done)
             2. Someday (tasks to get done someday)
             3. Calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
@@ -192,7 +192,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - non-actionable notes are called **references**. All references are managed in one folder.
 
-- projects (and subprojects) should have a reference note to compile info as: a list of tasks (*briefing*), a list of completed tasks (*changelog*) and specific references. Therefore name your notes using [project folders notation](#project-folders):
+- projects should have a reference note to compile info as: a list of tasks (*briefing*), a list of completed tasks (*changelog*) and specific references. Therefore name your notes using [project folders notation](#project-folders):
 
         Note with all references regarding a particular subproject:
         e.g: @house in portugal.building permit
@@ -216,7 +216,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - screenshot of Hamster-GTD showing calendar folder on [Sublime](https://www.sublimetext.com/) text editor.
 
-![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/e.g.s/hamster-workflow_screenshot%20e.g..PNG)
+![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
 
 
