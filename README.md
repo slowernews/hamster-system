@@ -82,7 +82,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
         When there's only one or two folders inside a folder, you can join them for nesting simplification:
         Use: #large investor@house in portugal
-        Instead of: #large investor \ house in portugal
+        Instead of: #large investor \ @house in portugal
 
         When the folder name is too generalist, add anterior nesting name(s) for context:
         e.g: -drawings-sections
@@ -166,7 +166,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###Actionable notes (tasks):
 
-- actionable notes are called **tasks**. All tasks are tagged and managed in one folder.
+- actionable notes are called **tasks**. All tasks are managed in one folder.
 
 - tasks should have a due date: **( )**
 
@@ -175,11 +175,11 @@ Boost productivity while reducing your stress by organizing your documents and w
         e.g. inserting a scheduled date: (year-month-day=hour)
         (2015-11-29=9h) Doctor appointment
 
-        e.g. inserting a trigger/fuzzy date: (date »)
-        (2015-03-10 ») Waiting for client feedback after this date
+        e.g. inserting a trigger/fuzzy date: (date >>)
+        (2015-03-10 >>) Waiting for client feedback after this date
 
-        e.g. inserting a deadline date: (date «)
-        (2015-10-22 «) Pay electricity bill until this date
+        e.g. inserting a deadline date: (date <<)
+        (2015-10-22 <<) Pay electricity bill until this date
 
         e.g. without knowing the due date: (soon) or (someday)
         (soon) Call Mom
