@@ -42,9 +42,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 
         Inside your main folder there are 3 folders:
 
-        INBOX folder (to put new documents until deciding what to do with them).
-        CURRENT folder (to store your active projects).
-        ARCHIVE folder (to store your dormant projects).
+        INBOX (folder to put new documents until deciding what to do with them).
+        CURRENT (folder to store your active projects).
+        ARCHIVE (folder to store your dormant projects).
 
 
 
@@ -78,9 +78,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###Naming:
 
-- to reduce the need of memorization or unnecessary nesting, you can name a folder joining more than one nesting level:
+- to reduce unnecessary nesting and memorization, name some folders combining nesting levels:
 
-        When there's only one or two folders inside a folder, you can join them for nesting simplification:
+        e.g: When having one or two folders inside a folder, you can join them and reduce nesting
         Use: #large investor@house in portugal
         Instead of: #large investor \ @house in portugal
 
