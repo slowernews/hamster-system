@@ -1,7 +1,7 @@
 ##+0.9 UNRELEASED
 
 (Workflow)
-- Changed: inpired by Todo.txt, hamster-gtd ditched Evernote for plain text files editable in any text editor.
+- Changed: inspired by Todo.txt, hamster-gtd ditched Evernote for plain text files.
 
 ##+0.8 (2016-10-12)
 
