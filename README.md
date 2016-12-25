@@ -146,9 +146,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files edited with any text editor and a paper notebook. Folder's structure (check also [how does it look](#how-does-it-look)):
-
-        0.Inbox (temporary storage before deciding what to do with an item)           
+- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files edited with any text editor and a paper notebook. Folder's structure (check also [how does it look](#how-does-it-look)):       
 
         1.Tasks (to store all actionable notes)
             // on a paper notebook
@@ -205,7 +203,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###How to navigate through your notes:
 
-- use Sublime side bar for navigation.
+- use Text Editor's side bar for navigation.
 
 
 
