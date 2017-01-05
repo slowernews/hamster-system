@@ -211,7 +211,8 @@ Time related tasks live within the same file.
 ===
 ###How does it look?
 
-- screenshot of Hamster-GTD showing calendar folder on [Sublime](https://www.sublimetext.com/) text editor.
+- screenshot of Hamster-GTD showing calendar tasks file on [Sublime](https://www.sublimetext.com/) text editor.<br>
+HINT: On Sublime press F9 (on windows/linux) or F5 (on Mac) to sort dates!
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
