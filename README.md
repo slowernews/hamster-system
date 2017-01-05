@@ -142,29 +142,30 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 ###Introduction:
 
-- your workflow consists of a collection of plain text notes on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> or on paper notebook.   
+- your workflow consists of a collection of plain text notes on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and on paper notebook.   
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files edited with any text editor and a paper notebook. Folder's structure (check also [how does it look](#how-does-it-look)):       
+- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files edited with any text editor and a paper notebook. Files's structure (check also [how does it look](#how-does-it-look)):       
 
-        1.Tasks (to store all actionable notes)
+        References (folder to store all non-actionable notes)
+
+        Tasks (folder to store all actionable notes)
             // on a paper notebook
-            0. Next (tasks to be done ASAP)
+            0-next (tasks to be done ASAP)
 
-            // on a cloud synced folder.
-            1. Soon (tasks in the queue to get done)
-            2. Someday (tasks to get done someday)
-            3. Calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
-
-        2.References (to store all non-actionable notes)
+            // TXT files on a cloud synced folder
+            1-soon (tasks in the queue to get done)
+            2-calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
+            3-someday (tasks to get done someday)
 
 
 
 ===
 ###Actionable notes (tasks):
 
-- actionable notes are called **tasks**. All tasks are managed in one folder.
+- actionable notes are called **tasks**. All tasks are managed in one folder.<br>
+Time related tasks live within the same file.
 
 - tasks should have a due date: **( )**
 
