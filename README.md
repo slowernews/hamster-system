@@ -149,6 +149,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 - workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files edited with any text editor and a paper notebook. Files's structure (check also [how does it look](#how-does-it-look)):       
 
         References (folder to store all non-actionable notes)
+        	// TXT files on a cloud synced folder
 
         Tasks (folder to store all actionable notes)
             // on a paper notebook
@@ -212,7 +213,7 @@ Time related tasks live within the same file.
 ###How does it look?
 
 - screenshot of Hamster-GTD showing calendar tasks file on [Sublime](https://www.sublimetext.com/) text editor.<br>
-HINT: On Sublime press F9 (on windows/linux) or F5 (on Mac) to sort dates!
+HINT: on Sublime press F9 (on windows/linux) or F5 (on Mac) to sort dates.
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
