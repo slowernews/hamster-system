@@ -82,7 +82,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
         e.g: When having one or two folders inside a folder, you can join them and reduce nesting
         Use: #large investor@house in portugal
-        Instead of: #large investor \ @house in portugal
+        Instead of: #large investor / @house in portugal
 
         When the folder name is too generalist, add anterior nesting name(s) for context:
         e.g: -drawings-sections
@@ -92,8 +92,6 @@ Boost productivity while reducing your stress by organizing your documents and w
 
         e.g. using spaces: #large investor@house in portugal
         e.g. using camelCase: #largeInvestor@houseInPortugal
-        e.g. using snake_case: #large_investor@house_in_portugal
-
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ]**
 
@@ -106,6 +104,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 		Use a prefix for standard / boilerplate files: $
         e.g: $curriculum+A007
+
+		Use a prefix for temporary files: _
+        e.g: _tempFile 
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
@@ -148,15 +149,13 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files edited with any text editor and a paper notebook. Files's structure (check also [how does it look](#how-does-it-look)):       
 
-        References (folder to store all non-actionable notes)
-        	// TXT files on a cloud synced folder
+        References (TXT files on a cloud synced folder)
 
-        Tasks (folder to store all actionable notes)
-            // on a paper notebook
+        Tasks (on a paper notebook)
             0-next (tasks to be done ASAP)
+            1-soon (tasks in the queue to get done)
 
             // TXT files on a cloud synced folder
-            1-soon (tasks in the queue to get done)
             2-calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
             3-someday (tasks to get done someday)
 
