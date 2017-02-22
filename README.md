@@ -9,7 +9,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 **Organize your (digital) documents:**
 
-- [Main folder](#main-folder)
+- [Container](#container)
 - [Project folders](#project-folders)
 - [Naming](#naming)
 - [Archiving](#archiving)
@@ -31,7 +31,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 
 
-###Main folder:
+###Container:
 
 - top folder<sup id="refnote1"> [1](#footnote1)</sup>: **YOUR NAME**
 
@@ -40,7 +40,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - main folders: **PROJECT STATUS**
 
-        Inside your top folder there are 3 folders where you store all your projects:
+        Inside your top folder there are 3 folders:
 
         INBOX (folder to put new documents until deciding what to do with them).
         CURRENT (folder to store your active projects).
@@ -80,7 +80,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - to reduce unnecessary nesting and memorization, name some folders combining nesting levels:
 
-        e.g: When having just one or two folders inside a folder, join them and reduce nesting
+        e.g: When having just one or two folders inside a folder, join them and reduce nesting.
         Use: #small investor@house in portugal
         Instead of: #small investor / @house in portugal
 
