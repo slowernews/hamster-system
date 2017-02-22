@@ -80,9 +80,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - to reduce unnecessary nesting and memorization, name some folders combining nesting levels:
 
-        e.g: When having one or two folders inside a folder, you can join them and reduce nesting
-        Use: #large investor@house in portugal
-        Instead of: #large investor / @house in portugal
+        e.g: When having just one or two folders inside a folder, join them and reduce nesting
+        Use: #small investor@house in portugal
+        Instead of: #small investor / @house in portugal
 
         When the folder name is too generalist, add anterior nesting name(s) for context:
         e.g: -drawings-sections
@@ -164,8 +164,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###Actionable notes (tasks):
 
-- actionable notes are called **tasks**. All tasks are managed in one folder.<br>
-Time related tasks live within the same file.
+- actionable notes are called **tasks**. Time related tasks live within the same file.
+Long term tasks are managed on a cloud synced folder.<br>
+Short term tasks are managed on a paper notebook.
 
 - tasks should have a due date: **( )**
 
@@ -189,12 +190,12 @@ Time related tasks live within the same file.
 ===
 ###Non-actionable notes (references):
 
-- non-actionable notes are called **references**. All references are managed in one folder.
+- non-actionable notes are called **references**. All references are managed on a cloud synced folder
 
 - projects should have a reference note to compile info as: a list of tasks (*briefing*), a list of completed tasks (*changelog*) and specific references. Therefore name your notes using [project folders notation](#project-folders):
 
-        Note with all references regarding a particular subproject:
-        e.g: @house in portugal.building permit
+        Note with all references regarding a particular project:
+        e.g: @house in portugal
 
         Suggestion: use reference notes to keep your collection of bookmarks.
         e.g: #research@frontend
@@ -212,7 +213,7 @@ Time related tasks live within the same file.
 ###How does it look?
 
 - screenshot of Hamster-GTD showing calendar tasks file on [Sublime](https://www.sublimetext.com/) text editor.<br>
-HINT: on Sublime press F9 (on windows/linux) or F5 (on Mac) to sort dates.
+HINT: on Sublime press F9 (or F5 on Mac) to sort dates.
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
