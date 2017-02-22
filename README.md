@@ -33,14 +33,14 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 ###Main folder:
 
-- main folder<sup id="refnote1"> [1](#footnote1)</sup>: **YOUR NAME**
+- top folder<sup id="refnote1"> [1](#footnote1)</sup>: **YOUR NAME**
 
         First of all create a folder in a safe place of your disk.
         ALL your stuff will be stored there.
 
-- project status: **PROJECT STATUS**
+- main folders: **PROJECT STATUS**
 
-        Inside your main folder there are 3 folders:
+        Inside your top folder there are 3 folders where you store all your projects:
 
         INBOX (folder to put new documents until deciding what to do with them).
         CURRENT (folder to store your active projects).
@@ -88,25 +88,23 @@ Boost productivity while reducing your stress by organizing your documents and w
         e.g: -drawings-sections
         e.g: -drawings-details-wall
 
-- use spaces or other naming style:
-
-        e.g. using spaces: #large investor@house in portugal
-        e.g. using camelCase: #largeInvestor@houseInPortugal
-
-- but don't use these symbols for regular naming: **# @ . - + $ % { } [ ]**
-
-- enclose folder's name to mark it as private: **[ ]**
-
-		Private bundle with all your personal related projects.
-        e.g: [#personal]
-
 - name your files using a system that fits you<sup id="refnote2"> [2](#footnote2)</sup>. Suggestions:
+
+		Enclose folder's name to mark it as private: [ ]
+        e.g: [#personal]
 
 		Use a prefix for standard / boilerplate files: $
         e.g: $curriculum+A007
 
 		Use a prefix for temporary files: _
         e.g: _tempFile 
+
+- use spaces or other naming style:
+
+        e.g. using spaces: #large investor@house in portugal
+        e.g. using camelCase: #largeInvestor@houseInPortugal
+
+- but don't use these symbols for regular naming: **# @ . - + $ % { } [ ] _**
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
@@ -164,7 +162,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###Actionable notes (tasks):
 
-- actionable notes are called **tasks**. Time related tasks live within the same file.
+- actionable notes are called **tasks**. Time related tasks live within the same file.<br>
 Long term tasks are managed on a cloud synced folder.<br>
 Short term tasks are managed on a paper notebook.
 
