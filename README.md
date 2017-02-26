@@ -33,14 +33,14 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 ###Container:
 
-- top folder<sup id="refnote1"> [1](#footnote1)</sup>: **YOUR NAME**
+- container folder<sup id="refnote1"> [1](#footnote1)</sup>: **YOUR NAME**
 
         First of all create a folder in a safe place of your disk.
         ALL your stuff will be stored there.
 
 - main folders: **PROJECT STATUS**
 
-        Inside your top folder there are 3 folders:
+        Inside your container folder there are 3 folders:
 
         INBOX (folder to put new documents until deciding what to do with them).
         CURRENT (folder to store your active projects).
@@ -88,7 +88,11 @@ Boost productivity while reducing your stress by organizing your documents and w
         e.g: -drawings-sections
         e.g: -drawings-details-wall
 
-- name your files using a system that fits you<sup id="refnote2"> [2](#footnote2)</sup>. Suggestions:
+- name your files using a system that fits you<sup id="refnote2"> [2](#footnote2)</sup>. Hints:
+
+		Use spaces or other naming style:
+        e.g. using spaces: #large investor@house in portugal
+        e.g. using camelCase: #largeInvestor@houseInPortugal
 
 		Enclose folder's name to mark it as private: [ ]
         e.g: [#personal]
@@ -98,11 +102,6 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 		Use a prefix for temporary files: _
         e.g: _tempFile 
-
-- use spaces or other naming style:
-
-        e.g. using spaces: #large investor@house in portugal
-        e.g. using camelCase: #largeInvestor@houseInPortugal
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ] _**
 
@@ -162,9 +161,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 ===
 ###Actionable notes (tasks):
 
-- actionable notes are called **tasks**. Time related tasks live within the same file.<br>
-Long term tasks are managed on a cloud synced folder.<br>
-Short term tasks are managed on a paper notebook.
+- actionable notes are called **tasks**. Time related tasks live within the same file:<br>
+Short term tasks are managed on a paper notebook.<br>
+Long term tasks are managed on a cloud synced folder.
 
 - tasks should have a due date: **( )**
 
@@ -188,7 +187,7 @@ Short term tasks are managed on a paper notebook.
 ===
 ###Non-actionable notes (references):
 
-- non-actionable notes are called **references**. All references are managed on a cloud synced folder
+- non-actionable notes are called **references**. All references are managed on a cloud synced folder.
 
 - projects should have a reference note to compile info as: a list of tasks (*briefing*), a list of completed tasks (*changelog*) and specific references. Therefore name your notes using [project folders notation](#project-folders):
 
