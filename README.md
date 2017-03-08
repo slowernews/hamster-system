@@ -128,9 +128,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
         A shortcut to archive is not needed, only dormant projects are there.
 
-- *temporary* shortcuts to very active folders.
-
-- and/or a laucher-finder<sup id="refnote3"> [3](#footnote3)</sup>. 
+- and/or a laucher-file finder<sup id="refnote3"> [3](#footnote3)</sup>. 
 
 
 
@@ -222,7 +220,8 @@ HINT: on Sublime press F9 (or F5 on Mac) to sort dates.
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - the hamster cheeks :) [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - e.g: relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote2)</sup><br>
-<sup><a name="footnote3">3</a> - after having tried most options (keypirinha, everything, cerebro, wox, zazu, launchy, farr, win+type) I'm using the free version of [listary](http://www.listary.com/). Pros: Launch and search with the same software, low memory usage, fast, configurable. Cons: No calculator function and no free theming. [↩](#refnote3)</sup><br>
+<sup><a name="footnote3">3</a> - after having tried most options on Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/).<br>
+Pros: Launch and search with the same software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">3</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup>
 
 
