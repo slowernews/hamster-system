@@ -21,7 +21,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 - [Actionable notes: tasks](#actionable-notes-tasks)
 - [Non-actionable notes: references](#non-actionable-notes-references)
 - [How to navigate through your notes](#how-to-navigate-through-your-notes)
-- [How does it look?](#how-does-it-look)
+- [Screenshots](#screenshots)
 
 
 
@@ -215,12 +215,12 @@ Long term tasks are managed on a cloud synced folder.
 
 - example reference note on Sublime text editor.
 
-![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.PNG)
+![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
 
 - For readability, instead of JSON or even YAML, I use invalid CSON (Coffeescript JSON).<br>
 This is valid CSON and it will convert easily to JSON in case of future need.
 
-![hamster-workflow-screenshot-3](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example3.PNG)
+![hamster-workflow-screenshot-3](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example3.png)
 
 
 
