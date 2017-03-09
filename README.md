@@ -213,7 +213,7 @@ Long term tasks are managed on a cloud synced folder.
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
-- reference note on Sublime text editor using my personal style.<br> Use it as an hint.<br>
+- reference note on Sublime text editor using my personal style. Use it as an hint.<br>
 For readability, instead of YAML, I use invalid CSON (Coffeescript JSON) that will be easily validated if needed:
 
 ![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
@@ -232,5 +232,8 @@ For readability, instead of YAML, I use invalid CSON (Coffeescript JSON) that wi
 Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup><br>
 <sup><a name="footnote5">5</a> - HINT: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup>
+
+
+
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
