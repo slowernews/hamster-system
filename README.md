@@ -213,12 +213,12 @@ Long term tasks are managed on a cloud synced folder.
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
-- example reference note on Sublime text editor.
+- example of a reference note on Sublime text editor.
 
 ![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
 
-- For readability, instead of JSON or even YAML, I use invalid CSON (Coffeescript JSON).<br>
-This is valid CSON and it will convert easily to JSON in case of future need.
+- for readability, instead of YAML, I use invalid CSON (Coffeescript JSON) that will be easily validated if needed.<br>
+Valid CSON that will be straightforward converted to JSON:
 
 ![hamster-workflow-screenshot-3](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example3.png)
 
