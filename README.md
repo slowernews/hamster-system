@@ -144,7 +144,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files edited with any text editor and a paper notebook. Files's structure (check also [how does it look](#how-does-it-look)):       
+- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files edited with any text editor and a paper notebook. Files's structure (check also [screenshots](#screenshots)):       
 
         References (TXT files on a cloud synced folder)
 
@@ -207,12 +207,20 @@ Long term tasks are managed on a cloud synced folder.
 
 
 ===
-###How does it look?
+###Screenshots:
 
-- screenshot of Hamster-GTD showing calendar tasks file on [Sublime](https://www.sublimetext.com/) text editor.<br>
-HINT: on Sublime press F9 (or F5 on Mac) to sort dates.
+- calendar tasks note on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
+
+- example reference note on Sublime text editor.
+
+![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.PNG)
+
+- For readability, instead of JSON or even YAML, I use invalid CSON (Coffeescript JSON).<br>
+This is valid CSON and it will convert easily to JSON in case of future need.
+
+![hamster-workflow-screenshot-3](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example3.PNG)
 
 
 
@@ -220,11 +228,9 @@ HINT: on Sublime press F9 (or F5 on Mac) to sort dates.
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - the hamster cheeks :) [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - e.g: relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote2)</sup><br>
-<sup><a name="footnote3">3</a> - after having tried most options on Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/).<br>
-Pros: Launch and search with the same software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
-<sup><a name="footnote4">3</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup>
-
-
-
+<sup><a name="footnote3">3</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/).<br>
+Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
+<sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup><br>
+<sup><a name="footnote5">5</a> - HINT: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup>
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://enioferreira.com/" property="cc:attributionName" rel="cc:attributionURL">Enio Ferreira</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
