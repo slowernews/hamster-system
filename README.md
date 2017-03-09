@@ -213,8 +213,8 @@ Long term tasks are managed on a cloud synced folder.
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
-- reference note on Sublime text editor using my personal style. Use it as an hint.<br>
-For readability, instead of YAML, I use invalid CSON (Coffeescript JSON) that will be easily validated if needed:
+- reference note using my personal style. Use it as an hint.<br>
+For readability, instead of YAML, I use invalid Coffeescript JSON (easy to validate if needed):
 
 ![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
 
@@ -231,7 +231,7 @@ For readability, instead of YAML, I use invalid CSON (Coffeescript JSON) that wi
 <sup><a name="footnote3">3</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/).<br>
 Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup><br>
-<sup><a name="footnote5">5</a> - HINT: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup>
+<sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup>
 
 
 
