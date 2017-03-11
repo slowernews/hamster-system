@@ -214,7 +214,7 @@ Long term tasks are managed on a cloud synced folder.
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
 - reference note using my personal style. Use it as an hint.<br>
-For readability, I use [YAML](https://www.json2yaml.com/convert-yaml-to-json):
+I use [YAML](https://www.json2yaml.com/convert-yaml-to-json). It's readable and allows data exchange:
 
 ![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
 
