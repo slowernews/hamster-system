@@ -1,7 +1,7 @@
 Hamster-GTD
 ===========
 
-Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files) and [Bullet journal](http://bulletjournal.com/) (notes on paper).
+Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox zero and Desktop zero.
 
 
 
@@ -214,13 +214,9 @@ Long term tasks are managed on a cloud synced folder.
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
 - reference note using my personal style. Use it as an hint.<br>
-For readability, instead of YAML, I use invalid (but easy to validate) Coffeescript JSON:
+For readability, I use [YAML](https://www.json2yaml.com/convert-yaml-to-json):
 
 ![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
-
-- example of valid CSON that will be straightforward converted to JSON:
-
-![hamster-workflow-screenshot-3](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example3.png)
 
 
 
