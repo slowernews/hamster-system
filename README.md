@@ -1,11 +1,11 @@
 Hamster-GTD
-===========
+-----------
 
 Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox and Desktop zero.
 
 
 
-###So, how can you start?
+### So, how can you start?
 
 **Organize your (digital) documents:**
 
@@ -26,12 +26,12 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 
 ---
-##Organize your (digital) documents
+## Organize your (digital) documents
 *'Every document belongs to a project'.*
 
 
 
-###Container:
+### Container:
 
 - container folder<sup id="refnote1"> [1](#footnote1)</sup>: **YOUR NAME**
 
@@ -48,8 +48,8 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 
 
-===
-###Project folders:
+---
+### Project folders:
 
 *# bundle @ project . subproject - folder - nested folder*
 
@@ -75,8 +75,8 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 
 
-===
-###Naming:
+---
+### Naming:
 
 - to reduce unnecessary nesting and memorization, name some folders combining nesting levels:
 
@@ -109,8 +109,8 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 
 
-===
-###Archiving:
+---
+### Archiving:
 
 - archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch**
 
@@ -118,8 +118,8 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 
 
-===
-###How to navigate through your documents:
+---
+### How to navigate through your documents:
 
 - you only need two *permanent* desktop shortcuts to navigate through your documents: 
 
@@ -133,12 +133,12 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 
 ---
-##Organize your workflow
+## Organize your workflow
 *'Inputs to your workflow are materialized as notes'.*
 
 
 
-###Introduction:
+### Introduction:
 
 - your workflow consists of a collection of plain text notes on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and on paper notebook.   
 
@@ -158,8 +158,8 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 
 
-===
-###Actionable notes (tasks):
+---
+### Actionable notes (tasks):
 
 - actionable notes are called **tasks**. Time related tasks live within the same file:<br>
 Short term tasks are managed on a paper notebook.<br>
@@ -184,8 +184,8 @@ Long term tasks are managed on a cloud synced folder.
 
 
 
-===
-###Non-actionable notes (references):
+---
+### Non-actionable notes (references):
 
 - non-actionable notes are called **references**. All references are managed on a cloud synced folder.
 
@@ -199,15 +199,15 @@ Long term tasks are managed on a cloud synced folder.
 
 
 
-===
-###How to navigate through your notes:
+---
+### How to navigate through your notes:
 
 - use Text Editor's side bar for navigation.
 
 
 
-===
-###Screenshots:
+---
+### Screenshots:
 
 - calendar tasks note on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
 
