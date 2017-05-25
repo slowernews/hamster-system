@@ -134,9 +134,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 
 ---
-### What problems does this naming solve:
+### What problems does this naming system solve:
 
-- a file finder<sup id="refnote3"> [3](#footnote3) is very useful when you remember the filename. Less when you don't.<br>
+- a file finder<sup id="refnote3"> [3](#footnote3)</sup> is very useful when you remember the filename. Less when you don't.<br>
 By the other and, this system allows you to predict (with acceptable accuracy) filenames and where they are stored.
 
 - some jobs require to transmit project folders with all project files. Adding a predictable structure is "the cherry on the cake".
