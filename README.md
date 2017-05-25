@@ -3,6 +3,8 @@ Hamster-GTD
 
 Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox and Desktop zero.
 
+**TLDR:** [What does this stuff solves?](#tldr)
+
 ### So, how can you start?
 
 **Organize your (digital) documents:**
@@ -20,8 +22,6 @@ Boost productivity while reducing your stress by organizing your documents and w
 - [Non-actionable notes: references](#non-actionable-notes-references)
 - [How to navigate through your notes](#how-to-navigate-through-your-notes)
 - [Screenshots](#screenshots)
-
-**TLDR:** [What does this stuff solves?](#tldr)
 
 
 
@@ -229,11 +229,11 @@ By the other hand, this system allows you to predict (with acceptable accuracy) 
 
 #### Workflow management:
 
-- low tech and simplicity: use your favorite text editor, your favorite cloud and a paper notebook. No extra tools.
+- simple and low tech solution: use your favorite text editor, your favorite cloud and a paper notebook. No extra tools.
 
 - merge the *good parts* of many workflow management approaches: [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) (GTD on Evernote), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox Zero and Desktop zero.
 
-- if you need data exchange writing notes as readable YAML will allow it.
+- writing TXT notes using [YAML](https://www.json2yaml.com/convert-yaml-to-json) will guarantee future data exchange and serialization (if needed).
 
 
 
