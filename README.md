@@ -14,6 +14,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 - [Naming](#naming)
 - [Archiving](#archiving)
 - [How to navigate through your documents](#how-to-navigate-through-your-documents)
+- [What problems does this naming system solve?](#what-problems-does-this-naming-system-solve)
 
 **Organize your workflow:**
 
@@ -133,6 +134,16 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 
 ---
+### What problems does this naming solve:
+
+- a file finder<sup id="refnote3"> [3](#footnote3) is very useful when you remember the filename. Less when you don't.<br>
+By the other and, this system allows you to predict (with acceptable accuracy) filenames and where they are stored.
+
+- some jobs require to transmit project folders with all project files. Adding a predictable structure is "the cherry on the cake".
+
+
+
+---
 ## Organize your workflow
 *'Inputs to your workflow are materialized as notes'.*
 
@@ -149,7 +160,7 @@ Boost productivity while reducing your stress by organizing your documents and w
         References (TXT files on a cloud synced folder)
 
         Tasks
-        	(on a paper notebook)
+            (on a paper notebook)
             0-next (tasks to be done ASAP)
             1-soon (tasks in the queue to get done)
 
@@ -188,9 +199,10 @@ Long-term due tasks are managed on a cloud synced folder.
 ---
 ### Non-actionable notes (references):
 
-- non-actionable notes are called **references**  andare managed on a cloud synced folder.
+- non-actionable notes are called **references**  and are managed on a cloud synced folder.
 
-- Hint: use reference notes to keep your collection of bookmarks.
+- hint: use reference notes to keep your collection of bookmarks.
+
         e.g: #bookmarks@frontend
 
 
@@ -222,7 +234,7 @@ Long-term due tasks are managed on a cloud synced folder.
 <sup><a name="footnote3">3</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/) Lite.<br>
 Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup><br>
-<sup><a name="footnote5">5</a> - hint: on Sublime Ctrl+Shift+F to search all your notes. [↩](#refnote5)</sup><br>
+<sup><a name="footnote5">5</a> - hint: on Sublime press Ctrl+Shift+F to search all your notes. [↩](#refnote5)</sup><br>
 <sup><a name="footnote5">6</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote6)</sup>
 
 
