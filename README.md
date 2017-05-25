@@ -35,16 +35,16 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - container folder<sup id="refnote1"> [1](#footnote1)</sup>: **YOUR NAME**
 
-        First of all create a folder in a safe place of your disk.
+        First of all create a folder in a partition of your disk.
         ALL your stuff will be stored there.
 
 - main folders: **PROJECT STATUS**
 
         Inside your container folder there are 3 folders:
 
-        INBOX (folder to put new documents until deciding what to do with them).
-        CURRENT (folder to store your active projects).
-        ARCHIVE (folder to store your dormant projects).
+        INBOX (folder to put new documents until deciding what to do with them)
+        CURRENT (folder to store your active projects)
+        ARCHIVE (folder to store your dormant projects)
 
 
 
@@ -78,11 +78,11 @@ Boost productivity while reducing your stress by organizing your documents and w
 ---
 ### Naming:
 
-- to reduce unnecessary nesting and memorization, name some folders combining nesting levels:
+- to reduce unnecessary nesting and memorization, merge folders:
 
         e.g: When having just one or two folders inside a folder, join them and reduce nesting.
-        Use: #small investor@house in portugal
-        Instead of: #small investor / @house in portugal
+        Use: @house in portugal.building permit
+        Instead of: @house in portugal / .building permit
 
         When the folder name is too generalist, add anterior nesting name(s) for context:
         e.g: -drawings-sections
@@ -140,7 +140,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 ### Introduction:
 
-- your workflow consists of a collection of plain text notes on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and on paper notebook.   
+- your workflow consists of a collection of plain text notes on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and notes on a paper notebook.   
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
@@ -148,11 +148,12 @@ Boost productivity while reducing your stress by organizing your documents and w
 
         References (TXT files on a cloud synced folder)
 
-        Tasks (on a paper notebook)
+        Tasks
+        	(on a paper notebook)
             0-next (tasks to be done ASAP)
             1-soon (tasks in the queue to get done)
 
-            // TXT files on a cloud synced folder
+            (TXT files on a cloud synced folder)
             2-calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
             3-someday (tasks to get done someday)
 
@@ -162,8 +163,8 @@ Boost productivity while reducing your stress by organizing your documents and w
 ### Actionable notes (tasks):
 
 - actionable notes are called **tasks**. Time related tasks live within the same file:<br>
-Short term tasks are managed on a paper notebook.<br>
-Long term tasks are managed on a cloud synced folder.
+Short-term due tasks are managed on a paper notebook.<br>
+Long-term due tasks are managed on a cloud synced folder.
 
 - tasks should have a due date: **( )**
 
@@ -187,29 +188,24 @@ Long term tasks are managed on a cloud synced folder.
 ---
 ### Non-actionable notes (references):
 
-- non-actionable notes are called **references**. All references are managed on a cloud synced folder.
+- non-actionable notes are called **references**  andare managed on a cloud synced folder.
 
-- projects should have a reference note to compile info as: a list of tasks (*briefing*), a list of completed tasks (*changelog*) and specific references. Therefore name your notes using [project folders notation](#project-folders):
-
-        Note with all references regarding a particular project:
-        e.g: @house in portugal
-
-        Suggestion: use reference notes to keep your collection of bookmarks.
-        e.g: #research@frontend
+- Hint: use reference notes to keep your collection of bookmarks.
+        e.g: #bookmarks@frontend
 
 
 
 ---
 ### How to navigate through your notes:
 
-- use Text Editor's side bar for navigation.
+- use text editor's side bar and built-in search.<sup id="refnote5"> [5](#footnote5)</sup>
 
 
 
 ---
 ### Screenshots:
 
-- calendar tasks note on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
+- calendar tasks note on Sublime text editor.<sup id="refnote6"> [6](#footnote6)</sup>
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
@@ -223,11 +219,11 @@ Long term tasks are managed on a cloud synced folder.
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - the hamster cheeks :) [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - e.g: relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote2)</sup><br>
-<sup><a name="footnote3">3</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/).<br>
+<sup><a name="footnote3">3</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/) Lite.<br>
 Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup><br>
-<sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup>
-
+<sup><a name="footnote5">5</a> - hint: on Sublime Ctrl+Shift+F to search all your notes. [↩](#refnote5)</sup><br>
+<sup><a name="footnote5">6</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote6)</sup>
 
 
 ---
