@@ -3,8 +3,6 @@ Hamster-GTD
 
 Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox and Desktop zero.
 
-**TLDR:** [What does this stuff solves?](#tldr)
-
 ### So, how can you start?
 
 **Organize your (digital) documents:**
@@ -23,6 +21,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 - [How to navigate through your notes](#how-to-navigate-through-your-notes)
 - [Screenshots](#screenshots)
 
+**TLDR:** [What does this stuff solves?](#tldr)
 
 
 ---
@@ -210,7 +209,7 @@ Long-term due tasks are managed on a cloud synced folder.
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
-- I use [YAML](https://www.json2yaml.com/convert-yaml-to-json) on reference notes. It's readable and allows data exchange.
+- prefer [YAML](https://www.json2yaml.com/convert-yaml-to-json) on reference notes. It's readable and will allow a future data serialization.
 
 ![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
 
@@ -233,7 +232,7 @@ By the other hand, this system allows you to predict (with acceptable accuracy) 
 
 - merge the *good parts* of many workflow management approaches: [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) (GTD on Evernote), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox Zero and Desktop zero.
 
-- writing TXT notes using [YAML](https://www.json2yaml.com/convert-yaml-to-json) will guarantee future data exchange and serialization (if needed).
+- writing notes as TXT and using [YAML](https://www.json2yaml.com/convert-yaml-to-json) will guarantee future data exchange and serialization (if needed).
 
 
 
