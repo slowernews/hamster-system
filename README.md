@@ -3,7 +3,7 @@ Hamster-GTD
 
 Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox and Desktop zero.
 
-
+**TLDR:** [What does this stuff solves?](#tldr)
 
 ### So, how can you start?
 
@@ -14,7 +14,6 @@ Boost productivity while reducing your stress by organizing your documents and w
 - [Naming](#naming)
 - [Archiving](#archiving)
 - [How to navigate through your documents](#how-to-navigate-through-your-documents)
-- [What problems does this naming system solve?](#what-problems-does-this-naming-system-solve)
 
 **Organize your workflow:**
 
@@ -23,6 +22,27 @@ Boost productivity while reducing your stress by organizing your documents and w
 - [Non-actionable notes: references](#non-actionable-notes-references)
 - [How to navigate through your notes](#how-to-navigate-through-your-notes)
 - [Screenshots](#screenshots)
+
+
+
+---
+## TLDR:
+*'What does this stuff solves?'.*
+
+#### Naming system:
+
+- a file finder<sup> [3](#footnote3)</sup> is great when you remember the filename but less useful when you don't.<br>
+By the other hand, this system allows you to predict (with acceptable accuracy) filenames and where they are stored.
+
+- some jobs require transmission of project folders with all project files. Adding a predictable structure is "the cherry on the cake".
+
+#### Workflow management:
+
+- Low tech and simplicity: use your favorite text editor, your favorite cloud and a paper notebook. No extra tools.
+
+- Merge the *good parts* of many workflow management approaches: [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) (GTD on Evernote), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files),  (, [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox Zero and Desktop zero.
+
+- If you need data exchange writing notes as readable YAML will do it.
 
 
 
@@ -130,16 +150,6 @@ Boost productivity while reducing your stress by organizing your documents and w
         A shortcut to archive is not needed, only dormant projects are there.
 
 - and/or a launcher-file finder<sup id="refnote3"> [3](#footnote3)</sup>. 
-
-
-
----
-### What problems does this naming system solve?
-
-- a file finder<sup id="refnote3"> [3](#footnote3)</sup> is great when you remember the filename but less useful when you don't.<br>
-By the other hand, this system allows you to predict (with acceptable accuracy) filenames and where they are stored.
-
-- some jobs require transmission of project folders with all project files. Adding a predictable structure is "the cherry on the cake".
 
 
 
