@@ -129,17 +129,17 @@ Boost productivity while reducing your stress by organizing your documents and w
 
         A shortcut to archive is not needed, only dormant projects are there.
 
-- and/or a laucher-file finder<sup id="refnote3"> [3](#footnote3)</sup>. 
+- and/or a launcher-file finder<sup id="refnote3"> [3](#footnote3)</sup>. 
 
 
 
 ---
-### What problems does this naming system solve:
+### What problems does this naming system solve?
 
-- a file finder<sup id="refnote3"> [3](#footnote3)</sup> is very useful when you remember the filename. Less when you don't.<br>
-By the other and, this system allows you to predict (with acceptable accuracy) filenames and where they are stored.
+- a file finder<sup id="refnote3"> [3](#footnote3)</sup> is great when you remember the filename but less useful when you don't.<br>
+By the other hand, this system allows you to predict (with acceptable accuracy) filenames and where they are stored.
 
-- some jobs require to transmit project folders with all project files. Adding a predictable structure is "the cherry on the cake".
+- some jobs require transmission of project folders with all project files. Adding a predictable structure is "the cherry on the cake".
 
 
 
