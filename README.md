@@ -191,8 +191,6 @@ Long-term due tasks are managed on a cloud synced folder.
 
 - hint: use reference notes to keep your collection of bookmarks.
 
-        e.g: #bookmarks@frontend
-
 
 
 ---
@@ -209,7 +207,7 @@ Long-term due tasks are managed on a cloud synced folder.
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
-- use [YAML](https://www.json2yaml.com/convert-yaml-to-json) on reference notes for readability and a future data serialization.
+- use [YAML](https://www.json2yaml.com/convert-yaml-to-json) on reference notes for readability and future data serialization.
 
 ![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
 
@@ -232,7 +230,7 @@ A file finder<sup> [3](#footnote3)</sup> is great when you remember the filename
 
 - practical solution: mix the *good parts* of many workflow management approaches: [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) (GTD on Evernote), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox Zero and Desktop zero.
 
-- future data exchange and serialization: notes saved as TXT files and using [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation.
+- future data exchange and serialization: notes using [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
 
 
 
