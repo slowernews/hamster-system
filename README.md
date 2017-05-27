@@ -21,7 +21,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 - [How to navigate through your notes](#how-to-navigate-through-your-notes)
 - [Screenshots](#screenshots)
 
-**TLDR:** [What does this stuff solves?](#tldr)
+**TLDR:** [What does this stuff solve?](#tldr)
 
 
 ---
@@ -209,7 +209,7 @@ Long-term due tasks are managed on a cloud synced folder.
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
-- prefer [YAML](https://www.json2yaml.com/convert-yaml-to-json) on reference notes. It's readable and will allow a future data serialization.
+- use [YAML](https://www.json2yaml.com/convert-yaml-to-json) on reference notes for readability and a future data serialization.
 
 ![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
 
@@ -217,22 +217,22 @@ Long-term due tasks are managed on a cloud synced folder.
 
 ---
 ## TLDR:
-*'What does this stuff solves?'.*
+*'What does this stuff solve?'.*
 
 #### Naming system:
 
-- a file finder<sup> [3](#footnote3)</sup> is great when you remember the filename but less useful when you don't.<br>
-By the other hand, this system allows you to predict (with acceptable accuracy) filenames and where they are stored.
+- this system allows to predict (with acceptable accuracy) filenames and where they are stored.<br>
+A file finder<sup> [3](#footnote3)</sup> is great when you remember the filename but less useful when you don't.
 
-- some jobs require transmission of project folders with all project files. Adding a predictable structure is "the cherry on the cake".
+- transmission of project folders with all project files and a predictable structure.
 
 #### Workflow management:
 
-- simple and low tech solution: use your favorite text editor, your favorite cloud and a paper notebook. No extra tools.
+- simple solution: use your favorite text editor, your favorite cloud and a paper notebook. No extra tools.
 
-- merge the *good parts* of many workflow management approaches: [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) (GTD on Evernote), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox Zero and Desktop zero.
+- practical solution: mix the *good parts* of many workflow management approaches: [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) (GTD on Evernote), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox Zero and Desktop zero.
 
-- writing notes as TXT and using [YAML](https://www.json2yaml.com/convert-yaml-to-json) will guarantee future data exchange and serialization (if needed).
+- future data exchange and serialization: notes saved as TXT files and using [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation.
 
 
 
