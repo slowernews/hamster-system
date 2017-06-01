@@ -24,7 +24,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 **TLDR:** 
 
 - [What does this stuff solve?](#tldr)
-- [What does this stuff doesn't solve?](#tldr)
+- [Possible pain point](#tldr)
 
 ---
 ## Organize your (digital) documents
@@ -212,9 +212,9 @@ A file finder<sup> [3](#footnote3)</sup> is great when you remember the filename
 
 - future data exchange and serialization: notes using [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
 
-*'What doesn't this stuff solve?'.*
+*'Possible painpoint'.*
 
-It's not smartphone oriented. That's not even an issue for me but it might be for you.
+This system is not smartphone oriented. That's not even an issue for me but it might be for you.
 
 ---
 <sup>Notes:</sup><br>
