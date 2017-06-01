@@ -21,14 +21,14 @@ Boost productivity while reducing your stress by organizing your documents and w
 - [How to navigate through your notes](#how-to-navigate-through-your-notes)
 - [Screenshots](#screenshots)
 
-**TLDR:** [What does this stuff solve?](#tldr)
+**TLDR:** 
 
+- [What does this stuff solve?](#tldr)
+- [What does this stuff doesn't solve?](#tldr)
 
 ---
 ## Organize your (digital) documents
 *'Every document belongs to a project'.*
-
-
 
 ### Container:
 
@@ -44,8 +44,6 @@ Boost productivity while reducing your stress by organizing your documents and w
         INBOX (folder to put new documents until deciding what to do with them)
         CURRENT (folder to store your active projects)
         ARCHIVE (folder to store your dormant projects)
-
-
 
 ---
 ### Project folders:
@@ -71,8 +69,6 @@ Boost productivity while reducing your stress by organizing your documents and w
 
     	Inside .subprojects you store -folders:
         e.g: -plans
-
-
 
 ---
 ### Naming:
@@ -106,16 +102,12 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
-
-
 ---
 ### Archiving:
 
 - archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch**
 
 - archive files using [BranchVer](https://github.com/galfarragem/branchVer) (each version *adds* a change on data): **+ branch . progress**
-
-
 
 ---
 ### How to navigate through your documents:
@@ -129,13 +121,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - and/or a launcher-file finder<sup id="refnote3"> [3](#footnote3)</sup>. 
 
-
-
 ---
 ## Organize your workflow
 *'Inputs to your workflow are materialized as notes'.*
-
-
 
 ### Introduction:
 
@@ -155,8 +143,6 @@ Boost productivity while reducing your stress by organizing your documents and w
             (TXT files on a cloud synced folder)
             2-calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
             3-someday (tasks to get done someday)
-
-
 
 ---
 ### Actionable notes (tasks):
@@ -182,23 +168,19 @@ Long-term due tasks are managed on a cloud synced folder.
         (soon) Call Mom
         (someday) Bungee jumping with friends
 
-
-
 ---
 ### Non-actionable notes (references):
 
 - non-actionable notes are called **references**  and are managed on a cloud synced folder.
 
+- to guarantee future data exchange and serialization use [YAML](https://www.json2yaml.com/convert-yaml-to-json).
+
 - hint: use reference notes to keep your collection of bookmarks.
-
-
 
 ---
 ### How to navigate through your notes:
 
 - use text editor's side bar and built-in search.<sup id="refnote5"> [5](#footnote5)</sup>
-
-
 
 ---
 ### Screenshots:
@@ -207,11 +189,9 @@ Long-term due tasks are managed on a cloud synced folder.
 
 ![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
 
-- use [YAML](https://www.json2yaml.com/convert-yaml-to-json) on reference notes for readability and future data serialization.
+- [YAML](https://www.json2yaml.com/convert-yaml-to-json) on reference notes for readability and future data serialization.
 
 ![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
-
-
 
 ---
 ## TLDR:
@@ -219,7 +199,7 @@ Long-term due tasks are managed on a cloud synced folder.
 
 #### Naming system:
 
-- this system allows to predict (with acceptable accuracy) filenames and where they are stored.<br>
+- prediction (with acceptable accuracy) of filenames and where they are stored.<br>
 A file finder<sup> [3](#footnote3)</sup> is great when you remember the filename but less useful when you don't.
 
 - transmission of project folders with all project files and a predictable structure.
@@ -232,7 +212,9 @@ A file finder<sup> [3](#footnote3)</sup> is great when you remember the filename
 
 - future data exchange and serialization: notes using [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
 
+*'What doesn't this stuff solve?'.*
 
+It's not smartphone oriented. That's not even an issue for me but it might be for you.
 
 ---
 <sup>Notes:</sup><br>
@@ -243,7 +225,6 @@ Pros: Launch and file search without external software, low memory usage (less t
 <sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup><br>
 <sup><a name="footnote5">5</a> - hint: on Sublime press Ctrl+Shift+F to search all your notes. [↩](#refnote5)</sup><br>
 <sup><a name="footnote5">6</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote6)</sup>
-
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
