@@ -130,7 +130,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) and [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) but using only plain text files edited with any text editor and a paper notebook. Files's structure (check also [screenshots](#screenshots)):       
+- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format)(plain text files), [Bullet journal](http://bulletjournal.com/) (notes on paper). Files's structure (check also [screenshots](#screenshots)):       
 
         References (TXT files on a cloud synced folder)
 
