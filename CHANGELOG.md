@@ -2,6 +2,7 @@
 
 (Workflow)
 - Changed: inspired by Todo.txt, hamster-gtd ditched Evernote for plain text files.
+- Changed: recommendation of YAML for note serialization and data exchange. 
 
 ## +0.8 (2016-10-12)
 
