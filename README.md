@@ -47,14 +47,14 @@ Boost productivity while reducing your stress by organizing your documents and w
 ---
 ### Project folders:
 
-*#bundle @project.subproject -folder-nested folder*
+*#bundle / @project.subproject / -storage folders*
 
 - bundle of projects (derived from twitter hashtag): **#**
 
         Inside CURRENT and ARCHIVE folders you store #bundles of projects:
         e.g: #large investor (bundle with all projects of a client)
 
-- project (derived from twitter mention): **@**
+- project (derived from twitter mention): **@**  
 
     	Inside #bundle folders you store @projects:
         e.g: @house in portugal    
@@ -64,9 +64,9 @@ Boost productivity while reducing your stress by organizing your documents and w
     	Inside #bundle folders or @project folders, you store @project.subprojects:
         e.g: @house in portugal.building permit
 
-- folder: **-**
+- storage folder: **-**
 
-    	Inside @project.subprojects you store -folders:
+    	Inside @project.subprojects you put -storage-folders:
         e.g: -plans
 
 ---
