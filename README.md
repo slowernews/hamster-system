@@ -47,7 +47,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 ---
 ### Project folders:
 
-*# bundle @ project . subproject - folder - nested folder*
+*#bundle @project.subproject -folder-nested folder*
 
 - bundle of projects (derived from twitter hashtag): **#**
 
@@ -61,26 +61,24 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - subproject (derived from OO programming): **.**
 
-    	Inside @projects you store .subprojects:
-        e.g: .building permit
+    	Inside #bundle folders or @project folders, you store @project.subprojects:
+        e.g: @house in portugal.building permit
 
-- folder (each nesting level): **-**
+- folder: **-**
 
-    	Inside .subprojects you store -folders:
+    	Inside @project.subprojects you store -folders:
         e.g: -plans
 
 ---
 ### Naming:
 
-- to reduce unnecessary nesting and memorization, merge folders:
+- always reduce unnecessary nesting and memorization by merging folders:
 
-        e.g: When having just one or two folders inside a folder, join them and reduce nesting.
         Use: @house in portugal.building permit
         Instead of: @house in portugal / .building permit
 
-        When the folder name is too generalist, add anterior nesting name(s) for context:
-        e.g: -drawings-sections
-        e.g: -drawings-details-wall
+        Use: -drawings-details-wall
+        Instead of: -drawings / -details / -wall
 
 - name your files using a system that fits you<sup id="refnote2"> [2](#footnote2)</sup>. Hints:
 
@@ -104,9 +102,9 @@ Boost productivity while reducing your stress by organizing your documents and w
 ---
 ### Archiving:
 
-- archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch**
-
 - archive files using [BranchVer](https://github.com/galfarragem/branchVer) (each version *adds* a change on data): **+ branch . progress**
+
+- archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch**
 
 ---
 ### How to navigate through your documents:
@@ -130,7 +128,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format)(plain text files), [Bullet journal](http://bulletjournal.com/) (notes on paper). Files's structure (check also [screenshots](#screenshots)):       
+- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper). Files's structure (check also [screenshots](#screenshots)):       
 
         References (TXT files on a cloud synced folder)
 
