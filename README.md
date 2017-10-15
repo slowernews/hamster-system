@@ -47,7 +47,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 ---
 ### Project folders:
 
-*#bundle / @project.subproject / -storage folders*
+*#bundle @project .subproject -folders*
 
 - bundle of projects (derived from twitter hashtag): **#**
 
@@ -193,7 +193,7 @@ Long-term due tasks are managed on a cloud synced folder.
 
 ---
 ## TLDR:
-*'What does this stuff solve?'.*
+*'What does this stuff solve?'*
 
 #### Naming system:
 
@@ -210,7 +210,7 @@ A file finder<sup> [3](#footnote3)</sup> is great when you remember the filename
 
 - future data exchange and serialization: notes using [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
 
-*'Possible painpoint?'.*
+*'Possible painpoint?'*
 
 This system is not smartphone oriented. That's not even an issue for me but it might be for you.
 
