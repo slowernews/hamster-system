@@ -1,7 +1,7 @@
 Hamster-GTD
 -----------
 
-Boost productivity while reducing your stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox and Desktop zero.
+Boost productivity and reduce stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox and Desktop zero.
 
 ### So, how can you start?
 
@@ -61,7 +61,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - subproject (derived from OO programming): **.**
 
-    	Inside #bundle or @project folders you put @project.subprojects:
+    	Inside #bundles or @project folders you put @project.subprojects:
         e.g: @house in portugal.building permit
 
 - storage folder: **-**
@@ -73,12 +73,12 @@ Boost productivity while reducing your stress by organizing your documents and w
 ---
 ### Naming:
 
-- always reduce unnecessary nesting and memorization by merging folders:
+- reduce unnecessary nesting and memorization by merging folders:
 
-        Use: @house in portugal.building permit
+        Prefer: @house in portugal.building permit
         Instead of: @house in portugal / .building permit
 
-        Use: -drawings-details-wall
+        Prefer: -drawings-details-wall
         Instead of: -drawings / -details / -wall
 
 - name your files using a system that fits you<sup id="refnote2"> [2](#footnote2)</sup>. Hints:
@@ -129,7 +129,7 @@ Boost productivity while reducing your stress by organizing your documents and w
 
 - actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper). Files's structure (check also [screenshots](#screenshots)):       
+- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper). Files structure (check also [screenshots](#screenshots)):       
 
         References (TXT files on a cloud synced folder)
 
