@@ -16,7 +16,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 **Organize your workflow:**
 
 - [Introduction](#introduction)
-- [Actionable notes: tasks](#actionable-notes-tasks)
+- [Actionable notes: todo lists](#actionable-notes-todo-lists)
 - [Non-actionable notes: references](#non-actionable-notes-references)
 - [How to navigate through your notes](#how-to-navigate-through-your-notes)
 - [Screenshots](#screenshots)
@@ -127,13 +127,13 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 - your workflow consists of a collection of plain text notes on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and notes on a paper notebook.   
 
-- actionable notes are called [tasks](#actionable-notes-tasks); non-actionable notes are called [references](#non-actionable-notes-references).
+- actionable notes are called [todo lists](#actionable-notes-todo-lists); non-actionable notes are called [references](#non-actionable-notes-references).
 
 - workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper). Files structure (check also [screenshots](#screenshots)):       
 
         References (TXT files on a cloud synced folder)
 
-        Tasks
+        Todo lists
             (on a paper notebook)
             0-next (tasks to be done ASAP)
             1-soon (tasks in the queue to get done)
@@ -143,11 +143,11 @@ Boost productivity and reduce stress by organizing your documents and workflow w
             3-someday (tasks to get done someday)
 
 ---
-### Actionable notes (tasks):
+### Actionable notes (todo lists):
 
-- actionable notes are called **tasks**. Time related tasks live within the same file:<br>
-Short-term due tasks are managed on a paper notebook.<br>
-Long-term due tasks are managed on a cloud synced folder.
+- actionable notes are called **todo lists**. Time related tasks live within the same todo list:<br>
+Short-term todo lists are managed on a paper notebook.<br>
+Long-term todo lists are managed on a cloud synced folder.
 
 - tasks should have a due date: **( )**
 
