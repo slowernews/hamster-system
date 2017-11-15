@@ -185,11 +185,11 @@ Long-term todo lists are managed on a cloud synced folder.
 
 - calendar tasks note on Sublime text editor.<sup id="refnote6"> [6](#footnote6)</sup>
 
-![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot%20example.PNG)
+![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.PNG)
 
 - [YAML](https://www.json2yaml.com/convert-yaml-to-json) on reference notes for readability and future data serialization.
 
-![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot%20example2.png)
+![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example2.png)
 
 ---
 ## TLDR:
