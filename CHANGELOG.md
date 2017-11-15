@@ -1,7 +1,10 @@
-## +0.9 UNRELEASED
+## UNRELEASED
+
+- this system was renamed as superfolder.
 
 (Workflow)
-- Changed: inspired by Todo.txt, hamster-gtd ditched Evernote for plain text files.
+- Changed: task notes were renamed as *todo lists*.
+- Changed: inspired by Todo.txt, Evernote was ditched for plain text files.
 - Changed: recommendation of YAML for note serialization and data exchange. 
 
 ## +0.8 (2016-10-12)

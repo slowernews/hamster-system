@@ -1,4 +1,4 @@
-Hamster-GTD
+SUPERFOLDER
 -----------
 
 Boost productivity and reduce stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox and Desktop zero.
@@ -31,7 +31,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 ### Container:
 
-- container folder<sup id="refnote1"> [1](#footnote1)</sup>: **YOUR NAME**
+- superfolder<sup id="refnote1"> [1](#footnote1)</sup>: **YOUR NAME**
 
         First of all create a folder in a partition of your disk.
         ALL your stuff will be stored there.
@@ -185,11 +185,11 @@ Long-term todo lists are managed on a cloud synced folder.
 
 - calendar tasks note on Sublime text editor.<sup id="refnote6"> [6](#footnote6)</sup>
 
-![hamster-workflow-screenshot](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example.PNG)
+![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot%20example.PNG)
 
 - [YAML](https://www.json2yaml.com/convert-yaml-to-json) on reference notes for readability and future data serialization.
 
-![hamster-workflow-screenshot-2](https://github.com/galfarragem/hamster-gtd/blob/master/examples/hamster-workflow_screenshot%20example2.png)
+![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot%20example2.png)
 
 ---
 ## TLDR:
@@ -216,7 +216,7 @@ This system is not smartphone oriented. That's not even an issue for me but it m
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - the hamster cheeks :) [↩](#refnote1)</sup><br>
+<sup><a name="footnote1">1</a> - the superfolder :) [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - e.g: relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/) Lite.<br>
 Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
@@ -225,4 +225,4 @@ Pros: Launch and file search without external software, low memory usage (less t
 <sup><a name="footnote5">6</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote6)</sup>
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">hamster-gtd</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Superfolder</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
