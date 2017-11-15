@@ -31,7 +31,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 ### Container:
 
-- superfolder<sup id="refnote1"> [1](#footnote1)</sup>: **YOUR NAME**
+- superfolder: **YOUR NAME**
 
         First of all create a folder in a partition of your disk.
         ALL your stuff will be stored there.
@@ -81,7 +81,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
         Prefer: -drawings-details-wall
         Instead of: -drawings / -details / -wall
 
-- name your files using a system that fits you<sup id="refnote2"> [2](#footnote2)</sup>. Hints:
+- name your files using a system that fits you<sup id="refnote1"> [1](#footnote1)</sup>. Hints:
 
 		Use spaces or other naming style:
         e.g. using spaces: #large investor@house in portugal
@@ -117,7 +117,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
         A shortcut to archive is not needed, only dormant projects are there.
 
-- and/or a launcher-file finder<sup id="refnote3"> [3](#footnote3)</sup>. 
+- and/or a launcher-file finder<sup id="refnote2"> [2](#footnote2)</sup>. 
 
 ---
 ## Organize your workflow
@@ -125,7 +125,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 ### Introduction:
 
-- your workflow consists of a collection of plain text notes on a cloud synced folder<sup id="refnote4"> [4](#footnote4)</sup> and notes on a paper notebook.   
+- your workflow consists of a collection of plain text notes on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and notes on a paper notebook.   
 
 - actionable notes are called [todo lists](#actionable-notes-todo-lists); non-actionable notes are called [references](#non-actionable-notes-references).
 
@@ -178,12 +178,12 @@ Long-term todo lists are managed on a cloud synced folder.
 ---
 ### How to navigate through your notes:
 
-- use text editor's side bar and built-in search.<sup id="refnote5"> [5](#footnote5)</sup>
+- use text editor's side bar and built-in search.<sup id="refnote4"> [4](#footnote4)</sup>
 
 ---
 ### Screenshots:
 
-- calendar tasks note on Sublime text editor.<sup id="refnote6"> [6](#footnote6)</sup>
+- calendar tasks note on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
@@ -216,13 +216,12 @@ This system is not smartphone oriented. That's not even an issue for me but it m
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - the superfolder :) [↩](#refnote1)</sup><br>
-<sup><a name="footnote2">2</a> - e.g: relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote2)</sup><br>
-<sup><a name="footnote3">3</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/) Lite.<br>
-Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
-<sup><a name="footnote4">4</a> - Google Drive, Dropbox, etc. [↩](#refnote4)</sup><br>
-<sup><a name="footnote5">5</a> - hint: on Sublime press Ctrl+Shift+F to search all your notes. [↩](#refnote5)</sup><br>
-<sup><a name="footnote5">6</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote6)</sup>
+<sup><a name="footnote1">1</a> - e.g: relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote1)</sup><br>
+<sup><a name="footnote2">2</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/) Lite.<br>
+Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote2)</sup><br>
+<sup><a name="footnote3">3</a> - Google Drive, Dropbox, etc. [↩](#refnote3)</sup><br>
+<sup><a name="footnote4">4</a> - hint: on Sublime press Ctrl+Shift+F to search all your notes. [↩](#refnote4)</sup><br>
+<sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup>
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Superfolder</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">SUPERFOLDER</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

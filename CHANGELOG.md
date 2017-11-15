@@ -1,6 +1,6 @@
-## UNRELEASED
+## +1.0 UNRELEASED
 
-- this system was renamed as superfolder.
+- this system was renamed as Superfolder.
 
 (Workflow)
 - Changed: task notes were renamed as *todo lists*.
