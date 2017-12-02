@@ -1,7 +1,7 @@
 SUPERFOLDER
 -----------
 
-Boost productivity and reduce stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox and Desktop zero.
+Boost productivity and reduce stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, Inbox and Desktop zero.
 
 ### So, how can you start?
 
@@ -73,7 +73,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ---
 ### Naming:
 
-- reduce unnecessary nesting and memorization by merging folders:
+- when possible reduce unnecessary nesting by merging folders:
 
         Prefer: @house in portugal.building permit
         Instead of: @house in portugal / .building permit
@@ -103,7 +103,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ---
 ### Archiving:
 
-- archive files using [BranchVer](https://github.com/galfarragem/branchVer) (each version *adds* a change on data): **+ branch . progress**
+- archive files using BranchVer (each version *adds* a change on data): **+ branch . progress**
 
 - archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch**
 
