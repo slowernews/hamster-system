@@ -38,7 +38,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 - main folders: **PROJECT STATUS**
 
-        Inside your container folder there are 3 folders:
+        Inside your superfolder there are 3 folders:
 
         INBOX (folder to put new documents until deciding what to do with them)
         CURRENT (folder to store your active projects)
@@ -73,7 +73,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ---
 ### Naming:
 
-- when possible reduce unnecessary nesting by merging folders:
+- when reasonable reduce unnecessary nesting by merging folders:
 
         Prefer: @house in portugal.building permit
         Instead of: @house in portugal / .building permit
@@ -154,13 +154,13 @@ Long-term todo lists are managed on a cloud synced folder.
         Dates are inserted before the task description (allowing chronological sorting):
         
         e.g. inserting a scheduled date: (year-month-day=hour)
-        (2015-11-29=9h) Doctor appointment
+        (2017-11-29=9h) Doctor appointment
 
         e.g. inserting a trigger/fuzzy date: (date >>)
-        (2015-03-10 >>) Waiting for client feedback after this date
+        (2017-03-10 >>) Waiting for client feedback after this date
 
         e.g. inserting a deadline date: (date <<)
-        (2015-10-22 <<) Pay electricity bill until this date
+        (2017-10-22 <<) Pay electricity bill until this date
 
         e.g. without knowing the due date: (soon) or (someday)
         (soon) Call Mom
@@ -169,11 +169,13 @@ Long-term todo lists are managed on a cloud synced folder.
 ---
 ### Non-actionable notes (references):
 
-- non-actionable notes are called **references**  and are managed on a cloud synced folder.
+- non-actionable notes are called **references** and are managed on a cloud synced folder.
+
+- use reference notes as flatwikis: prefer one note for a broad subject instead of several short notes. Few 2K LOC notes are way easier to manage than a large amount of short notes.
 
 - to guarantee future data exchange and serialization use [YAML](https://www.json2yaml.com/convert-yaml-to-json).
 
-- hint: use reference notes to keep your collection of bookmarks.
+- hint: keep your collection of bookmarks in reference notes.
 
 ---
 ### How to navigate through your notes:
