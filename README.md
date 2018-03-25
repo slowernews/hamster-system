@@ -171,7 +171,7 @@ Long-term todo lists are managed on a cloud synced folder.
 
 - non-actionable notes are called **references** and are managed on a cloud synced folder.
 
-- use reference notes as flatwikis: prefer one note for a broad subject instead of several short notes. Few 2K LOC notes are way easier to manage than a large amount of short notes.
+- use reference notes as *flat wikis*: prefer one note for a broad subject instead of several specific notes. Few long notes are easier to manage than many short notes.
 
 - to guarantee future data exchange and serialization use [YAML](https://www.json2yaml.com/convert-yaml-to-json).
 
