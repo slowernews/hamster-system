@@ -18,7 +18,6 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 - [Introduction](#introduction)
 - [Actionable notes: todo lists](#actionable-notes-todo-lists)
 - [Non-actionable notes: references](#non-actionable-notes-references)
-- [How to navigate through your notes](#how-to-navigate-through-your-notes)
 - [Screenshots](#screenshots)
 
 **TLDR:** 
@@ -34,7 +33,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 - superfolder: **YOUR NAME**
 
         First of all create a folder in a partition of your disk.
-        ALL your stuff will be stored there.
+        ALL your stuff will be stored here.
 
 - main folders: **PROJECT STATUS**
 
@@ -125,16 +124,17 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 ### Introduction:
 
-- your workflow consists of a collection of plain text notes on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and notes on a paper notebook.   
+- your workflow consists of a collection of notes on paper and (plain text) notes on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup>.   
 
 - actionable notes are called [todo lists](#actionable-notes-todo-lists); non-actionable notes are called [references](#non-actionable-notes-references).
 
-- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper). Files structure (check also [screenshots](#screenshots)):       
+- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper).  
+File structure (check also [screenshots](#screenshots)):       
 
         References (TXT files on a cloud synced folder)
 
         Todo lists
-            (on a paper notebook)
+            (on paper)
             0-next (tasks to be done ASAP)
             1-soon (tasks in the queue to get done)
 
@@ -146,10 +146,10 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ### Actionable notes (todo lists):
 
 - actionable notes are called **todo lists**. Time related tasks live within the same todo list:<br>
-Short-term todo lists are managed on a paper notebook.<br>
+Short-term todo lists are managed on apaper.<br>
 Long-term todo lists are managed on a cloud synced folder.
 
-- tasks should have a due date: **( )**
+- tasks listed on longterm todo lists have a due date: **( )**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
@@ -169,18 +169,18 @@ Long-term todo lists are managed on a cloud synced folder.
 ---
 ### Non-actionable notes (references):
 
-- non-actionable notes are called **references** and are managed on a cloud synced folder.
+- non-actionable notes are called **references** and managed on a cloud synced folder.
 
-- use reference notes as *flat wikis*: prefer one note for a broad subject instead of several specific notes. Few long notes are easier to manage than many short notes.
+- hints:
 
-- to guarantee future data exchange and serialization use [YAML](https://www.json2yaml.com/convert-yaml-to-json).
+    - use text editor's side bar and built-in search to navigate your notes.<sup id="refnote4"> [4](#footnote4)</sup>
 
-- hint: keep your collection of bookmarks in reference notes.
+    - use reference notes as *flat wikis*: prefer one note for a broad subject instead of several specific notes. Few long notes are easier to manage than many short notes.
 
----
-### How to navigate through your notes:
+    - guarantee future data exchange and serialization with [YAML](https://www.json2yaml.com/convert-yaml-to-json).
 
-- use text editor's side bar and built-in search.<sup id="refnote4"> [4](#footnote4)</sup>
+    - keep your collection of bookmarks in reference notes.
+
 
 ---
 ### Screenshots:
@@ -200,7 +200,7 @@ Long-term todo lists are managed on a cloud synced folder.
 #### Naming system:
 
 - prediction (with acceptable accuracy) of filenames and where they are stored.<br>
-A file finder<sup> [3](#footnote3)</sup> is great when you remember the filename but less useful when you don't.
+A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename but less useful when you don't.
 
 - transmission of project folders with all project files and a predictable structure.
 
