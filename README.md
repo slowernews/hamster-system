@@ -146,10 +146,10 @@ File structure (check also [screenshots](#screenshots)):
 ### Actionable notes (todo lists):
 
 - actionable notes are called **todo lists**. Time related tasks live within the same todo list:<br>
-Short-term todo lists are managed on apaper.<br>
+Short-term todo lists are managed on paper.<br>
 Long-term todo lists are managed on a cloud synced folder.
 
-- tasks listed on longterm todo lists have a due date: **( )**
+- tasks listed on long-term todo lists have a due date: **( )**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
