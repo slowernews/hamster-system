@@ -208,7 +208,7 @@ A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename
 
 - simple solution: use your favorite text editor, your favorite cloud and a paper notebook. No extra tools.
 
-- practical solution: mix the *good parts* of many workflow management approaches: [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) (GTD on Evernote), [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox Zero and Desktop zero.
+- practical solution: mix the *good parts* of many workflow management approaches: [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) (GTD on Evernote), [Todo.txt](https://github.com/todotxt/todo.txt) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox Zero and Desktop zero.
 
 - future data exchange and serialization: notes using [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
 
