@@ -182,6 +182,10 @@ A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename
 
 This system is not smartphone oriented. That's not even an issue for me but it might be for you.
 
+*'Is this the truth?'*
+
+I don't know nothing that works better, YMMV. I test new options and 'tree shake' existent ones agressively.
+
 ---
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - e.g: relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote1)</sup><br>
