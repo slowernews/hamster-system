@@ -116,11 +116,13 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ## How to organize your workflow
 *'A workflow consists on managing a collection of inputs'.*
 
-- inputs are managed in 3 plain text files on a cloud synced folder and paper<sup id="refnote3"> [3](#footnote3)</sup>:  
-	- actionable inputs are managed in [todos](#actionable-inputs-todos).
-	- non-actionable inputs are managed on [references and notes](#non-actionable-inputs-references-and-notes).
+- 3 plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup>and paper collect all inputs:  
+	- actionable inputs are managed in todos. Time related tasks live within the same todo list:
+	    - Short-term todos are managed on paper.
+    	- Long-term todos are managed on a cloud synced folder.
+	- non-actionable inputs are managed on 2 files: references and notes. Fw long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation<sup id="refnote4"> [4](#footnote4)</sup>.
 
-- file structure (check also [screenshots](#screenshots)):
+- Resuming (check also [screenshots](#screenshots)):
 
         on a cloud synced folder - 3 TXT files:
             Notes (collection of thoughts)
@@ -128,15 +130,6 @@ Boost productivity and reduce stress by organizing your documents and workflow w
             Todos (collection of long term tasks)
 
         on paper (collection of short term tasks)
-
-- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper).
-
----
-### Actionable inputs (todos):
-
-- time related tasks live within the same todo list:
-    - Short-term todos are managed on paper.
-    - Long-term todos are managed on a cloud synced folder.
 
 - tasks listed on long-term todo lists have a due date: **( )**
 
@@ -155,12 +148,9 @@ Boost productivity and reduce stress by organizing your documents and workflow w
         (soon) Call Mom
         (someday) Bungee jumping with friends
 
----
-### Non-actionable inputs (references and notes):
-
-- few long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation.<sup id="refnote4"> [4](#footnote4)</sup>. 
-
 - hint: guarantee future data exchange and serialization with [YAML](https://www.json2yaml.com/convert-yaml-to-json) on your references file.
+
+- loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper).
 
 ---
 ### Screenshots:
