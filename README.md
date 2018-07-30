@@ -5,9 +5,8 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 ### So, how can you start?
 
-- [Organizing your (digital) documents](#how-to-organize-your-digital-documents)
-
-- [Organizing your workflow](#how-to-organize-your-workflow)
+- [organizing your (digital) documents](#how-to-organize-your-digital-documents)
+- [organizing your workflow](#how-to-organize-your-workflow)
 
 **TLDR:** 
 
@@ -117,13 +116,11 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ## How to organize your workflow
 *'A workflow consists on managing a collection of inputs'.*
 
-- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper).
-
-- your workflow consists of a collection of inputs managed in 3 plain text files on a cloud synced folder and paper<sup id="refnote3"> [3](#footnote3)</sup>:  
+- inputs are managed in 3 plain text files on a cloud synced folder and paper<sup id="refnote3"> [3](#footnote3)</sup>:  
 	- actionable inputs are managed in [todos](#actionable-inputs-todos).
 	- non-actionable inputs are managed on [references and notes](#non-actionable-inputs-references-and-notes).
 
-- File structure (check also [screenshots](#screenshots)):
+- file structure (check also [screenshots](#screenshots)):
 
         on a cloud synced folder - 3 TXT files:
             Notes (collection of thoughts)
@@ -131,6 +128,8 @@ Boost productivity and reduce stress by organizing your documents and workflow w
             Todos (collection of long term tasks)
 
         on paper (collection of short term tasks)
+
+- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper).
 
 ---
 ### Actionable inputs (todos):
