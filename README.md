@@ -5,27 +5,19 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 ### So, how can you start?
 
-**Organize your (digital) documents:**
+- [Organizing your (digital) documents](#how-to-organize-your-digital-documents)
 
-- [Container](#container)
-- [Project folders](#project-folders)
-- [Naming](#naming)
-- [Archiving](#archiving)
-- [How to navigate through your documents](#how-to-navigate-through-your-documents)
-
-**Organize your workflow:**
-
-- [Introduction](#introduction)
-- [Actionable inputs: todos](#actionable-inputs-todos)
-- [Non-actionable inputs: references and notes](#non-actionable-inputs-references-and-notes)
-- [Screenshots](#screenshots)
+- [Organizing your workflow](#how-to-organize-your-workflow)
 
 **TLDR:** 
 
 - [What does this stuff solve?](#tldr)
 
+
+
+
 ---
-## Organize your (digital) documents
+## How to organize your (digital) documents
 *'Every document belongs to a project'.*
 
 ### Container:
@@ -118,25 +110,27 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 - and/or a launcher-file finder<sup id="refnote2"> [2](#footnote2)</sup>. 
 
+
+
+
 ---
-## Organize your workflow
-*'Every input to your workflowan is actionable or non-actionable'.*
+## How to organize your workflow
+*'A workflow consists on managing a collection of inputs'.*
 
-### Introduction:
+- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper).
 
-- your workflow consists of a collection of inputs managed in 3 plain text files on a cloud synced folder and paper<sup id="refnote3"> [3](#footnote3)</sup>.   
+- your workflow consists of a collection of inputs managed in 3 plain text files on a cloud synced folder and paper<sup id="refnote3"> [3](#footnote3)</sup>:  
+	- actionable inputs are managed in [todos](#actionable-inputs-todos).
+	- non-actionable inputs are managed on [references and notes](#non-actionable-inputs-references-and-notes).
 
-- actionable inputs are managed in [todos](#actionable-inputs-todos); non-actionable inputs are managed on [references and notes](#non-actionable-inputs-references-and-notes).
+- File structure (check also [screenshots](#screenshots)):
 
-- workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper).  
-File structure (check also [screenshots](#screenshots)):       
-
-        on cloud synced folder - TXT files:
+        on a cloud synced folder - 3 TXT files:
             Notes (collection of thoughts)
             References (collection of bookmarks)
-            Todos (collection of tasks to do)
-        on paper:
-            collection of tasks to be done ASAP
+            Todos (collection of long term tasks)
+
+        on paper (collection of short term tasks)
 
 ---
 ### Actionable inputs (todos):
@@ -165,10 +159,9 @@ File structure (check also [screenshots](#screenshots)):
 ---
 ### Non-actionable inputs (references and notes):
 
-- Few long notes are easier to manage than many short notes. We can see them as *flat wikis* and use text editor's built-in search to navigate them.<sup id="refnote4"> [4](#footnote4)</sup>. 
+- few long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation.<sup id="refnote4"> [4](#footnote4)</sup>. 
 
-- guarantee future data exchange and serialization with [YAML](https://www.json2yaml.com/convert-yaml-to-json) on your references file.
-
+- hint: guarantee future data exchange and serialization with [YAML](https://www.json2yaml.com/convert-yaml-to-json) on your references file.
 
 ---
 ### Screenshots:
@@ -177,9 +170,12 @@ File structure (check also [screenshots](#screenshots)):
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
-- [YAML](https://www.json2yaml.com/convert-yaml-to-json) on reference notes for readability and future data serialization.
+- [YAML](https://www.json2yaml.com/convert-yaml-to-json) on references file for readability and future data serialization.
 
 ![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example2.png)
+
+
+
 
 ---
 ## TLDR:
