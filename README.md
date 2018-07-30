@@ -114,24 +114,21 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 ---
 ## How to organize your workflow
-*'A workflow consists on managing a collection of inputs'.*
+*'Managing a workflow consists on managing a collection of inputs'.*
 
-- 3 plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup>and paper collect all inputs:  
-	- actionable inputs are managed in todos. Time related tasks live within the same todo list:
-	    - Short-term todos are managed on paper.
-    	- Long-term todos are managed on a cloud synced folder.
-	- non-actionable inputs are managed on 2 files: references and notes. Fw long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation<sup id="refnote4"> [4](#footnote4)</sup>.
-
-- Resuming (check also [screenshots](#screenshots)):
+- 3 plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup>and a paper notebook collect all inputs:  
+    - non-actionable inputs are managed in 2 TXT files: references and notes. Few long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation<sup id="refnote4"> [4](#footnote4)</sup>.
+    - actionable inputs are managed in 2 todo lists: one on a papaer notebook, other on a txt file.
+    - resuming (check also [screenshots](#screenshots)):
 
         on a cloud synced folder - 3 TXT files:
             Notes (collection of thoughts)
             References (collection of bookmarks)
             Todos (collection of long term tasks)
 
-        on paper (collection of short term tasks)
+        on a paper notebook (collection of short term tasks)
 
-- tasks listed on long-term todo lists have a due date: **( )**
+- tasks listed on the long-term todo list have a due date: **( )**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
@@ -183,7 +180,7 @@ A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename
 
 - practical solution: mix the *good parts* of many workflow management approaches: [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) (GTD on Evernote), [Todo.txt](https://github.com/todotxt/todo.txt) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox Zero and Desktop zero.
 
-- future data exchange and serialization: notes using [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
+- future data exchange and serialization: [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
 
 *'Possible painpoint?'*
 
