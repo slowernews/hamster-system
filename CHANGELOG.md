@@ -4,7 +4,6 @@
 - simplification.
 
 (Workflow)
-- Changed: task notes were renamed as *todo lists*.
 - Changed: inspired by Todo.txt, Evernote was ditched for plain text files.
 - Changed: recommendation of YAML for note serialization and data exchange. 
 

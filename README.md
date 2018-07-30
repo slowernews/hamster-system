@@ -16,8 +16,8 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 **Organize your workflow:**
 
 - [Introduction](#introduction)
-- [Actionable notes: todo lists](#actionable-notes-todo-lists)
-- [Non-actionable notes: references](#non-actionable-notes-references)
+- [Actionable inputs: todos](#actionable-inputs-todos)
+- [Non-actionable inputs: references and notes](#non-actionable-inputs-references-and-notes)
 - [Screenshots](#screenshots)
 
 **TLDR:** 
@@ -55,17 +55,17 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 - project (derived from twitter mention): **@**  
 
-    	Inside #bundle folders you put @projects:
+        Inside #bundle folders you put @projects:
         e.g: @house in portugal    
 
 - subproject (derived from OO programming): **.**
 
-    	Inside #bundles or @project folders you put @project.subprojects:
+        Inside #bundles or @project folders you put @project.subprojects:
         e.g: @house in portugal.building permit
 
 - storage folder: **-**
 
-    	Inside @project.subprojects you put -storage folders:
+        Inside @project.subprojects you put -storage folders:
         e.g: -drawings
         e.g: -drawings-plans
 
@@ -82,17 +82,17 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 - name your files using a system that fits you<sup id="refnote1"> [1](#footnote1)</sup>. Hints:
 
-		Use spaces or other naming style:
+        Use spaces or other naming style:
         e.g. using spaces: #large investor@house in portugal
         e.g. using camelCase: #largeInvestor@houseInPortugal
 
-		Enclose folder's name to mark it as private: [ ]
+        Enclose folder's name to mark it as private: [ ]
         e.g: [#personal]
 
-		Use a prefix for standard / boilerplate files: $
+        Use a prefix for standard / boilerplate files: $
         e.g: $curriculum+A007
 
-		Use a prefix for temporary files: _
+        Use a prefix for temporary files: _
         e.g: _tempFile 
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ] _**
@@ -120,34 +120,30 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 ---
 ## Organize your workflow
-*'Inputs to your workflow are materialized as notes'.*
+*'Every input to your workflowan is actionable or non-actionable'.*
 
 ### Introduction:
 
-- your workflow consists of a collection of notes on paper and (plain text) notes on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup>.   
+- your workflow consists of a collection of inputs managed in 3 plain text files on a cloud synced folder and paper<sup id="refnote3"> [3](#footnote3)</sup>.   
 
-- actionable notes are called [todo lists](#actionable-notes-todo-lists); non-actionable notes are called [references](#non-actionable-notes-references).
+- actionable inputs are managed in [todos](#actionable-inputs-todos); non-actionable inputs are managed on [references and notes](#non-actionable-inputs-references-and-notes).
 
 - workflow management is loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper).  
 File structure (check also [screenshots](#screenshots)):       
 
-        References (TXT files on a cloud synced folder)
-
-        Todo lists
-            (on paper)
-            0-next (tasks to be done ASAP)
-            1-soon (tasks in the queue to get done)
-
-            (TXT files on a cloud synced folder)
-            2-calendar (tasks with a precise/deadline date or with a trigger/fuzzy date to get done)
-            3-someday (tasks to get done someday)
+        on cloud synced folder - TXT files:
+            Notes (collection of thoughts)
+            References (collection of bookmarks)
+            Todos (collection of tasks to do)
+        on paper:
+            collection of tasks to be done ASAP
 
 ---
-### Actionable notes (todo lists):
+### Actionable inputs (todos):
 
-- actionable notes are called **todo lists**. Time related tasks live within the same todo list:<br>
-Short-term todo lists are managed on paper.<br>
-Long-term todo lists are managed on a cloud synced folder.
+- time related tasks live within the same todo list:
+    - Short-term todos are managed on paper.
+    - Long-term todos are managed on a cloud synced folder.
 
 - tasks listed on long-term todo lists have a due date: **( )**
 
@@ -167,25 +163,17 @@ Long-term todo lists are managed on a cloud synced folder.
         (someday) Bungee jumping with friends
 
 ---
-### Non-actionable notes (references):
+### Non-actionable inputs (references and notes):
 
-- non-actionable notes are called **references** and managed on a cloud synced folder.
+- Few long notes are easier to manage than many short notes. We can see them as *flat wikis* and use text editor's built-in search to navigate them.<sup id="refnote4"> [4](#footnote4)</sup>. 
 
-- hints:
-
-    - use text editor's side bar and built-in search to navigate your notes.<sup id="refnote4"> [4](#footnote4)</sup>
-
-    - use reference notes as *flat wikis*: prefer one note for a broad subject instead of several specific notes. Few long notes are easier to manage than many short notes.
-
-    - guarantee future data exchange and serialization with [YAML](https://www.json2yaml.com/convert-yaml-to-json).
-
-    - keep your collection of bookmarks in reference notes.
+- guarantee future data exchange and serialization with [YAML](https://www.json2yaml.com/convert-yaml-to-json) on your references file.
 
 
 ---
 ### Screenshots:
 
-- calendar tasks note on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
+- todos file on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
