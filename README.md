@@ -121,12 +121,12 @@ Boost productivity and reduce stress by organizing your documents and workflow w
     - actionable inputs are managed in 2 todo lists: one on a papaer notebook, other on a txt file.
     - resuming (check also [screenshots](#screenshots)):
 
-        on a cloud synced folder - 3 TXT files:
-            Notes (collection of thoughts)
-            References (collection of bookmarks)
-            Todos (collection of long term tasks)
+            on a cloud synced folder - 3 TXT files:
+                Notes (collection of thoughts)
+                References (collection of bookmarks)
+                Todos (collection of long term tasks)
 
-        on a paper notebook (collection of short term tasks)
+            on a paper notebook (collection of short term tasks)
 
 - tasks listed on the long-term todo list have a due date: **( )**
 
@@ -144,8 +144,6 @@ Boost productivity and reduce stress by organizing your documents and workflow w
         e.g. without knowing the due date: (soon) or (someday)
         (soon) Call Mom
         (someday) Bungee jumping with friends
-
-- hint: guarantee future data exchange and serialization with [YAML](https://www.json2yaml.com/convert-yaml-to-json) on your references file.
 
 - loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper).
 
