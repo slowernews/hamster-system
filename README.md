@@ -116,19 +116,19 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ## How to organize your workflow
 *'Managing a workflow consists on managing a collection of inputs'.*
 
-- 3 plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup>and a paper notebook collect all inputs:  
-    - non-actionable inputs are managed in 2 TXT files: references and notes. Few long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation<sup id="refnote4"> [4](#footnote4)</sup>.
-    - actionable inputs are managed in 2 todo lists: one on a papaer notebook, other on a txt file.
+- 3 plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
+    - actionable inputs are managed in 2 todo lists: one in a text file and one in a paper notebook.
+    - non-actionable inputs are managed in 2 text files: references and notes. Few long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation<sup id="refnote4"> [4](#footnote4)</sup>.
     - resuming (check also [screenshots](#screenshots)):
 
-            on a cloud synced folder - 3 TXT files:
+            on a cloud synced folder - 3 text files:
                 Notes (collection of thoughts)
                 References (collection of bookmarks)
                 Todos (collection of long term tasks)
 
             on a paper notebook (collection of short term tasks)
 
-- tasks listed on the long-term todo list have a due date: **( )**
+- tasks listed in the todo text file have a due date: **( )**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
@@ -144,8 +144,6 @@ Boost productivity and reduce stress by organizing your documents and workflow w
         e.g. without knowing the due date: (soon) or (someday)
         (soon) Call Mom
         (someday) Bungee jumping with friends
-
-- loosely inspired on GTD, [Todo.txt](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format) (plain text files) and [Bullet journal](http://bulletjournal.com/) (notes on paper).
 
 ---
 ### Screenshots:
