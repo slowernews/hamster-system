@@ -1,7 +1,7 @@
 SUPERFOLDER
 -----------
 
-Boost productivity and reduce stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, Inbox and Desktop zero.
+Boost productivity and reduce stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt) (notes on TXT files), OBTF (One Big Text File) [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, Inbox and Desktop zero.
 
 ### So, how can you start?
 
@@ -117,18 +117,10 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 *'Managing a workflow consists on managing a collection of inputs'.*
 
 - 3 plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
-    - actionable inputs are managed in 2 todo lists: one in a text file and one in a paper notebook.
-    - non-actionable inputs are managed in 2 text files: references and notes. Few long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation<sup id="refnote4"> [4](#footnote4)</sup>.
-    - resuming (check also [screenshots](#screenshots)):
+    - actionable inputs (todos) are managed in one text file and one paper notebook: calendar and now.
+    - non-actionable inputs are managed in two text files: references and notes. Few long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation<sup id="refnote4"> [4](#footnote4)</sup>.
 
-            on a cloud synced folder - 3 text files:
-                Notes (collection of thoughts)
-                References (collection of bookmarks)
-                Todos (collection of long term tasks)
-
-            on a paper notebook (collection of short term tasks)
-
-- tasks listed in the todo text file have a due date: **( )**
+- todos listed in the calendar text file have a due date: **( )**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
@@ -145,10 +137,20 @@ Boost productivity and reduce stress by organizing your documents and workflow w
         (soon) Call Mom
         (someday) Bungee jumping with friends
 
+- resuming (check also [screenshots](#screenshots)):
+
+        on a cloud synced folder - 3 text files:
+            Notes (collection of thoughts)
+            References (collection of bookmarks)
+            Calendar (collection of todos that can/must wait)
+
+        on a paper notebook:
+            Now (collection of todos to be done ASAP)
+
 ---
 ### Screenshots:
 
-- todos file on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
+- calendar file on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
@@ -172,9 +174,9 @@ A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename
 
 #### Workflow management:
 
-- simple solution: use your favorite text editor, your favorite cloud and a paper notebook. No extra tools.
+- simple solution: use your favorite text editor, your favorite cloud and a paper notebook and almost no syntax. Minimum overhead.
 
-- practical solution: mix the *good parts* of many workflow management approaches: [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Secret Weapon](http://www.thesecretweapon.org/media/Manifesto/The-Secret-Weapon-Manifesto.pdf) (GTD on Evernote), [Todo.txt](https://github.com/todotxt/todo.txt) (notes on TXT files), [Bullet journal](http://bulletjournal.com/) (notes on paper), Inbox Zero and Desktop zero.
+- practical solution: mix the *good parts* of [many workflow management approaches](#superfolder).
 
 - future data exchange and serialization: [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
 
@@ -184,7 +186,7 @@ This system is not smartphone oriented. That's not even an issue for me but it m
 
 *'Is this the truth?'*
 
-I don't know nothing that works better, YMMV. I test new options and 'tree shake' existent ones agressively.
+Probably not but I don't know nothing that works better. I test new options and 'tree shake' existent ones agressively.
 
 ---
 <sup>Notes:</sup><br>
