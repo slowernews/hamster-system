@@ -87,14 +87,12 @@ Boost productivity and reduce stress by organizing your documents and workflow w
         e.g: _tempFile 
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ] _**
-
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
 ### Archiving:
 
 - archive files using BranchVer (each version *adds* a change on data): **+ branch . progress**
-
 - archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch**
 
 ---
@@ -169,15 +167,12 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 - prediction (with acceptable accuracy) of filenames and where they are stored.<br>
 A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename but less useful when you don't.
-
 - transmission of project folders with all project files and a predictable structure.
 
 #### Workflow management:
 
 - simple solution: use your favorite text editor and cloud, a paper notebook and almost no syntax. Minimum overhead.
-
 - practical solution: mix the *good parts* of [many workflow management approaches](#superfolder).
-
 - future data exchange and serialization: [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
 
 *'Possible painpoint?'*
