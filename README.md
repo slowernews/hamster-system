@@ -5,9 +5,9 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 ### So, how can you start?
 
-- hamster-folder: [organizing your (digital) documents](#how-to-organize-your-digital-documents)
-- hamster-flow: [organizing your workflow](#how-to-organize-your-workflow)
-- hamster-budget: [organizing your money](how-to-organize-your-money)
+- hamster-folder: [organize your (digital) documents](#how-to-organize-your-digital-documents)
+- hamster-flow: [organize your workflow](#how-to-organize-your-workflow)
+- hamster-budget: [organize your money](#how-to-organize-your-money)
 
 **TLDR:** 
 
@@ -173,17 +173,21 @@ Work in progress.
 ## TLDR:
 *'What does this stuff solve?'*
 
-#### Naming system:
+#### hamster-folder: organize your (digital) documents
 
 - prediction (with acceptable accuracy) of filenames and where they are stored.<br>
 A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename but less useful when you don't.
 - transmission of project folders with all project files and a predictable structure.
 
-#### Workflow management:
+#### hamster-flow: organize your workflow
 
 - simple solution: use your favorite text editor and cloud, a paper notebook and almost no syntax. Minimum overhead.
 - practical solution: mix the *good parts* of [many workflow management approaches](#superfolder).
 - future data exchange and serialization: [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
+
+#### hamster-budget: organize your money
+
+- Work in progress.
 
 *'Possible painpoint?'*
 
