@@ -1,12 +1,13 @@
-SUPERFOLDER
------------
+HAMSTER-SYSTEM
+--------------
 
-Boost productivity and reduce stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt) (notes on TXT files), OBTF (One Big Text File), [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, Inbox and Desktop zero.
+Boost productivity and reduce stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt) and OBTF (One Big Text File), [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, Inbox zero and Desktop zero.
 
 ### So, how can you start?
 
-- [organizing your (digital) documents](#how-to-organize-your-digital-documents)
-- [organizing your workflow](#how-to-organize-your-workflow)
+- hamster-folder: [organizing your (digital) documents](#how-to-organize-your-digital-documents)
+- hamster-flow: [organizing your workflow](#how-to-organize-your-workflow)
+- hamster-budget: [organizing your money](how-to-organize-your-money)
 
 **TLDR:** 
 
@@ -155,6 +156,15 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 - [YAML](https://www.json2yaml.com/convert-yaml-to-json) on references file for readability and future data serialization.
 
 ![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example2.png)
+
+
+
+
+---
+## How to organize your money
+*'You might not need a budget..'.*
+
+Work in progress.
 
 
 
