@@ -164,7 +164,14 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ## How to organize your money
 *'You might not need a budget..'.*
 
-Work in progress.
+.. what you need is to feel in control of your finances and not to know that you spent $312.23 on groceries.  
+And how to do it? Track your NET WORTH in a spreadsheet.
+ 
+- When your net worth is too risky (for your personality) get more tight and work on improving it.
+- When you feel confortable with your number you can loosen up a bit.
+- I used to track it every month. I loosen up to every quarter.
+
+(work in progress)
 
 
 
