@@ -164,8 +164,9 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ## How to organize your money
 *'You might not need a budget..'.*
 
-.. To know that you spent €312.23 instead of €277.68 on groceries last month is not that helpful. To feel in control of your finances is!  
-And how to do it? Simply track your **net worth** in a spreadsheet.
+.. To know that you spent €312.23 instead of €277.68 on groceries last month is not that helpful.  
+What people really need is to feel in control of their finances!  
+And how to do it in a practical way? Track your **net worth** in a spreadsheet.
  
 - When your net worth is too risky (for your personality) get more tight and work on improving it.
 - When you feel confortable with your number you can loosen up a bit.
@@ -195,7 +196,7 @@ A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename
 
 #### hamster-budget: organize your money
 
-- Work in progress.
+- control your finances in a practical way.
 
 *'Possible painpoint?'*
 
