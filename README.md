@@ -1,7 +1,7 @@
 HAMSTER-SYSTEM
 --------------
 
-Boost productivity and reduce stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt) and OBTF (One Big Text File), [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, Inbox zero and Desktop zero.
+Boost productivity and reduce stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt), OBTF (One Big Text File), [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, Inbox zero and Desktop zero.
 
 ### So, how can you start?
 
@@ -138,7 +138,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 - resuming (check also [screenshots](#screenshots)):
 
-        on a cloud synced folder - 3 text files:
+        on a cloud synced folder, 3 text files:
             Notes (collection of thoughts)
             References (collection of bookmarks)
             Calendar (collection of todos that can/must wait)
@@ -164,12 +164,13 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ## How to organize your money
 *'You might not need a budget..'.*
 
-.. what you need is to feel in control of your finances and not to know that you spent $312.23 on groceries.  
-And how to do it? Track your NET WORTH in a spreadsheet.
+.. To know that you spent €312.23 instead of €277.68 on groceries last month is not that helpful. To feel in control of your finances is!  
+And how to do it? Simply track your **net worth** in a spreadsheet.
  
 - When your net worth is too risky (for your personality) get more tight and work on improving it.
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
+- How do you track it? List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them.
 
 (work in progress)
 
