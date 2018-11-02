@@ -162,18 +162,15 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 ---
 ## How to organize your money
-*'You might not need a budget..'.*
+*'You might not need a personal budget..'.*
 
-.. To know that you spent €312.23 instead of €277.68 on groceries last month is not that helpful.  
-What people really need is to feel in control of their finances!  
+Is it worthwhile to spend an huge amount of cognitive bandwidth to know that you spent €312.23 instead of €277.68 on groceries last month? In the end, what you really crave is to feel in control of your finances.  
 And how to do it in a practical way? Track your **net worth** in a spreadsheet.
  
+- How to track it? Simply list all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. If relevant list and sum your liabilities. The difference will be your net worth.
 - When your net worth is too risky (for your personality) get more tight and work on improving it.
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
-- How do you track it? List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them.
-
-(work in progress)
 
 
 
@@ -191,7 +188,7 @@ A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename
 #### hamster-flow: organize your workflow
 
 - simple solution: use your favorite text editor and cloud, a paper notebook and almost no syntax. Minimum overhead.
-- practical solution: mix the *good parts* of [many workflow management approaches](#superfolder).
+- practical solution: mix the *good parts* of [many workflow management approaches](#hamster-system).
 - future data exchange and serialization: [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
 
 #### hamster-budget: organize your money
