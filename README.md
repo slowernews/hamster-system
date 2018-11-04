@@ -1,13 +1,12 @@
-HAMSTER-SYSTEM
---------------
+# HAMSTER-SYSTEM
 
 Boost productivity and reduce stress by organizing your documents and workflow with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt), OBTF (One Big Text File), [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, Inbox zero and Desktop zero.
 
 ### So, how can you start?
 
-- [hamster-folder](#hamster-folder-organize-your-digital-documents): organize your (digital) documents
-- [hamster-flow](#hamster-flow-organize-your-workflow): organize your workflow
-- [hamster-budget](#hamster-budget-organize-your-money): organize your money
+- [hamster-folder](#hamster-folder): organize your (digital) documents
+- [hamster-flow](#hamster-flow): organize your workflow
+- [hamster-budget](#hamster-budget): organize your money
 
 **TLDR:** 
 
@@ -17,7 +16,9 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 
 ---
-## HAMSTER-FOLDER: organize your (digital) documents
+## HAMSTER-FOLDER</br>
+organize your (digital) documents
+
 *'Every document belongs to a project'.*
 
 ### Container:
@@ -112,7 +113,9 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 
 ---
-## HAMSTER-FLOW: organize your workflow
+## HAMSTER-FLOW</br>
+organize your workflow
+
 *'Manage a collection of inputs'.*
 
 - 3 plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
@@ -161,7 +164,9 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 
 ---
-## HAMSTER-BUDGET: organize your money
+## HAMSTER-BUDGET</br>
+organize your money
+
 *'You don't need a personal budget'.*
 
 Is it worthwhile to spend cognitive bandwidth to know that you spent €312,23 on groceries last month?  
