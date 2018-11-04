@@ -8,7 +8,7 @@
 - Changed: recommendation of YAML for note serialization and data exchange. 
 
 (hamster-budget)
-- Coming soon.
+- Added: a stress free personal budget strategy.
 
 ## +0.8 (2016-10-12)
 
