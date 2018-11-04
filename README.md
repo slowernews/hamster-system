@@ -19,7 +19,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ## HAMSTER-FOLDER
 ### Organize your (digital) documents
 
-*'Every document belongs to a project'.*
+*Mantra: 'Every document belongs to a project'.*
 
 ### Container:
 
@@ -116,7 +116,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ## HAMSTER-FLOW
 ### Organize your workflow
 
-*'Manage a collection of inputs'.*
+*Mantra: 'Manage a collection of inputs'.*
 
 - 3 plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (todos) are managed in one text file and one paper notebook: calendar and now.
@@ -167,14 +167,14 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 ## HAMSTER-BUDGET
 ### Organize your money
 
-*'You don't need a personal budget'.*
+*Mantra: 'You don't need a personal budget'.*
 
 Is it worthwhile to spend cognitive bandwidth to know that you spent €312,23 on groceries last month?  
-Isn't it enough to know that you spend from €250 to €350 on groceries every month?
-What we really crave is to feel in control of our finances (life).  
+For me is enough to know that I spend from €250 to €350 on groceries every month. What I really crave is to feel in control of my finances (life).
+
 How to do it in a practical way? Simply track your **net worth** in a spreadsheet.
  
-- How to track it? List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. List and sum your liabilities (if relevant). The difference is your net worth. Every case is a case: you can even separate liquid and non liquid assets (e.g. house, car).
+- How to track it? List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. List and sum your liabilities (if relevant). The difference is your net worth. Every case is a case: you can even separate liquid from non-liquid assets (e.g. house, car).
 - When your net worth is too risky (for your personality) get more tight and work on improving it.
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
