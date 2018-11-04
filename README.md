@@ -5,9 +5,9 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 ### So, how can you start?
 
-- hamster-folder: [organize your (digital) documents](#how-to-organize-your-digital-documents)
-- hamster-flow: [organize your workflow](#how-to-organize-your-workflow)
-- hamster-budget: [organize your money](#how-to-organize-your-money)
+- [hamster-folder](#hamster-folder-organize-your-digital-documents): organize your (digital) documents
+- [hamster-flow](#hamster-flow-organize-your-workflow): organize your workflow
+- [hamster-budget](#hamster-budget-organize-your-money): organize your money
 
 **TLDR:** 
 
@@ -17,7 +17,7 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 
 ---
-## How to organize your (digital) documents
+## HAMSTER-FOLDER: organize your (digital) documents
 *'Every document belongs to a project'.*
 
 ### Container:
@@ -112,8 +112,8 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 
 ---
-## How to organize your workflow
-*'Managing a workflow consists on managing a collection of inputs'.*
+## HAMSTER-FLOW: organize your workflow
+*'Manage a collection of inputs'.*
 
 - 3 plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (todos) are managed in one text file and one paper notebook: calendar and now.
@@ -161,13 +161,15 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 
 ---
-## How to organize your money
-*'You might not need a personal budget..'.*
+## HAMSTER-BUDGET: organize your money
+*'You don't need a personal budget'.*
 
-Is it worthwhile to spend an huge amount of cognitive bandwidth to know that you spent €312.23 instead of €277.68 on groceries last month? In the end, what you really crave is to feel in control of your finances.  
-And how to do it in a practical way? Track your **net worth** in a spreadsheet.
+Is it worthwhile to spend cognitive bandwidth to know that you spent €312,23 on groceries last month?  
+Isn't it enough to know that you spend from €250 to €350 on groceries every month?
+What we really crave is to feel in control of our finances (life).  
+How to do it in a practical way? Simply track your **net worth** in a spreadsheet.
  
-- How to track it? Simply list all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. If relevant list and sum your liabilities. The difference will be your net worth.
+- How to track it? List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. List and sum your liabilities (if relevant). The difference is your net worth. Every case is a case: you can even separate liquid and non liquid assets (e.g. house, car).
 - When your net worth is too risky (for your personality) get more tight and work on improving it.
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
