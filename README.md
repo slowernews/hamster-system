@@ -16,8 +16,8 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 
 ---
-## HAMSTER-FOLDER</br>
-organize your (digital) documents
+## HAMSTER-FOLDER
+### Organize your (digital) documents
 
 *'Every document belongs to a project'.*
 
@@ -113,8 +113,8 @@ organize your (digital) documents
 
 
 ---
-## HAMSTER-FLOW</br>
-organize your workflow
+## HAMSTER-FLOW
+### Organize your workflow
 
 *'Manage a collection of inputs'.*
 
@@ -164,8 +164,8 @@ organize your workflow
 
 
 ---
-## HAMSTER-BUDGET</br>
-organize your money
+## HAMSTER-BUDGET
+### Organize your money
 
 *'You don't need a personal budget'.*
 
