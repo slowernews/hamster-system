@@ -169,8 +169,8 @@ Boost productivity and reduce stress by organizing your documents and workflow w
 
 *Mantra: 'You don't need a personal budget'.*
 
-Is it worthwhile to spend cognitive bandwidth to know that you spent €312,23 on groceries last month?  
-For me is enough to know that I spend from €250 to €350 on groceries every month. What I really crave is to feel in control of my finances (life).
+Is it worthwhile to spend cognitive bandwidth to know that you spent exactly €312,23 on groceries last month?  
+I already know that I spend from €250 to €350 on it every month. What I crave is to feel in control of my finances (life).
 
 How to do it in a practical way? Simply track your **net worth** in a spreadsheet.
  
