@@ -1,6 +1,6 @@
 # HAMSTER-SYSTEM
 
-Boost productivity and reduce stress by organizing your documents, workflow and personal budget with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt), OBTF (One Big Text File), [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, Inbox zero and Desktop zero.
+Boost productivity and reduce stress by organizing your documents, workflow and personal budget with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt), OBTF (One Big Text File), [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, inbox zero and desktop zero.
 
 ### So, how can you start?
 
@@ -169,12 +169,12 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 *Mantra: 'You don't need a personal budget'.*
 
-Is it worthwhile to spend cognitive bandwidth to know that you spent exactly €312,23 on groceries last month?  
-I already know that I spend from €250 to €350 on it every month. What I crave is to feel in control of my finances (life).
+Does it worth to spend cognitive bandwidth to know that you spent €312,23 on groceries last month?  
+I know that I spend from €300 +- 20% on it every month. What I crave is to feel in control of my finances (life).
 
-How to do it in a practical way? Simply track your **net worth** in a spreadsheet.
+How to do it in a practical way? Simply track your **net worth** in a spreadsheet:
  
-- How to track it? List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. List and sum your liabilities (if relevant). The difference is your net worth. Every case is a case: you can even separate liquid from non-liquid assets (e.g. house, car).
+- List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. List and sum your liabilities (if relevant). The difference is your net worth. You can even separate liquid from non-liquid assets (e.g. house, car). Every case is a case, you must build your template from zero.
 - When your net worth is too risky (for your personality) get more tight and work on improving it.
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
