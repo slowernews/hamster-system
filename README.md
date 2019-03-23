@@ -120,7 +120,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - 3 plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (todos) are managed in one text file and one paper notebook: calendar and now.
-    - non-actionable inputs are managed in two text files: references and notes. Few long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation.
+    - non-actionable inputs are managed in two text files: references and notes. Few long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation. However, notes are useless if you don't review and *tree shake* them periodically.
 
 - todos listed in the calendar text file have a due date: **( )**
 
@@ -169,13 +169,13 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 *Mantra: 'You don't need a personal budget'.*
 
-Does it worth to spend cognitive bandwidth to know that you spent €312,23 on groceries last month?  
-I know that I spend from €300 +- 20% on it every month. What I crave is to feel in control of my finances (life).
+Does it worth to spend cognitive bandwidth to know that last month you spent €312,23 on groceries?  
+I already know that I spend €300 &#8723; 20% on it every month. What I crave is to feel in control of my life.
 
-How to do it in a practical way? Simply track your **net worth** in a spreadsheet:
+How to do it in a practical way? Track your **net worth** in a spreadsheet:
  
 - List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. List and sum your liabilities (if relevant). The difference is your net worth. You can even separate liquid from non-liquid assets (e.g. house, car). Every case is a case, you must build your template from zero.
-- When your net worth is too risky (for your personality) get more tight and work on improving it.
+- When your net worth is too risky (for your personality) get more tight.
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
 
