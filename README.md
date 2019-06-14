@@ -32,7 +32,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
         Inside your superfolder there are 3 folders:
 
-        INBOX (folder to put new documents until deciding what to do with them)
+        INBOX (folder to put new documents while deciding what to do with them)
         CURRENT (folder to store your active projects)
         ARCHIVE (folder to store your dormant projects)
 
@@ -43,7 +43,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - bundle of projects (derived from twitter hashtag): **#**
 
-        Inside CURRENT and ARCHIVE folders you put #bundles of projects:
+        Inside CURRENT (or ARCHIVE) folder you put #bundles of projects:
         e.g: #large investor
 
 - project (derived from twitter mention): **@**  
