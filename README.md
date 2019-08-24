@@ -30,11 +30,10 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - main folders: **PROJECT STATUS**
 
-        Inside your superfolder there are 3 folders:
+        Inside your superfolder there are 2 folders:
 
-        INBOX (folder to put new documents while deciding what to do with them)
-        CURRENT (folder to store your active projects)
-        ARCHIVE (folder to store your dormant projects)
+        INBOX (folder to store your active projects)
+        ARCHIVE (folder to store your inactive projects)
 
 ---
 ### Project folders:
@@ -43,7 +42,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - bundle of projects (derived from twitter hashtag): **#**
 
-        Inside CURRENT (or ARCHIVE) folder you put #bundles of projects:
+        Inside INBOX (or ARCHIVE) folder you put #bundles of projects:
         e.g: #large investor
 
 - project (derived from twitter mention): **@**  
@@ -65,10 +64,10 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### Naming:
 
-- when reasonable reduce unnecessary nesting by merging folders:
+- when reasonable reduce unnecessary nesting by merging folders. Hints:
 
-        Prefer: @house in portugal.building permit
-        Instead of: @house in portugal / .building permit
+        Prefer: @project.only one subproject
+        Instead of: @project / .only one subproject
 
         Prefer: -drawings-details-wall
         Instead of: -drawings / -details / -wall
@@ -85,8 +84,8 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Use a prefix for standard / boilerplate files: $
         e.g: $curriculum+A007
 
-        Use a prefix for temporary files: _
-        e.g: _tempFile 
+        Use a prefix for temporary folders where you keep stuff before knowing what to do with them: _
+        e.g: _standby
 
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ] _**
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
@@ -100,10 +99,9 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### How to navigate through your documents:
 
-- you only need two *permanent* desktop shortcuts to navigate through your documents: 
+- you only need one *permanent* desktop shortcuts to navigate through your documents: 
 
         Shortcut to INBOX folder
-        Shortcut to CURRENT folder
 
         A shortcut to archive is not needed, only dormant projects are there.
 

@@ -3,6 +3,9 @@
 - renamed as Hamster-system once Superfolder grew as a framework of 3 organizational methods.
 - simplification.
 
+(hamster-folder)
+- Changed: CURRENT folder is now called INBOX. Old INBOX is now called \_STUFF and is inside new INBOX.
+
 (hamster-flow)
 - Changed: inspired by Todo.txt, Evernote was ditched for plain text files.
 - Changed: recommendation of YAML for note serialization and data exchange. 
