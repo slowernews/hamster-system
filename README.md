@@ -66,8 +66,8 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - when reasonable reduce unnecessary nesting by merging folders. Hints:
 
-        Prefer: @project.only one subproject
-        Instead of: @project / .only one subproject
+        Prefer: @project.onlyOneSubproject
+        Instead of: @project / .onlyOneSubproject
 
         Prefer: -drawings-details-wall
         Instead of: -drawings / -details / -wall
@@ -77,9 +77,6 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Use spaces or other naming style:
         e.g. using spaces: #large investor@house in portugal
         e.g. using camelCase: #largeInvestor@houseInPortugal
-
-        Enclose folder's name to mark it as private: [ ]
-        e.g: [#personal]
 
         Use a prefix for standard / boilerplate files: $
         e.g: $curriculum+A007
@@ -103,7 +100,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
         Shortcut to INBOX folder
 
-        A shortcut to ARCHIVE is optional, only inactive projects are there.
+        A shortcut to ARCHIVE is optional - only inactive projects are there.
 
 - and/or a launcher-file finder<sup id="refnote2"> [2](#footnote2)</sup>. 
 
@@ -116,7 +113,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 *Mantra: 'Manage a collection of inputs'.*
 
-- One text file on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
+- One text file on a cloud<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (todos) are managed in one section of the text file and in the paper notebook: *calendar* and *now*.
     - non-actionable inputs are managed in two sections of the text file: *references* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this is useless if you don't review and *tree shake* it periodically.
 
@@ -139,7 +136,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - resuming (check also [screenshots](#screenshots)):
 
-        on a cloud synced folder, one text file with 3 sections:
+        on a cloud, one text file with 3 sections:
             Calendar (collection of todos that can/must wait)
             References (collection of bookmarks)
             Notes (collection of thoughts)
@@ -150,11 +147,11 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### Screenshots:
 
-- calendar file on Sublime text editor.<sup id="refnote5"> [4](#footnote5)</sup>
+- calendar section on Sublime text editor.<sup id="refnote5"> [4](#footnote5)</sup>
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
-- [YAML](https://www.json2yaml.com/convert-yaml-to-json) on references file for readability and future data serialization.
+- Markdown, easy to adapt as [YAML](https://www.json2yaml.com/convert-yaml-to-json) for readability and possible data serialization.
 
 ![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example2.png)
 
@@ -168,7 +165,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 *Mantra: 'You don't need a personal budget'.*
 
 Does it worth to spend cognitive bandwidth to know that last month you spent €312,23 on groceries?  
-I already know that I spend €300 &#8723; 20% on it every month. What I crave is to feel in control of my life.
+I already know that I spend around €300 on it every month. What I crave is to feel in control of my life.
 
 How to do it in a practical way? Track your **net worth** in a spreadsheet:
  

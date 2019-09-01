@@ -7,8 +7,8 @@
 - Changed: CURRENT folder is now called INBOX. Old INBOX is now called \_STUFF and is inside new INBOX.
 
 (hamster-flow)
-- Changed: inspired by Todo.txt, Evernote was ditched for plain text files.
-- Changed: recommendation of YAML for note serialization and data exchange. 
+- Changed: inspired by Todo.txt and OBTF (One Big Text File), Evernote was ditched for plain text files.
+- Changed: recommendation of Markdown, easily adaptable to YAML, for note serialization and data exchange. 
 
 (hamster-budget)
 - Added: a stress free personal budget strategy.
