@@ -33,7 +33,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Inside your superfolder there are 2 folders:
 
         INBOX (folder to store your active projects)
-        ARCHIVE (folder to store your inactive projects)
+        ARCHIVE (folder to store your inactive projects - often organized in bundles)
 
 ---
 ### Project folders:
@@ -42,15 +42,15 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - bundle of projects (derived from twitter hashtag): **#**
 
-        Inside INBOX (or ARCHIVE) folder you put #bundles of projects:
+        Inside ARCHIVE (and sometimes INBOX) folder you put #bundles of projects:
         e.g: #large investor
 
 - project (derived from twitter mention): **@**  
 
-        Inside #bundle folders you put @projects:
+        Inside main or #bundle folders you put @projects:
         e.g: @house in portugal    
 
-- subproject (derived from OO programming): **.**
+- subproject (derived from programming): **.**
 
         Inside #bundles or @project folders you put @project.subprojects:
         e.g: @house in portugal.building permit
@@ -103,7 +103,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
         Shortcut to INBOX folder
 
-        A shortcut to archive is not needed, only dormant projects are there.
+        A shortcut to ARCHIVE is optional, only inactive projects are there.
 
 - and/or a launcher-file finder<sup id="refnote2"> [2](#footnote2)</sup>. 
 
@@ -116,11 +116,11 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 *Mantra: 'Manage a collection of inputs'.*
 
-- 3 plain text files on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
-    - actionable inputs (todos) are managed in one text file and one paper notebook: calendar and now.
-    - non-actionable inputs are managed in two text files: references and notes. Few long notes are easier to manage than many short notes. See them as *flat wikis* and use text editor's built-in search for navigation. However, notes are useless if you don't review and *tree shake* them periodically.
+- One text file on a cloud synced folder<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
+    - actionable inputs (todos) are managed in one section of the text file and in the paper notebook: *calendar* and *now*.
+    - non-actionable inputs are managed in two sections of the text file: *references* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this is useless if you don't review and *tree shake* it periodically.
 
-- todos listed in the calendar text file have a due date: **( )**
+- todos listed in the *calendar* section of the text file have a due date: **( )**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
@@ -139,10 +139,10 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - resuming (check also [screenshots](#screenshots)):
 
-        on a cloud synced folder, 3 text files:
-            Notes (collection of thoughts)
-            References (collection of bookmarks)
+        on a cloud synced folder, one text file with 3 sections:
             Calendar (collection of todos that can/must wait)
+            References (collection of bookmarks)
+            Notes (collection of thoughts)
 
         on a paper notebook:
             Now (collection of todos to be done ASAP)
