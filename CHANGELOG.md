@@ -1,14 +1,15 @@
 ## +1.0 UNRELEASED
 
-- renamed as Hamster-system once Superfolder grew as a framework of 3 organizational methods.
-- simplification.
+- Renamed as Hamster-system once Superfolder grew as a framework of 3 organizational methods.
+- Simplification.
 
 (hamster-folder)
 - Changed: CURRENT folder is now called INBOX. Old INBOX is now called \_STUFF and is inside new INBOX.
+- Removed: *[ ]* notation.
 
 (hamster-flow)
 - Changed: inspired by Todo.txt and OBTF (One Big Text File), Evernote was ditched for plain text files.
-- Changed: recommendation of Markdown, easily adaptable to YAML, for note serialization and data exchange. 
+- Changed: recommendation of YAML (masked as markdown for easier text editor navigation) for note serialization and data exchange. 
 
 (hamster-budget)
 - Added: a stress free personal budget strategy.

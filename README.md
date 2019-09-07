@@ -84,13 +84,15 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Use a prefix for temporary folders where you keep stuff before knowing what to do with them: _
         e.g: _standby
 
+        Use a prefix for folders where you keep older versions of files: +
+
 - but don't use these symbols for regular naming: **# @ . - + $ % { } [ ] _**
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
 ### Archiving:
 
-- archive files using BranchVer (each version *adds* a change on data): **+ branch . progress**
+- archive files using *builds* (each version *adds* a change on data): **+ progress**
 - archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch**
 
 ---
@@ -115,7 +117,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - One text file on a cloud<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (todos) are managed in one section of the text file and in the paper notebook: *calendar* and *now*.
-    - non-actionable inputs are managed in two sections of the text file: *references* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this is useless if you don't review and *tree shake* it periodically.
+    - non-actionable inputs are managed in two sections of the text file: *bookmarks* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this file is not *write-only*: review and *tree shake* it periodically.
 
 - todos listed in the *calendar* section of the text file have a due date: **( )**
 
@@ -138,7 +140,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
         on a cloud, one text file with 3 sections:
             Calendar (collection of todos that can/must wait)
-            References (collection of bookmarks)
+            Bookmarks (collection of bookmarks)
             Notes (collection of thoughts)
 
         on a paper notebook:
@@ -151,7 +153,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
-- Markdown, easy to adapt as [YAML](https://www.json2yaml.com/convert-yaml-to-json) for readability and possible data serialization.
+- [YAML](https://www.json2yaml.com/convert-yaml-to-json) for readability and possible data serialization, masked as markdown for easier navigation.
 
 ![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example2.png)
 
@@ -165,7 +167,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 *Mantra: 'You don't need a personal budget'.*
 
 Does it worth to spend cognitive bandwidth to know that last month you spent €312,23 on groceries?  
-I already know that I spend around €300 on it every month. What I crave is to feel in control of my life.
+I already know that I spend around €300 every month. What I crave is to feel in control of my life.
 
 How to do it in a practical way? Track your **net worth** in a spreadsheet:
  
