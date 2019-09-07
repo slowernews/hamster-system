@@ -90,10 +90,14 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
+
 ### Archiving:
 
-- files using *builds* (each version *adds* a change on data): **+ builds**
-- releases of (sub)projects using a simplified [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor**
+- files using *builds* (each version *adds* a change): **+ builds**
+
+        e.g. plan+023
+
+- project releases using [SemVer](http://www.semver.org/) in a simplified way (no *.patch*): **+ major . minor**
 
 ---
 ### How to navigate through your documents:
