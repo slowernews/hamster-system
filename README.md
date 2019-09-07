@@ -92,8 +92,8 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### Archiving:
 
-- archive files using *builds* (each version *adds* a change on data): **+ progress**
-- archive releases of (sub)projects using [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor . patch**
+- files using *builds* (each version *adds* a change on data): **+ builds**
+- releases of (sub)projects using a simplified [SemVer](http://www.semver.org/) (each version *adds* a change on data): **+ major . minor**
 
 ---
 ### How to navigate through your documents:
@@ -116,7 +116,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 *Mantra: 'Manage a collection of inputs'.*
 
 - One text file on a cloud<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
-    - actionable inputs (todos) are managed in the paper notebook one and in one section of the text file: *now* and *calendar*.
+    - actionable inputs (todos) are managed in the paper notebook and in a section of the text file: *now* and *calendar*.
     - non-actionable inputs are managed in two sections of the text file: *bookmarks* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this file is not *write-only*: review and *tree-shake* it periodically.
 
 - todos listed in the *calendar* section of the text file have a due date: **( )**
