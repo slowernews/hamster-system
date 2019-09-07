@@ -116,8 +116,8 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 *Mantra: 'Manage a collection of inputs'.*
 
 - One text file on a cloud<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
-    - actionable inputs (todos) are managed in one section of the text file and in the paper notebook: *calendar* and *now*.
-    - non-actionable inputs are managed in two sections of the text file: *bookmarks* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this file is not *write-only*: review and *tree shake* it periodically.
+    - actionable inputs (todos) are managed in the paper notebook one and in one section of the text file: *now* and *calendar*.
+    - non-actionable inputs are managed in two sections of the text file: *bookmarks* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this file is not *write-only*: review and *tree-shake* it periodically.
 
 - todos listed in the *calendar* section of the text file have a due date: **( )**
 
@@ -138,22 +138,22 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - resuming (check also [screenshots](#screenshots)):
 
+        on a paper notebook:
+            Now (collection of todos to be done ASAP)
+
         on a cloud, one text file with 3 sections:
             Calendar (collection of todos that can/must wait)
             Bookmarks (collection of bookmarks)
             Notes (collection of thoughts)
 
-        on a paper notebook:
-            Now (collection of todos to be done ASAP)
-
 ---
 ### Screenshots:
 
-- calendar section on Sublime text editor.<sup id="refnote5"> [4](#footnote5)</sup>
+- *Calendar* section on Sublime text editor.<sup id="refnote5"> [4](#footnote5)</sup>
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
-- [YAML](https://www.json2yaml.com/convert-yaml-to-json) for readability and possible data serialization, masked as markdown for easier navigation.
+- [YAML](https://www.json2yaml.com/convert-yaml-to-json) (for readability and possible data serialization) masked as markdown (for easier text-editor navigation).
 
 ![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example2.png)
 
