@@ -1,12 +1,12 @@
-# HAMSTER-SYSTEM
+# Hamster system
 
 Boost productivity and reduce stress by organizing your documents, workflow and personal budget with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt), OBTF (One Big Text File), [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, inbox zero and desktop zero.
 
 ### So, how can you start?
 
-- [hamster-folder](#hamster-folder): organize your (digital) documents
-- [hamster-flow](#hamster-flow): organize your workflow
-- [hamster-budget](#hamster-budget): organize your money
+- [hamster folder](#hamster-folder): organize your (digital) documents
+- [hamster flow](#hamster-flow): organize your workflow
+- [hamster budget](#hamster-budget): organize your money
 
 **TLDR:** 
 
@@ -16,14 +16,14 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 
 ---
-## HAMSTER-FOLDER
+## Hamster folder
 ### Organize your (digital) documents
 
 *Mantra: 'Every document belongs to a project'.*
 
 ### Container:
 
-- superfolder: **YOUR NAME**
+- root folder: **YOUR NAME**
 
         First of all create a folder in a partition of your disk.
         ALL your stuff will be stored here.
@@ -38,26 +38,26 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### Project folders:
 
-*#bundle @project .subproject -folders*
+*[bundle] #project @subproject -folders*
 
-- bundle of projects (derived from twitter hashtag): **#**
+- bundle of projects: **[]**
 
-        Inside ARCHIVE (and sometimes INBOX) folder you put #bundles of projects:
-        e.g: #large investor
+        Inside ARCHIVE (and sometimes INBOX) folder you put [bundles of projects]:
+        e.g: [large investor]
 
-- project (derived from twitter mention): **@**  
+- project (derived from twitter hashtag): **#**  
 
-        Inside main or #bundle folders you put @projects:
-        e.g: @house in portugal    
+        Inside ARCHIVE or [bundle] folders you put #projects:
+        e.g: #house in portugal    
 
-- subproject (derived from programming): **.**
+- subproject (derived from twitter mention): **@**
 
-        Inside #bundles or @project folders you put @project.subprojects:
-        e.g: @house in portugal.building permit
+        Inside [bundles] or #project folders you put @subprojects:
+        e.g: @building permit
 
 - storage folder: **-**
 
-        Inside @project.subprojects you put -storage folders:
+        Inside @subprojects you put -storage folders:
         e.g: -drawings
         e.g: -drawings-plans
 
@@ -66,8 +66,8 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - when reasonable reduce unnecessary nesting by merging folders. Hints:
 
-        Prefer: @project.onlyOneSubproject
-        Instead of: @project / .onlyOneSubproject
+        Prefer: #project@onlyOneSubproject
+        Instead of: #project / @onlyOneSubproject
 
         Prefer: -drawings-details-wall
         Instead of: -drawings / -details / -wall
@@ -75,8 +75,8 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 - name your files using a system that fits you<sup id="refnote1"> [1](#footnote1)</sup>. Hints:
 
         Use spaces or other naming style:
-        e.g. using spaces: #large investor@house in portugal
-        e.g. using camelCase: #largeInvestor@houseInPortugal
+        e.g. using spaces: #house in portugal@building permit.txt
+        e.g. using camelCase: #houseInPortugal@buildingPermit.txt
 
         Use a prefix for standard / boilerplate files: $
         e.g: $curriculum+A007
@@ -86,18 +86,16 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
         Use a prefix for folders where you keep older versions of files: +
 
-- but don't use these symbols for regular naming: **# @ . - + $ % { } [ ] _**
+- but don't use these symbols for regular naming: **# @ - + [ ] $ _**
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
 
 ### Archiving:
 
-- files using *builds* (each version *adds* a change): **+ builds**
+- files or releases using *builds* (each version *adds* a change): **+v**
 
-        e.g. plan+023
-
-- project releases using [SemVer](http://www.semver.org/) in a simplified way (no *.patch*): **+ major . minor**
+        e.g: plan+v023
 
 ---
 ### How to navigate through your documents:
@@ -114,31 +112,31 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 
 ---
-## HAMSTER-FLOW
+## Hamster flow
 ### Organize your workflow
 
 *Mantra: 'Manage a collection of inputs'.*
 
 - One text file on a cloud<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (todos) are managed in the paper notebook and in a section of the text file: *now* and *calendar*.
-    - non-actionable inputs are managed in two sections of the text file: *bookmarks* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this file is not *write-only*: review and *tree-shake* it periodically.
+    - non-actionable inputs are managed in two sections of the text file: *bookmarks* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this file is not *write-only*: review and *tree-shake* it periodically.<sup id="refnote4"> [4](#footnote5)</sup>
 
-- todos listed in the *calendar* section of the text file have a due date: **( )**
+- todos listed in the *calendar* section of the text file have a due date: **[]**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
-        e.g. inserting a scheduled date: (year-month-day=hour)
-        (2017-11-29=9h) Doctor appointment
+        e.g. inserting a scheduled date: [year-month-day=hour]
+        [2019-11-29=9h] Doctor appointment
 
-        e.g. inserting a trigger/fuzzy date: (date >>)
-        (2017-03-10 >>) Waiting for client feedback after this date
+        e.g. inserting a trigger/fuzzy date: [date >>]
+        [2019-03-10 >>] Waiting for client feedback after this date
 
-        e.g. inserting a deadline date: (date <<)
-        (2017-10-22 <<) Pay electricity bill until this date
+        e.g. inserting a deadline date: [date <<]
+        [2019-10-22 <<] Pay electricity bill until this date
 
-        e.g. without knowing the due date: (soon) or (someday)
-        (soon) Call Mom
-        (someday) Bungee jumping with friends
+        e.g. without knowing the due date: [soon] or [someday]
+        [soon] Call Mom
+        [someday] Bungee jumping with friends
 
 - resuming (check also [screenshots](#screenshots)):
 
@@ -153,7 +151,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### Screenshots:
 
-- *Calendar* section on Sublime text editor.<sup id="refnote5"> [4](#footnote5)</sup>
+- *Calendar* section on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
@@ -165,7 +163,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 
 ---
-## HAMSTER-BUDGET
+## Hamster budget
 ### Organize your money
 
 *Mantra: 'You don't need a personal budget'.*
@@ -217,7 +215,8 @@ Probably not but I don't know nothing that works better. I test new options and 
 <sup><a name="footnote2">2</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/) Lite.<br>
 Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - Google Drive, Dropbox, etc. [↩](#refnote3)</sup><br>
-<sup><a name="footnote5">4</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup>
+<sup><a name="footnote4">4</a> - Try to keep it under 2K lines. If you can't, it means that you have long notes that should live independently. [↩](#refnote4)</sup><br>
+<sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

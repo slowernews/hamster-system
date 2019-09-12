@@ -4,12 +4,13 @@
 - Simplification.
 
 (hamster-folder)
-- Changed: CURRENT folder is now called INBOX. Old INBOX is now called \_STUFF and is inside new INBOX.
-- Removed: *[ ]* notation.
+- Changed: CURRENT folder is now called INBOX.
+- Changed: *[ ]* now means bundle, *#* project and *@* subproject.
 
 (hamster-flow)
 - Changed: inspired by Todo.txt and OBTF (One Big Text File), Evernote was ditched for plain text files.
-- Changed: recommendation of YAML (masked as markdown for easier text editor navigation) for note serialization and data exchange. 
+- Changed: recommendation of YAML (masked as markdown for easier text editor navigation) for data exchange.
+- Changed: date are now enclosed by *[ ]* instead of parentheses.
 
 (hamster-budget)
 - Added: a stress free personal budget strategy.
