@@ -19,7 +19,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ## Hamster folder
 ### Organize your (digital) documents
 
-*Mantra: 'Every document belongs to a project'.*
+*'Every document belongs to a project'.*
 
 ### Container:
 
@@ -40,19 +40,19 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 *[bundle] #project @subproject -folders*
 
-- bundle of projects: **[]**
+- bundle of projects: **[ ]**
 
-        Inside ARCHIVE (and sometimes INBOX) folder you put [bundles of projects]:
+        Inside ARCHIVE folder you put [bundles of projects]:
         e.g: [large investor]
 
 - project (derived from twitter hashtag): **#**  
 
-        Inside ARCHIVE or [bundle] folders you put #projects:
+        Inside INBOX, ARCHIVE or [bundle] folders you put #projects:
         e.g: #house in portugal    
 
 - subproject (derived from twitter mention): **@**
 
-        Inside [bundles] or #project folders you put @subprojects:
+        Inside #project folders you put @subprojects:
         e.g: @building permit
 
 - storage folder: **-**
@@ -115,13 +115,13 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ## Hamster flow
 ### Organize your workflow
 
-*Mantra: 'Manage a collection of inputs'.*
+*'Manage a collection of inputs'.*
 
 - One text file on a cloud<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (todos) are managed in the paper notebook and in a section of the text file: *now* and *calendar*.
     - non-actionable inputs are managed in two sections of the text file: *bookmarks* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this file is not *write-only*: review and *tree-shake* it periodically.<sup id="refnote4"> [4](#footnote5)</sup>
 
-- todos listed in the *calendar* section of the text file have a due date: **[]**
+- todos listed in the *calendar* section of the text file have a due date: **[ ]**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
@@ -166,7 +166,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ## Hamster budget
 ### Organize your money
 
-*Mantra: 'You don't need a personal budget'.*
+*'You don't need a personal budget'.*
 
 Does it worth to spend cognitive bandwidth to know that last month you spent €312,23 on groceries?  
 I already know that I spend around €300 every month. What I crave is to feel in control of my life.
@@ -185,19 +185,19 @@ How to do it in a practical way? Track your **net worth** in a spreadsheet:
 ## TLDR:
 *'What does this stuff solve?'*
 
-#### hamster-folder: organize your (digital) documents
+#### hamster folder: organize your (digital) documents
 
 - prediction (with acceptable accuracy) of filenames and where they are stored.<br>
 A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename but less useful when you don't.
 - transmission of project folders with all project files and a predictable structure.
 
-#### hamster-flow: organize your workflow
+#### hamster flow: organize your workflow
 
 - simple solution: use your favorite text editor and cloud, a paper notebook and almost no syntax. Minimum overhead.
 - practical solution: mix the *good parts* of [many workflow management approaches](#hamster-system).
 - future data exchange and serialization: [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
 
-#### hamster-budget: organize your money
+#### hamster budget: organize your money
 
 - control your finances in a practical way.
 
