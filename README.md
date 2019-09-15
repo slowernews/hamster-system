@@ -79,7 +79,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         e.g. using camelCase: #houseInPortugal@buildingPermit.txt
 
         Use a prefix for standard / boilerplate files: $
-        e.g: $curriculum+A007
+        e.g: $curriculum+v007
 
         Use a prefix for temporary folders where you keep stuff before knowing what to do with them: _
         e.g: _standby
