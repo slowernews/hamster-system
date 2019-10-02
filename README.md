@@ -79,7 +79,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         e.g. using camelCase: #houseInPortugal@buildingPermit.txt
 
         Use a prefix for standard / boilerplate files: $
-        e.g: $curriculum+v007
+        e.g: $curriculum+005
 
         Use a prefix for temporary folders where you keep stuff before knowing what to do with them: _
         e.g: _standby
@@ -93,9 +93,9 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 ### Archiving:
 
-- files or releases using *builds* (each version *adds* a change): **+v**
+- files or releases using *builds* (each version *adds* a change): **+**
 
-        e.g: plan+v023
+        e.g: groundfloor+023
 
 ---
 ### How to navigate through your documents:
