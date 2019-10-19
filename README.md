@@ -169,11 +169,11 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 *'You don't need a personal budget'.*
 
 Does it worth to spend cognitive bandwidth to know that last month you spent €312,23 on groceries?  
-I already know that I spend around €300 every month. What I crave is to feel in control of my life.
+After tracking it for a few months, I already know that I spend *around* €300. **What I crave is to feel in control of my life.**
 
 How to do it in a practical way? Track your **net worth** in a spreadsheet:
  
-- List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. List and sum your liabilities (if relevant). The difference is your net worth. You can even separate liquid from non-liquid assets (e.g. house, car). Every case is a case, you must build your template from zero.
+- List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. List and sum your liabilities (if relevant). The difference is your net worth. You can even separate liquid from non-liquid assets (e.g. house, car). Every case is a case so you must build your template from zero.
 - When your net worth is too risky (for your personality) get more tight.
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
