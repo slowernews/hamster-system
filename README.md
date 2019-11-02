@@ -1,6 +1,6 @@
 # Hamster system
 
-Boost productivity and reduce stress by organizing your documents, workflow and personal budget with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt), OBTF (One Big Text File), [Bullet journal](http://bulletjournal.com/) (notes on paper), index cards, inbox zero and desktop zero.
+Boost productivity and reduce stress by organizing your documents, workflow and personal budget with an ultra-simple system loosely inspired in [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done), [Todo.txt](https://github.com/todotxt/todo.txt), OBTF (One Big Text File), [Bullet journal](http://bulletjournal.com/) (notes on paper), spreadsheets, index cards, inbox zero and desktop zero.
 
 ### So, how can you start?
 
@@ -72,30 +72,28 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Prefer: -drawings-details-wall
         Instead of: -drawings / -details / -wall
 
-- name your files using a system that fits you<sup id="refnote1"> [1](#footnote1)</sup>. Hints:
-
-        Use spaces or other naming style:
-        e.g. using spaces: #house in portugal@building permit.txt
-        e.g. using camelCase: #houseInPortugal@buildingPermit.txt
-
-        Use a prefix for standard / boilerplate files: $
-        e.g: $curriculum+005
+- hints for naming your folders:
 
         Use a prefix for temporary folders where you keep stuff before knowing what to do with them: _
         e.g: _standby
 
         Use a prefix for folders where you keep older versions of files: +
 
-- but don't use these symbols for regular naming: **# @ - + [ ] $ _**
+- name your files using a system that fits you<sup id="refnote1"> [1](#footnote1)</sup>. Hints:
+
+        Use a prefix for standard / boilerplate files: $
+        e.g: $curriculum
+
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
 
 ---
-
 ### Archiving:
 
-- files or releases using *builds* (each version *adds* a change): **+**
+- files by using a *change date* suffix<sup id="refnote6"> [6](#footnote6)</sup>: **date**
 
-        e.g: groundfloor+023
+        Some possibilities:
+        yourfile-2019-10-18
+        yourfile+20191018
 
 ---
 ### How to navigate through your documents:
@@ -166,10 +164,9 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ## Hamster budget
 ### Organize your money
 
-*'You don't need a personal budget'.*
+*'You may not need a personal budget'.*
 
-Does it worth to spend cognitive bandwidth to know that last month you spent €312,23 on groceries?  
-After tracking it for a few months, I already know that I spend *around* €300. **What I crave is to feel in control of my life.**
+Does it worth to spend cognitive bandwidth to know that last month you spent €312,23 on groceries? I already know that I spend *around* €300. **What I crave is to feel in control of my finances.**
 
 How to do it in a practical way? Track your **net worth** in a spreadsheet:
  
@@ -215,8 +212,9 @@ Probably not but I don't know nothing that works better. I test new options and 
 <sup><a name="footnote2">2</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/) Lite.<br>
 Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - Google Drive, Dropbox, etc. [↩](#refnote3)</sup><br>
-<sup><a name="footnote4">4</a> - Try to keep it under 2K lines. If you can't, it means that you have long notes that should live independently. [↩](#refnote4)</sup><br>
+<sup><a name="footnote4">4</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote4)</sup><br>
 <sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup>
+<sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Change dates" are more practical and descriptive. [↩](#refnote6)</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
