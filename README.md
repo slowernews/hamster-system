@@ -59,7 +59,6 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
         Inside @subprojects you put -storage folders:
         e.g: -drawings
-        e.g: -drawings-plans
 
 ---
 ### Naming:
@@ -81,7 +80,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - name your files using a system that fits you<sup id="refnote1"> [1](#footnote1)</sup>. Hints:
 
-        Use a prefix for standard / boilerplate files: $
+        Use a prefix for template / boilerplate files: $
         e.g: $curriculum
 
 - great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
@@ -89,16 +88,16 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### Archiving:
 
-- files by using a *change date* suffix<sup id="refnote6"> [6](#footnote6)</sup>: **date**
+- files by using a *modification date* suffix<sup id="refnote6"> [6](#footnote6)</sup>: **modification date**
 
-        Some possibilities:
+        Some possibilities of that suffix:
         yourfile-2019-10-18
         yourfile+20191018
 
 ---
 ### How to navigate through your documents:
 
-- you only need one *permanent* desktop shortcuts to navigate through your documents: 
+- you only need one *permanent* desktop shortcut to navigate through your documents: 
 
         Shortcut to INBOX folder
 
@@ -180,29 +179,30 @@ How to do it in a practical way? Track your **net worth** in a spreadsheet:
 
 ---
 ## TLDR:
-*'What does this stuff solve?'*
 
-#### hamster folder: organize your (digital) documents
+#### What does this stuff solve?
+
+*hamster folder: organize your (digital) documents*
 
 - prediction (with acceptable accuracy) of filenames and where they are stored.<br>
 A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename but less useful when you don't.
 - transmission of project folders with all project files and a predictable structure.
 
-#### hamster flow: organize your workflow
+*hamster flow: organize your workflow*
 
 - simple solution: use your favorite text editor and cloud, a paper notebook and almost no syntax. Minimum overhead.
 - practical solution: mix the *good parts* of [many workflow management approaches](#hamster-system).
 - future data exchange and serialization: [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
 
-#### hamster budget: organize your money
+*hamster budget: organize your money*
 
 - control your finances in a practical way.
 
-*'Possible painpoint?'*
+#### Possible painpoint?
 
-This system is not smartphone oriented. That's not even an issue for me but it might be for you.
+This system is not smartphone oriented. That's not even an issue for me but it might be for you. My strategy - when a paper notebook is not enough - is to email myself the new stuff and take care of it later.
 
-*'Is this the truth?'*
+#### Is this the truth?
 
 Probably not but I don't know nothing that works better. I test new options and 'tree shake' existent ones agressively.
 
@@ -214,7 +214,7 @@ Pros: Launch and file search without external software, low memory usage (less t
 <sup><a name="footnote3">3</a> - Google Drive, Dropbox, etc. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote4)</sup><br>
 <sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup>
-<sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Change dates" are more practical and descriptive. [↩](#refnote6)</sup>
+<sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Modification dates" are more practical and descriptive. [↩](#refnote6)</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
