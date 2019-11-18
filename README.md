@@ -71,28 +71,22 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Prefer: -drawings-details-wall
         Instead of: -drawings / -details / -wall
 
-- hints for naming your folders:
-
-        Use a prefix for temporary folders where you keep stuff before knowing what to do with them: _
-        e.g: _standby
-
-        Use a prefix for folders where you keep older versions of files: +
-
-- name your files using a system that fits you<sup id="refnote1"> [1](#footnote1)</sup>. Hints:
+- use a system that fits your needs<sup id="refnote1"> [1](#footnote1)</sup>. Some hints:
 
         Use a prefix for template / boilerplate files: $
         e.g: $curriculum
 
-- great free tool for [batch renaming](http://www.bulkrenameutility.co.uk/Screenshots.php).
+        Use a prefix for folders where you keep stuff temporarly: _
+        e.g: _standby
 
----
-### Archiving:
+        Use a prefix for folders where you keep old versions of files: +
 
-- files by using a *modification date* suffix<sup id="refnote6"> [6](#footnote6)</sup>: **modification date**
+- version files by using a *modification date* suffix<sup id="refnote6"> [6](#footnote6)</sup>: **modification date**
 
-        Some possibilities of that suffix:
-        yourfile-2019-10-18
-        yourfile+20191018
+        e.g: yourfile-2019-10-18
+        e.g: yourfile+20191018
+
+- great free tool for [batch renaming](https://www.bulkrenameutility.co.uk/#mainscreen).
 
 ---
 ### How to navigate through your documents:
@@ -208,12 +202,12 @@ Probably not but I don't know nothing that works better. I test new options and 
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - e.g: relevant [naming system for architects](https://github.com/galfarragem/gerbil-project). [↩](#refnote1)</sup><br>
+<sup><a name="footnote1">1</a> - e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/) Lite.<br>
 Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - Google Drive, Dropbox, etc. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote4)</sup><br>
-<sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup>
+<sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup><br>
 <sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Modification dates" are more practical and descriptive. [↩](#refnote6)</sup>
 
 ---
