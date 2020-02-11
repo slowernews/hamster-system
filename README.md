@@ -30,7 +30,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - main folders: **PROJECT STATUS**
 
-        Inside your superfolder there are 2 folders:
+        Inside your root folder there are 2 folders:
 
         INBOX (folder to store your active projects)
         ARCHIVE (folder to store your inactive projects - often organized in bundles)
@@ -109,7 +109,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 *'Manage a collection of inputs'.*
 
 - One text file on a cloud<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
-    - actionable inputs (todos) are managed in the paper notebook and in a section of the text file: *now* and *calendar*.
+    - actionable inputs (todos) are managed in the paper notebook (*to do now*) and in a section of the text file (*calendar*).
     - non-actionable inputs are managed in two sections of the text file: *bookmarks* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this file is not *write-only*: review and *tree-shake* it periodically.<sup id="refnote4"> [4](#footnote5)</sup>
 
 - todos listed in the *calendar* section of the text file have a due date: **[ ]**
@@ -180,7 +180,7 @@ How to do it in a practical way? Track your **net worth** in a spreadsheet:
 
 - prediction (with acceptable accuracy) of filenames and where they are stored.<br>
 A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename but less useful when you don't.
-- transmission of project folders with all project files and a predictable structure.
+- transmission of projects with a predictable structure.
 
 *hamster flow: organize your workflow*
 
