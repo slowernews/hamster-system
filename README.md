@@ -145,7 +145,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         on a paper notebook:
             TODOS (collection of todos to be done ASAP)
 
-        on a cloud, one text file with 3 sections:
+        on a cloud, one text file with 2 sections:
             Calendar (collection of todos that can/must wait)
             Notes (collection of thoughts and bookmarks)
 
