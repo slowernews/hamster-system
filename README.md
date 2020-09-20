@@ -108,20 +108,21 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 *'Manage a collection of inputs'.*
 
-- One text file on a cloud<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
+- One text file<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (*TODOS*) are managed in the paper notebook and in a section of the text file (*Calendar*)<sup id="refnote3"> [7](#footnote3)</sup>.
     - non-actionable inputs are managed in a text file. Hints:
 
             One long file is easier to manage than many short files.
             See it as a *flat wiki* and use text editor's built-in search for navigation.
         
-            Notes organized by purpose, not by category.
+            This file is not *write-only*: review and *tree-shake* it each time you
+            iterate your notes and make an effort to progressively summarize them.
+            You'll leverage your excitement instead of forcing discipline.
+        
+            Notes organized by *purpose*, not by category.
+            It can be a catalyst for action and reviews.
         
             Only store things that surprise you, not stuff you already know.
-        
-            This file is not *write-only*: review and *tree-shake* it each time you
-            iterate your notes making an effort to progressively summarize them.
-            You'll leverage your excitement instead of forcing discipline.
 
 - Todos listed in the *Calendar* section of the text file have a due date: **[ ]**
 
@@ -131,7 +132,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         [2020-11-29=9h] Doctor appointment
 
         e.g. inserting a trigger/fuzzy date: [date >>]
-        [2020-03-10 >>] Waiting for client feedback after this date
+        [2020-10-10 >>] Waiting for client feedback after this date
 
         e.g. inserting a deadline date: [date <<]
         [2020-10-22 <<] Pay electricity bill until this date
@@ -215,11 +216,11 @@ Probably not but I don't know nothing that works better. I test new options and 
 <sup><a name="footnote1">1</a> - e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/) Lite.<br>
 Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote2)</sup><br>
-<sup><a name="footnote3">3</a> - Google Drive, Dropbox, etc. [↩](#refnote3)</sup><br>
+<sup><a name="footnote3">3</a> - Hosted in a cloud (Google Drive, Dropbox, etc) if possible. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote4)</sup><br>
 <sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup><br>
 <sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Modification dates" are more practical and descriptive. [↩](#refnote6)</sup><br>
-<sup><a name="footnote7">7</a> - A full featured calendar (Google calendar, Apple Calendar, etc) might pay off in certain cases. [↩](#refnote7)</sup>
+<sup><a name="footnote7">7</a> - A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases. [↩](#refnote7)</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
