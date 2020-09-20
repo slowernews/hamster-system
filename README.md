@@ -143,12 +143,11 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 - resuming (check also [screenshots](#screenshots)):
 
         on a paper notebook:
-            Now (collection of todos to be done ASAP)
+            TODOS (collection of todos to be done ASAP)
 
         on a cloud, one text file with 3 sections:
             Calendar (collection of todos that can/must wait)
-            Bookmarks (collection of bookmarks)
-            Notes (collection of thoughts)
+            Notes (collection of thoughts and bookmarks)
 
 ---
 ### Screenshots:
