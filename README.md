@@ -123,7 +123,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
             iterate your notes making an effort to progressively summarize them.
             You'll leverage your excitement instead of forcing discipline.
 
-- TODOS listed in the *Calendar* section of the text file have a due date: **[ ]**
+- Todos listed in the *Calendar* section of the text file have a due date: **[ ]**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
@@ -140,12 +140,12 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         [soon] Call Mom
         [someday] Bungee jumping with friends
 
-- resuming (check also [screenshots](#screenshots)):
+- Resuming (check also [screenshots](#screenshots)):
 
         on a paper notebook:
             TODOS (collection of todos to be done ASAP)
 
-        on a cloud, one text file with 2 sections:
+        on a text file with 2 sections:
             Calendar (collection of todos that can/must wait)
             Notes (collection of thoughts and bookmarks)
 
