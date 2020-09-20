@@ -109,7 +109,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 *'Manage a collection of inputs'.*
 
 - One text file on a cloud<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
-    - actionable inputs (*TODOS*) are managed in the paper notebook and in a section of the text file (*CALENDAR*).
+    - actionable inputs (*TODOS*) are managed in the paper notebook and in a section of the text file (*Calendar*)<sup id="refnote3"> [7](#footnote3)</sup>.
     - non-actionable inputs are managed in a text file. Hints:
 
             One long file is easier to manage than many short files.
@@ -123,18 +123,18 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
             iterate your notes making an effort to progressively summarize them.
             You'll leverage your excitement instead of forcing discipline.
 
-- todos listed in the *calendar* section of the text file have a due date: **[ ]**
+- TODOS listed in the *Calendar* section of the text file have a due date: **[ ]**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
         e.g. inserting a scheduled date: [year-month-day=hour]
-        [2019-11-29=9h] Doctor appointment
+        [2020-11-29=9h] Doctor appointment
 
         e.g. inserting a trigger/fuzzy date: [date >>]
-        [2019-03-10 >>] Waiting for client feedback after this date
+        [2020-03-10 >>] Waiting for client feedback after this date
 
         e.g. inserting a deadline date: [date <<]
-        [2019-10-22 <<] Pay electricity bill until this date
+        [2020-10-22 <<] Pay electricity bill until this date
 
         e.g. without knowing the due date: [soon] or [someday]
         [soon] Call Mom
@@ -152,7 +152,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### Screenshots:
 
-- *CALENDAR* section on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
+- *Calendar* section on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
@@ -218,7 +218,8 @@ Pros: Launch and file search without external software, low memory usage (less t
 <sup><a name="footnote3">3</a> - Google Drive, Dropbox, etc. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote4)</sup><br>
 <sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup><br>
-<sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Modification dates" are more practical and descriptive. [↩](#refnote6)</sup>
+<sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Modification dates" are more practical and descriptive. [↩](#refnote6)</sup><br>
+<sup><a name="footnote7">7</a> - A full featured calendar (Google calendar, Apple Calendar, etc) might pay off in certain cases. [↩](#refnote7)</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
