@@ -112,13 +112,13 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
     - actionable inputs (*TODOS*) are managed in the paper notebook and in a section of the text file (*CALENDAR*).
     - non-actionable inputs are managed in a text file. Hints:
 
-        One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation.
+            One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation.
         
-        Notes organized by purpose, not by category<sup id="refnote7"> [7](#footnote7)</sup>.
+            Notes organized by purpose, not by category.
         
-        Only store things that surprise you, not stuff you already know.
+            Only store things that surprise you, not stuff you already know.
         
-        This file is not *write-only*: review and *tree-shake* it each time you iterate your notes making an effort to progressively summarize them. You'll leverage your excitement instead of forcing discipline.
+            This file is not *write-only*: review and *tree-shake* it each time you iterate your notes making an effort to progressively summarize them. You'll leverage your excitement instead of forcing discipline.
 
 - todos listed in the *calendar* section of the text file have a due date: **[ ]**
 
