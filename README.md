@@ -109,8 +109,16 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 *'Manage a collection of inputs'.*
 
 - One text file on a cloud<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
-    - actionable inputs (todos) are managed in the paper notebook (*to do now*) and in a section of the text file (*calendar*).
-    - non-actionable inputs are managed in two sections of the text file: *bookmarks* and *notes*. One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation. However, this file is not *write-only*: review and *tree-shake* it periodically.<sup id="refnote4"> [4](#footnote5)</sup>
+    - actionable inputs (*TODOS*) are managed in the paper notebook and in a section of the text file (*CALENDAR*).
+    - non-actionable inputs are managed in a text file. Hints:
+
+        One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation.
+        
+        Notes organized by purpose, not by category<sup id="refnote7"> [7](#footnote7)</sup>.
+        
+        Only store things that surprise you, not stuff you already know.
+        
+        This file is not *write-only*: review and *tree-shake* it each time you iterate your notes making an effort to progressively summarize them. You'll leverage your excitement instead of forcing discipline.
 
 - todos listed in the *calendar* section of the text file have a due date: **[ ]**
 
@@ -142,7 +150,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### Screenshots:
 
-- *Calendar* section on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
+- *CALENDAR* section on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
@@ -163,7 +171,7 @@ Does it worth to spend cognitive bandwidth to know that last month you spent €
 
 How to do it in a practical way? Track your **net worth** in a spreadsheet:
  
-- List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. List and sum your liabilities (if relevant). The difference is your net worth. You can even separate liquid from non-liquid assets (e.g. house, car). Every case is a case so you must build your template from zero.
+- List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your template from zero.
 - When your net worth is too risky (for your personality) get more tight.
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
@@ -179,7 +187,7 @@ How to do it in a practical way? Track your **net worth** in a spreadsheet:
 *hamster folder: organize your (digital) documents*
 
 - prediction (with acceptable accuracy) of filenames and where they are stored.<br>
-A file finder<sup> [2](#footnote3)</sup> is great when you remember the filename but less useful when you don't.
+A file finder<sup> [2](#footnote2)</sup> is great when you remember the filename but less useful when you don't.
 - transmission of projects with a predictable structure.
 
 *hamster flow: organize your workflow*
