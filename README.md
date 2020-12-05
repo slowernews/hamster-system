@@ -109,7 +109,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 *'Manage a collection of inputs'.*
 
 - One text file<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
-    - actionable inputs (*TODOS*) are managed in the paper notebook and in a section of the text file (*Calendar*)<sup id="refnote3"> [7](#footnote3)</sup>.
+    - actionable inputs (*TODOS*) are managed in the paper notebook. Non-urgent TODOS eventually move to the *Calendar* section of the text file<sup id="refnote3"> [7](#footnote3)</sup>.
     - non-actionable inputs are managed in a text file. Hints:
 
             One long file is easier to manage than many short files.
@@ -119,12 +119,12 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
             iterate your notes and make an effort to progressively summarize them.
             You'll leverage your excitement instead of forcing discipline.
         
-            Notes organized by *purpose*, not by category.
+            Ideally, notes organized by *purpose*, not by category.
             It can be a catalyst for action and reviews.
         
             Only store things that surprise you, not stuff you already know.
 
-- Todos listed in the *Calendar* section of the text file have a due date: **[ ]**
+- *TODOS* listed in the *Calendar* section of the text file have a due date: **[ ]**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
@@ -157,7 +157,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
-- [YAML](https://www.json2yaml.com/convert-yaml-to-json) (for readability and possible data serialization) masked as markdown (for easier text-editor navigation).
+- Markdown for easy text-editor navigation (adaptable to [YAML](https://www.json2yaml.com/convert-yaml-to-json) for data serialization).
 
 ![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example2.png)
 
@@ -179,6 +179,10 @@ How to do it in a practical way? Track your **net worth** in a spreadsheet:
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
 
+### Organize your investments
+
+To keep some control over your finances and still invest nothing beats Barbell investment strategy. I use a loose version of it.
+
 
 
 
@@ -197,7 +201,7 @@ A file finder<sup> [2](#footnote2)</sup> is great when you remember the filename
 
 - simple solution: use your favorite text editor and cloud, a paper notebook and almost no syntax. Minimum overhead.
 - practical solution: mix the *good parts* of [many workflow management approaches](#hamster-system).
-- future data exchange and serialization: [YAML](https://www.json2yaml.com/convert-yaml-to-json) notation saved as TXT files.
+- simple solution: markdown (adaptable to [YAML](https://www.json2yaml.com/convert-yaml-to-json) for future data exchange and serialization).
 
 *hamster budget: organize your money*
 
@@ -205,7 +209,7 @@ A file finder<sup> [2](#footnote2)</sup> is great when you remember the filename
 
 #### Possible painpoint?
 
-This system is not smartphone oriented. That's not even an issue for me but it might be for you. My strategy - when a paper notebook is not enough - is to email myself the new stuff and take care of it later.
+This system is not smartphone oriented. That's not even an issue for me but it might be for you. My strategy, when a paper notebook is not enough (and most times it is), is to email myself the new stuff and take care of it later.
 
 #### Is this the truth?
 
