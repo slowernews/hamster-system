@@ -181,7 +181,7 @@ How to do it in a practical way? Track your **net worth** in a spreadsheet:
 
 ### Organize your investments
 
-To keep some control over your finances and still invest nothing beats Barbell investment strategy. I use a loose version of it.
+To keep some control over your finances and still invest nothing beats *Barbell investment strategy*. I use a loose version of it.
 
 
 
@@ -199,13 +199,12 @@ A file finder<sup> [2](#footnote2)</sup> is great when you remember the filename
 
 *hamster flow: organize your workflow*
 
-- simple solution: use your favorite text editor and cloud, a paper notebook and almost no syntax. Minimum overhead.
+- simple solution: use your favorite text editor and cloud, a paper notebook and Markdown notation. Markdown can be adapted into [YAML](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) for data exchange and serialization.
 - practical solution: mix the *good parts* of [many workflow management approaches](#hamster-system).
-- simple solution: markdown (adaptable to [YAML](https://www.json2yaml.com/convert-yaml-to-json) for future data exchange and serialization).
 
 *hamster budget: organize your money*
 
-- control your finances in a practical way.
+- simple and practical solution: only requires a couple of hours everty quarter. Minimum overhead.
 
 #### Possible painpoint?
 
@@ -213,7 +212,7 @@ This system is not smartphone oriented. That's not even an issue for me but it m
 
 #### Is this the truth?
 
-Probably not but I don't know nothing that works better. I test new options and 'tree shake' existent ones agressively.
+Probably not but I test new options and 'tree shake' existent ones agressively.
 
 ---
 <sup>Notes:</sup><br>
