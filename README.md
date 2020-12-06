@@ -109,7 +109,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 *'Manage a collection of inputs'.*
 
 - One text file<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
-    - actionable inputs (*TODOS*) are managed in the paper notebook. Non-urgent TODOS eventually move to the *Calendar* section of the text file<sup id="refnote3"> [7](#footnote3)</sup>.
+    - actionable inputs (*Tasks*) are managed in the paper notebook. Non-urgent tasks eventually move to the *Calendar* section of the text file<sup id="refnote3"> [7](#footnote3)</sup>.
     - non-actionable inputs are managed in a text file. Hints:
 
             One long file is easier to manage than many short files.
@@ -124,7 +124,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         
             Only store things that surprise you, not stuff you already know.
 
-- *TODOS* listed in the *Calendar* section of the text file have a due date: **[ ]**
+- Tasks listed in the *Calendar* section of the text file have a due date: **[ ]**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
@@ -144,10 +144,10 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 - Resuming (check also [screenshots](#screenshots)):
 
         on a paper notebook:
-            TODOS (collection of todos to be done ASAP)
+            Tasks (collection of tasks to be done ASAP)
 
         on a text file with 2 sections:
-            Calendar (collection of todos that can/must wait)
+            Calendar (collection of tasks that can/must wait)
             Notes (collection of thoughts and bookmarks)
 
 ---
