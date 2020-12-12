@@ -110,7 +110,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - One text file<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (*Tasks*) are managed in the paper notebook. Non-urgent tasks eventually move to the *Calendar* section of the text file<sup id="refnote3"> [7](#footnote3)</sup>.
-    - non-actionable inputs are managed in a text file (formatted as markdown). Hints:
+    - non-actionable inputs are managed in a (Markdown) text file. Hints:
         - One long file is easier to manage than many short files. See it as a *flat wiki* and use built-in search for navigation.
         - This file is not *write-only*: progressively summarize and *tree-shake* it each time you iterate your notes. You'll leverage your excitement instead of forcing discipline.
         - Ideally, notes are organized by *purpose*, not by category. It can be a catalyst for action and reviews.
@@ -166,7 +166,7 @@ Does it worth to spend cognitive bandwidth to know that last month you spent €
 
 How to do it in a practical way? Track your **net worth** in a spreadsheet:
  
-- List all your assets (bank, ebank, stocks, funds, crypto, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your template from zero.
+- List all your assets (bank, ebank, stocks, funds, crypto, real estate, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your template from zero.
 - When your net worth is too risky (for your personality) get more tight.
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
