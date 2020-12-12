@@ -110,10 +110,10 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - One text file<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (*Tasks*) are managed in the paper notebook. Non-urgent tasks eventually move to the *Calendar* section of the text file<sup id="refnote3"> [7](#footnote3)</sup>.
-    - non-actionable inputs are managed in a text file. Hints:
-        - One long file is easier to manage than many short files. See it as a *flat wiki* and use text editor's built-in search for navigation.
-        - This file is not *write-only*: review and *tree-shake* it each time you iterate your notes and make an effort to progressively summarize them. You'll leverage your excitement instead of forcing discipline.
-        - Ideally, notes organized by *purpose*, not by category. It can be a catalyst for action and reviews.
+    - non-actionable inputs are managed in a text file (formatted as markdown). Hints:
+        - One long file is easier to manage than many short files. See it as a *flat wiki* and use built-in search for navigation.
+        - This file is not *write-only*: progressively summarize and *tree-shake* it each time you iterate your notes. You'll leverage your excitement instead of forcing discipline.
+        - Ideally, notes are organized by *purpose*, not by category. It can be a catalyst for action and reviews.
         - Only store things that surprise you, not stuff you already know.
 
 - Tasks listed in the *Calendar* section of the text file have a due date: **[ ]**
