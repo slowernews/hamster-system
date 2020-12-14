@@ -73,15 +73,15 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - use a system that fits your needs<sup id="refnote1"> [1](#footnote1)</sup>. Some hints:
 
-        Use a prefix for template / boilerplate files: $
+        Prefix for template / boilerplate files: $
         e.g: $curriculum
 
-        Use a prefix for folders where you keep stuff temporarly: _
+        Prefix for folders where you keep stuff temporarly: _
         e.g: _standby
 
-        Use a prefix for folders where you keep old versions of files: +
+        Prefix for folders where you keep old versions of files: +
 
-- version files by using a *modification date* suffix<sup id="refnote6"> [6](#footnote6)</sup>: **modification date**
+- version files by using a *modification date* suffix<sup id="refnote6"> [6](#footnote6)</sup>: **Calendar Versioning**
 
         e.g: yourfile-2019-10-18
         e.g: yourfile+20191018
@@ -214,7 +214,7 @@ Pros: Launch and file search without external software, low memory usage (less t
 <sup><a name="footnote3">3</a> - Hosted in a cloud (Google Drive, Dropbox, etc) if possible. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote4)</sup><br>
 <sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup><br>
-<sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Modification dates" are more practical and descriptive. [↩](#refnote6)</sup><br>
+<sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Modification dates", aka [Calendar versioning or CalVer](https://calver.org/) are more practical and descriptive. [↩](#refnote6)</sup><br>
 <sup><a name="footnote7">7</a> - A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases. [↩](#refnote7)</sup>
 
 ---
