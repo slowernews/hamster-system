@@ -113,7 +113,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
     - non-actionable inputs are managed in a (Markdown) text file. Hints:
         - One long file is easier to manage than many short files. See it as a *flat wiki* and use built-in search for navigation.
         - This file is not *write-only*: progressively summarize and *tree-shake* it each time you iterate your notes. You'll leverage your excitement instead of forcing discipline.
-        - Ideally, notes are organized by *purpose*, not by category. It can be a catalyst for action and reviews.
+        - Ideally, notes are organized by *project*, not by category. It can be a catalyst for action and reviews.
         - Only store things that surprise you, not stuff you already know.
 
 - Tasks listed in the *Calendar* section of the text file have a due date: **[ ]**
@@ -162,12 +162,12 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 *'You may not need a personal budget'.*
 
-Does it worth to spend cognitive bandwidth to know that last month you spent €312,23 on groceries? I already know that I spend *around* €300. **What I crave is to feel in control of my finances.**
+Does it worth to spend cognitive bandwidth to know that last month I spent €321,83 on groceries? I already know that I spend *around* €300. **What I crave is to feel in control of my finances.**
 
 How to do it in a practical way? Track your **net worth** in a spreadsheet:
  
 - List all your assets (bank, ebank, stocks, funds, crypto, real estate, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your template from zero.
-- When your net worth is too risky (for your personality) get more tight.
+- When your net worth is too risky *for your personality* get more tight.
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
 
@@ -210,11 +210,11 @@ Probably not but I test new options and 'tree shake' existent ones agressively.
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/) Lite.<br>
-Pros: Launch and file search without external software, low memory usage (less than 40k on win7), fast and configurable. Cons: No calculator function. [↩](#refnote2)</sup><br>
+Pros: Launch and file search without external software, low memory usage (less than 40Mb on win7), fast and configurable. Cons: No calculator function. [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - Hosted in a cloud (Google Drive, Dropbox, etc) if possible. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote4)</sup><br>
 <sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup><br>
-<sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Modification dates", aka [Calendar versioning or CalVer](https://calver.org/) are more practical and descriptive. [↩](#refnote6)</sup><br>
+<sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Modification dates", aka [Calendar versioning (CalVer)](https://calver.org/) are more practical and descriptive. [↩](#refnote6)</sup><br>
 <sup><a name="footnote7">7</a> - A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases. [↩](#refnote7)</sup>
 
 ---
