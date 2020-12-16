@@ -109,7 +109,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 - One text file<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (*Tasks*) are managed in the paper notebook. Non-urgent tasks eventually move to the *Calendar* section of the text file<sup id="refnote5"> [5](#footnote5)</sup>.
     - non-actionable inputs are managed in a (Markdown) text file. Hints:
-        - One long file is easier to manage than many short files.<sup id="refnote6"> [6](#footnote6) See it as a *flat wiki* and use built-in search for navigation.
+        - One long file is easier to manage than many short files.<sup id="refnote6"> [6](#footnote6)</sup> See it as a *flat wiki* and use built-in search for navigation.
         - This file is not *write-only*: progressively summarize and *tree-shake* it each time you iterate your notes. You'll leverage your excitement instead of forcing discipline.
         - Ideally, notes are organized by *project*, not by category. It can be a catalyst for action and reviews.
         - Only store things that surprise you, not stuff you already know.
@@ -143,7 +143,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### Screenshots:
 
-- *Calendar* section on Sublime text editor.<sup id="refnote5"> [5](#footnote5)</sup>
+- *Calendar* section on Sublime text editor.<sup id="refnote7"> [7](#footnote7)</sup>
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
@@ -204,13 +204,13 @@ Probably not but I test new options and 'tree shake' existent ones agressively.<
 
 ---
 <sup>Footnotes:</sup><br>
-<sup><a name="footnote1">1</a> - e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). I use a [great free tool for batch renaming](https://www.bulkrenameutility.co.uk/#mainscreen). [↩](#refnote1)</sup><br>
+<sup><a name="footnote1">1</a> - e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). I use a great [free tool for batch renaming](https://www.bulkrenameutility.co.uk/#mainscreen). [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - After a long trial, "builds" were deprecated. "Modification dates", aka [Calendar versioning (CalVer)](https://calver.org/) are more practical and descriptive. [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - After having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/). Pros: Launch and file search without external software, low memory usage (less than 40Mb on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Hosted in a cloud (Google Drive, Dropbox, etc) if possible. [↩](#refnote4)</sup><br>
 <sup><a name="footnote5">5</a> - A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases. [↩](#refnote5)</sup><br>
 <sup><a name="footnote6">6</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote6)</sup><br>
-<sup><a name="footnote7">7</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote7)</sup><br>
+<sup><a name="footnote7">7</a> - Hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote7)</sup><br>
 <sup><a name="footnote8">8</a> - Org-mode, Roam research, Johnny-decimal (...) [↩](#refnote8)</sup>
 
 ---
