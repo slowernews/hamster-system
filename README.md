@@ -183,18 +183,15 @@ To keep some control over your finances and still invest nothing beats *Barbell 
 
 Complicated systems always fail on the long-term. Hamster-system aims to be *simple and practical*.
 
-*hamster folder: organize your (digital) documents*
+- Hamster folder (organize your documents)
+    - Transmission of projects with a predictable structure.
+    - Prediction (with acceptable accuracy) of filenames and their location. A file finder is great when you remember the filename but less useful when you don't.
 
-- Transmission of projects with a predictable structure.
-- Prediction (with acceptable accuracy) of filenames and their location. A file finder is great when you remember the filename but less useful when you don't.
+- Hamster flow (organize your workflow)
+    - Mix the *good parts* of  many workflow management approaches using your favorite text editor, cloud and a paper notebook. Use  Markdown that can be adapted into [YAML](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) for data exchange and serialization.
 
-*hamster flow: organize your workflow*
-
-- Mix the *good parts* of  many workflow management approaches using your favorite text editor, cloud and a paper notebook. Use  Markdown that can be adapted into [YAML](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) for data exchange and serialization.
-
-*hamster budget: organize your money*
-
-- *Feel in control* of your finances using just a couple of hours every quarter. Minimum overhead.
+- Hamster budget (organize your money)
+    - *Feel in control* of your finances using just a couple of hours every quarter. Minimum overhead.
 
 #### Possible painpoint?
 
