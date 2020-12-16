@@ -63,14 +63,6 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### Naming:
 
-- when reasonable reduce unnecessary nesting by merging folders. Hints:
-
-        Prefer: #project@onlyOneSubproject
-        Instead of: #project / @onlyOneSubproject
-
-        Prefer: -drawings-details-wall
-        Instead of: -drawings / -details / -wall
-
 - use a system that fits your needs<sup id="refnote1"> [1](#footnote1)</sup>. Some hints:
 
         Prefix for template / boilerplate files: $
@@ -81,12 +73,18 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
         Prefix for folders where you keep old versions of files: +
 
-- version files by using a *modification date* suffix<sup id="refnote6"> [6](#footnote6)</sup>: **Calendar Versioning**
+- version files by using a *modification date* suffix<sup id="refnote2"> [2](#footnote2)</sup>: **Calendar Versioning**
 
         e.g: yourfile-2019-10-18
         e.g: yourfile+20191018
 
-- great free tool for [batch renaming](https://www.bulkrenameutility.co.uk/#mainscreen).
+- when reasonable reduce unnecessary nesting by merging folders. Hints:
+
+        Prefer: #project@onlyOneSubproject
+        Instead of: #project / @onlyOneSubproject
+
+        Prefer: -drawings-details-wall
+        Instead of: -drawings / -details / -wall
 
 ---
 ### How to navigate through your documents:
@@ -97,7 +95,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
         A shortcut to ARCHIVE is optional - only inactive projects are there.
 
-- and/or a launcher-file finder<sup id="refnote2"> [2](#footnote2)</sup>. 
+- and/or a launcher-file finder<sup id="refnote3"> [3](#footnote3)</sup>. 
 
 
 
@@ -108,10 +106,10 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 *'Manage a collection of inputs'.*
 
-- One text file<sup id="refnote3"> [3](#footnote3)</sup> and a paper notebook collect all inputs:  
-    - actionable inputs (*Tasks*) are managed in the paper notebook. Non-urgent tasks eventually move to the *Calendar* section of the text file<sup id="refnote3"> [7](#footnote3)</sup>.
+- One text file<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook collect all inputs:  
+    - actionable inputs (*Tasks*) are managed in the paper notebook. Non-urgent tasks eventually move to the *Calendar* section of the text file<sup id="refnote5"> [5](#footnote5)</sup>.
     - non-actionable inputs are managed in a (Markdown) text file. Hints:
-        - One long file is easier to manage than many short files. See it as a *flat wiki* and use built-in search for navigation.
+        - One long file is easier to manage than many short files.<sup id="refnote6"> [6](#footnote6) See it as a *flat wiki* and use built-in search for navigation.
         - This file is not *write-only*: progressively summarize and *tree-shake* it each time you iterate your notes. You'll leverage your excitement instead of forcing discipline.
         - Ideally, notes are organized by *project*, not by category. It can be a catalyst for action and reviews.
         - Only store things that surprise you, not stuff you already know.
@@ -149,7 +147,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
-- Markdown for easy text-editor navigation (adaptable to [YAML](https://www.json2yaml.com/convert-yaml-to-json) for data serialization).
+- Easy text-editor navigation with Markdown (adaptable to [YAML](https://www.json2yaml.com/convert-yaml-to-json) for data serialization).
 
 ![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example2.png)
 
@@ -185,18 +183,16 @@ To keep some control over your finances and still invest nothing beats *Barbell 
 
 *hamster folder: organize your (digital) documents*
 
-- prediction (with acceptable accuracy) of filenames and where they are stored.<br>
-A file finder<sup> [2](#footnote2)</sup> is great when you remember the filename but less useful when you don't.
 - transmission of projects with a predictable structure.
+- prediction (with acceptable accuracy) of filenames and their location. A file finder is great when you remember the filename but less useful when you don't.
 
 *hamster flow: organize your workflow*
 
-- simple solution: use your favorite text editor and cloud, a paper notebook and Markdown notation. Markdown can be adapted into [YAML](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) for data exchange and serialization.
-- practical solution: mix the *good parts* of [many workflow management approaches](#hamster-system).
+- Simple and practical: mix the *good parts* of  many workflow management approaches using your favorite text editor, cloud and a paper notebook. Use  Markdown that can be adapted into [YAML](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) for data exchange and serialization.
 
 *hamster budget: organize your money*
 
-- simple and practical solution: only requires a couple of hours everty quarter. Minimum overhead.
+- simple and practical: only requires a couple of hours everty quarter. Minimum overhead.
 
 #### Possible painpoint?
 
@@ -204,18 +200,18 @@ This system is not smartphone oriented. That's not even an issue for me but it m
 
 #### Is this the truth?
 
-Probably not but I test new options and 'tree shake' existent ones agressively.
+Probably not but I test new options and 'tree shake' existent ones agressively.<sup id="refnote8"> [8](#footnote8)</sup>
 
 ---
-<sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). [↩](#refnote1)</sup><br>
-<sup><a name="footnote2">2</a> - after having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/) Lite.<br>
-Pros: Launch and file search without external software, low memory usage (less than 40Mb on win7), fast and configurable. Cons: No calculator function. [↩](#refnote2)</sup><br>
-<sup><a name="footnote3">3</a> - Hosted in a cloud (Google Drive, Dropbox, etc) if possible. [↩](#refnote3)</sup><br>
-<sup><a name="footnote4">4</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote4)</sup><br>
-<sup><a name="footnote5">5</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote5)</sup><br>
-<sup><a name="footnote6">6</a> - After a long trial, "builds" were deprecated. "Modification dates", aka [Calendar versioning (CalVer)](https://calver.org/) are more practical and descriptive. [↩](#refnote6)</sup><br>
-<sup><a name="footnote7">7</a> - A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases. [↩](#refnote7)</sup>
+<sup>Footnotes:</sup><br>
+<sup><a name="footnote1">1</a> - e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). I use a [great free tool for batch renaming](https://www.bulkrenameutility.co.uk/#mainscreen). [↩](#refnote1)</sup><br>
+<sup><a name="footnote2">2</a> - After a long trial, "builds" were deprecated. "Modification dates", aka [Calendar versioning (CalVer)](https://calver.org/) are more practical and descriptive. [↩](#refnote2)</sup><br>
+<sup><a name="footnote3">3</a> - After having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/). Pros: Launch and file search without external software, low memory usage (less than 40Mb on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
+<sup><a name="footnote4">4</a> - Hosted in a cloud (Google Drive, Dropbox, etc) if possible. [↩](#refnote4)</sup><br>
+<sup><a name="footnote5">5</a> - A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases. [↩](#refnote5)</sup><br>
+<sup><a name="footnote6">6</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote6)</sup><br>
+<sup><a name="footnote7">7</a> - hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote7)</sup><br>
+<sup><a name="footnote8">8</a> - Org-mode, Roam research, Johnny-decimal (...) [↩](#refnote8)</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
