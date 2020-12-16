@@ -192,7 +192,7 @@ To keep some control over your finances and still invest nothing beats *Barbell 
 
 *hamster budget: organize your money*
 
-- simple and practical: only requires a couple of hours everty quarter. Minimum overhead.
+- simple and practical: *feel in control* of your finances using just a couple of hours every quarter. Minimum overhead.
 
 #### Possible painpoint?
 
