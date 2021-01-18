@@ -169,10 +169,6 @@ How to do it in a practical way? Track your **net worth** in a spreadsheet:
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
 
-### Organize your investments
-
-To keep some control over your finances and still invest nothing beats *Barbell investment strategy*. I use a loose version of it.
-
 
 
 
@@ -191,7 +187,7 @@ Complicated systems always fail on the long-term. Hamster-system aims to be *sim
     - Mix the *good parts* of  many workflow management approaches using your favorite text editor, cloud and a paper notebook. Use  Markdown that can be adapted into [YAML](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) for data exchange and serialization.
 
 - Hamster budget (organize your money)
-    - *Feel in control* of your finances using just a couple of hours every quarter. Minimum overhead.
+    - *Feel in control* of your finances spending a couple of hours every quarter. Minimum overhead.
 
 #### Possible painpoint?
 
@@ -210,7 +206,7 @@ Probably not but I test new options and 'tree shake' existent ones agressively.<
 <sup><a name="footnote5">5</a> - A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases. [↩](#refnote5)</sup><br>
 <sup><a name="footnote6">6</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote6)</sup><br>
 <sup><a name="footnote7">7</a> - Hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote7)</sup><br>
-<sup><a name="footnote8">8</a> - Org-mode, Roam research, Johnny-decimal (...) [↩](#refnote8)</sup>
+<sup><a name="footnote8">8</a> - Org-mode, Roam research (Foam, Obsidian), Johnny-decimal (...) [↩](#refnote8)</sup>
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
