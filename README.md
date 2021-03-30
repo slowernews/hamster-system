@@ -4,11 +4,11 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 ### So, how can you start?
 
-- [hamster folder](#hamster-folder-organize-your-documents): organize your (digital) documents
-- [hamster flow](#hamster-flow-organize-your-workflow): organize your workflow
-- [hamster budget](#hamster-budget-organize-your-money): organize your money
+- [hamster folder](#hamster-folder---organize-your-documents): organize your (digital) documents
+- [hamster flow](#hamster-flow---organize-your-workflow): organize your workflow
+- [hamster budget](#hamster-budget---organize-your-money): organize your money
 
-**TLDR:** 
+**TLDR** 
 
 - [What does this stuff solve?](#tldr)
 
@@ -172,7 +172,7 @@ How to do it in a practical way? Track your **net worth** in a spreadsheet:
 ---
 ## TLDR:
 
-#### What does this stuff solve?
+### What does this stuff solve?
 
 Complicated systems always fail on the long-term. Hamster-system aims to be *simple and practical*.
 
@@ -186,11 +186,11 @@ Complicated systems always fail on the long-term. Hamster-system aims to be *sim
 - Hamster budget (organize your money)
     - *Feel in control* of your finances spending a couple of hours every quarter. Minimum overhead.
 
-#### Possible painpoint?
+### Possible painpoint?
 
 This system is not smartphone oriented. That's not even an issue for me but it might be for you. My strategy, when a paper notebook is not enough (and most times it is), is to email myself the new stuff and take care of it later.
 
-#### Is this the truth?
+### Is this the truth?
 
 Probably not but I test new options and 'tree shake' existent ones agressively.<sup id="refnote8"> [8](#footnote8)</sup>
 
