@@ -4,9 +4,9 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 ### So, how can you start?
 
-- [hamster folder](#hamster-folder): organize your (digital) documents
-- [hamster flow](#hamster-flow): organize your workflow
-- [hamster budget](#hamster-budget): organize your money
+- [hamster folder](#hamster-folder-organize-your-documents): organize your (digital) documents
+- [hamster flow](#hamster-flow-organize-your-workflow): organize your workflow
+- [hamster budget](#hamster-budget-organize-your-money): organize your money
 
 **TLDR:** 
 
@@ -16,12 +16,11 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 
 ---
-## Hamster folder
-### Organize your (digital) documents
+## Hamster folder - organize your documents
 
 *'Every document belongs to a project'.*
 
-### Container:
+### Container
 
 - root folder: **YOUR NAME**
 
@@ -36,7 +35,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         ARCHIVE (folder to store your inactive projects - often organized in bundles)
 
 ---
-### Project folders:
+### Project folders
 
 *[bundle] #project @subproject -folders*
 
@@ -61,7 +60,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         e.g: -drawings
 
 ---
-### Naming:
+### Naming
 
 - use a system that fits your needs<sup id="refnote1"> [1](#footnote1)</sup>. Some hints:
 
@@ -87,7 +86,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Instead of: -drawings / -details / -wall
 
 ---
-### How to navigate through your documents:
+### Navigation
 
 - you only need one *permanent* desktop shortcut to navigate through your documents: 
 
@@ -101,8 +100,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 
 ---
-## Hamster flow
-### Organize your workflow
+## Hamster flow - organize your workflow
 
 *'Manage a collection of inputs'.*
 
@@ -141,7 +139,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
             Notes (collection of thoughts and bookmarks)
 
 ---
-### Screenshots:
+### Screenshots
 
 - *Calendar* section on Sublime text editor.<sup id="refnote7"> [7](#footnote7)</sup>
 
@@ -155,8 +153,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 
 ---
-## Hamster budget
-### Organize your money
+## Hamster budget - organize your money
 
 *'You may not need a personal budget'.*
 
