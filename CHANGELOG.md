@@ -5,7 +5,7 @@
 
 (hamster folder)
 - Changed: CURRENT folder is now called INBOX.
-- Changed: *[ ]* now means bundle, *#* project and *@* subproject.
+- Changed: *[ ]* now means colection, *#* project and *@* subproject.
 
 (hamster flow)
 - Changed: inspired by Todo.txt and OBTF (One Big Text File), Evernote was ditched for plain text files.

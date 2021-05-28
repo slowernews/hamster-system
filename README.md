@@ -37,16 +37,16 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 ---
 ### Project folders
 
-*[bundle] #project @subproject -folders*
+*[collection] #project @subproject -folders*
 
-- bundle of projects: **[ ]**
+- collection: **[ ]**
 
-        Inside ARCHIVE folder you put [bundles of projects]:
+        Inside ARCHIVE folder you put [collections]:
         e.g: [large investor]
 
 - project (derived from twitter hashtag): **#**  
 
-        Inside INBOX, ARCHIVE or [bundle] folders you put #projects:
+        Inside INBOX, ARCHIVE or [collection] folders you put #projects:
         e.g: #house in portugal    
 
 - subproject (derived from twitter mention): **@**
@@ -67,15 +67,15 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Prefix for template / boilerplate files: $
         e.g: $curriculum
 
-        Prefix for folders where you keep stuff temporarly: _
+        Prefix for folders where you keep temporary stuff: _
         e.g: _standby
 
         Prefix for folders where you keep old versions of files: +
 
 - version files by using a *modification date* suffix<sup id="refnote2"> [2](#footnote2)</sup>: **Calendar Versioning**
 
-        e.g: yourfile-2019-10-18
-        e.g: yourfile+20191018
+        e.g: yourfile-2020-10-18
+        e.g: yourfile+20201018
 
 - when reasonable reduce unnecessary nesting by merging folders. Hints:
 
@@ -106,7 +106,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - One text file<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook collect all inputs:  
     - actionable inputs (*Tasks*) are managed in the paper notebook. Non-urgent tasks eventually move to the *Calendar* section of the text file<sup id="refnote5"> [5](#footnote5)</sup>.
-    - non-actionable inputs are managed in a (Markdown) text file. Hints:
+    - non-actionable inputs are managed in the (markdown) text file. Hints:
         - One long file is easier to manage than many short files.<sup id="refnote6"> [6](#footnote6)</sup> See it as a *flat wiki* and use built-in search for navigation.
         - This file is not *write-only*: progressively summarize and *tree-shake* it each time you iterate your notes. You'll leverage your excitement instead of forcing discipline.
         - Ideally, notes are organized by *project*, not by category. It can be a catalyst for action and reviews.
@@ -145,7 +145,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
-- Easy text-editor navigation with Markdown (adaptable to [YAML](https://www.json2yaml.com/convert-yaml-to-json) for data serialization).
+- Easy text-editor navigation with markdown (adaptable to [YAML](https://www.json2yaml.com/convert-yaml-to-json) for data serialization).
 
 ![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example2.png)
 
@@ -161,7 +161,7 @@ Does it worth to spend cognitive bandwidth to know that last month I spent €32
 
 How to do it in a practical way? Track your **net worth** in a spreadsheet:
  
-- List all your assets (bank, ebank, stocks, funds, crypto, real estate, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your template from zero.
+- List all your assets (cash, stocks, funds, crypto, real estate, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your template from zero.
 - When your net worth is too risky *for your personality* get more tight.
 - When you feel confortable with your number you can loosen up a bit.
 - I used to track it every month. I loosen up to every quarter.
