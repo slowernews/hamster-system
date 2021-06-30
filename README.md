@@ -201,7 +201,7 @@ Probably not but I test new options and 'tree shake' existent ones agressively.<
 <sup><a name="footnote3">3</a> - After having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/). Pros: Launch and file search without external software, low memory usage (less than 40Mb on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
 <sup><a name="footnote4">4</a> - Hosted in a cloud (Google Drive, Dropbox, etc) if possible. [↩](#refnote4)</sup><br>
 <sup><a name="footnote5">5</a> - A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases. [↩](#refnote5)</sup><br>
-<sup><a name="footnote6">6</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet) [↩](#refnote6)</sup><br>
+<sup><a name="footnote6">6</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet, public notes) <a href="https://github.com/slowernews/notebook">Example</a>  [↩](#refnote6)</sup><br>
 <sup><a name="footnote7">7</a> - Hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote7)</sup><br>
 <sup><a name="footnote8">8</a> - Org-mode, Roam research (Foam, Obsidian), Johnny-decimal (...) [↩](#refnote8)</sup>
 
