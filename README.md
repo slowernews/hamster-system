@@ -7,10 +7,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 - [hamster folder](#hamster-folder---organize-your-documents): organize your (digital) documents
 - [hamster flow](#hamster-flow---organize-your-workflow): organize your workflow
 - [hamster budget](#hamster-budget---organize-your-money): organize your money
-
-### TLDR
-
-- [What does this stuff solve?](#tldr)
+- [TLDR: What does this stuff solve?](#tldr)
 
 
 
