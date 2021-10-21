@@ -8,7 +8,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 - [hamster flow](#hamster-flow---organize-your-workflow): organize your workflow
 - [hamster budget](#hamster-budget---organize-your-money): organize your money
 
-**TLDR** 
+### TLDR
 
 - [What does this stuff solve?](#tldr)
 
@@ -34,7 +34,6 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         INBOX (folder to store your active projects)
         ARCHIVE (folder to store your inactive projects - often organized in bundles)
 
----
 ### Project folders
 
 *[collection] #project @subproject -folders*
@@ -59,7 +58,6 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Inside @subprojects you put -storage folders:
         e.g: -drawings
 
----
 ### Naming
 
 - use a system that fits your needs<sup id="refnote1"> [1](#footnote1)</sup>. Some hints:
@@ -85,7 +83,6 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Prefer: -drawings-details-wall
         Instead of: -drawings / -details / -wall
 
----
 ### Navigation
 
 - you only need one *permanent* desktop shortcut to navigate through your documents: 
@@ -138,7 +135,6 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
             Calendar (collection of tasks that can/must wait)
             Notes (collection of thoughts and bookmarks)
 
----
 ### Screenshots
 
 - *Calendar* section on Sublime text editor.<sup id="refnote7"> [7](#footnote7)</sup>
@@ -205,5 +201,4 @@ Probably not but I test new options and 'tree shake' existent ones agressively.<
 <sup><a name="footnote7">7</a> - Hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote7)</sup><br>
 <sup><a name="footnote8">8</a> - Org-mode, Roam research (Foam, Obsidian), Johnny-decimal (...) [↩](#refnote8)</sup>
 
----
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
