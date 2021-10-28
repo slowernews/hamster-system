@@ -63,17 +63,19 @@ When reasonable reduce unnecessary nesting by merging folders. Hints:
         Prefer: -drawings-details-wall
         Instead of: -drawings / -details / -wall
 
+And be pragmatic:
+
+        Prefix for temporary folders: _
+        e.g: _standby
+
+        Prefix for folders where you keep old versions of files: +
+
 ### File naming
 
 - use a system that fits your needs<sup id="refnote1"> [1](#footnote1)</sup>. Some hints:
 
         Prefix for template / boilerplate files: $
         e.g: $curriculum
-
-        Prefix for folders where you keep temporary stuff: _
-        e.g: _standby
-
-        Prefix for folders where you keep old versions of files: +
 
 - version files by using a *modification date* suffix<sup id="refnote2"> [2](#footnote2)</sup>: **Calendar Versioning**
 
@@ -181,7 +183,7 @@ Complicated systems always fail on the long-term. Hamster-system aims to be *sim
 
 ### Possible painpoint?
 
-This system doesn't have a specialized app. That's not even an issue for me but it might be for you. However, it is platform agnostic so you can easily adapt it. My strategy, when a paper notebook is not enough (and most times it is), is to email myself the new stuff and take care of it later. You can also - easily - move your text file to a cloud and update it from your platform.
+This is not even an issue for me but it might be for you: this system doesn't have specialized apps. However, it is platform agnostic so you can easily adapt it to meet your needs and make it multi-platform by moving your text file to a cloud. I use it only on my PC so when a paper notebook is not enough (and most times it is), I email myself the new stuff and take care of it later.
 
 ### Is this the truth?
 
