@@ -55,7 +55,15 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Inside @subprojects you put -storage folders:
         e.g: -drawings
 
-### Naming
+When reasonable reduce unnecessary nesting by merging folders. Hints:
+
+        Prefer: #project@onlyOneSubproject
+        Instead of: #project / @onlyOneSubproject
+
+        Prefer: -drawings-details-wall
+        Instead of: -drawings / -details / -wall
+
+### File naming
 
 - use a system that fits your needs<sup id="refnote1"> [1](#footnote1)</sup>. Some hints:
 
@@ -71,14 +79,6 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
         e.g: yourfile-2020-10-18
         e.g: yourfile+20201018
-
-- when reasonable reduce unnecessary nesting by merging folders. Hints:
-
-        Prefer: #project@onlyOneSubproject
-        Instead of: #project / @onlyOneSubproject
-
-        Prefer: -drawings-details-wall
-        Instead of: -drawings / -details / -wall
 
 ### Navigation
 
@@ -181,7 +181,7 @@ Complicated systems always fail on the long-term. Hamster-system aims to be *sim
 
 ### Possible painpoint?
 
-This system is not smartphone oriented. That's not even an issue for me but it might be for you. My strategy, when a paper notebook is not enough (and most times it is), is to email myself the new stuff and take care of it later.
+This system doesn't have a specialized app. That's not even an issue for me but it might be for you. However, it is platform agnostic so you can easily adapt it. My strategy, when a paper notebook is not enough (and most times it is), is to email myself the new stuff and take care of it later. You can also - easily - move your text file to a cloud and update it from your platform.
 
 ### Is this the truth?
 
