@@ -68,7 +68,8 @@ And be pragmatic:
         Prefix for temporary folders: _
         e.g: _standby
 
-        Prefix for folders where you keep old versions of files: +
+        Folders to keep old versions of files: +
+        e.g: -plans / +
 
 ### File naming
 
@@ -183,7 +184,7 @@ Complicated systems always fail on the long-term. Hamster-system aims to be *sim
 
 ### Possible painpoint?
 
-This is not even an issue for me but it might be for you: this system doesn't have specialized apps. However, it is platform agnostic so you can easily adapt it to meet your needs and make it multi-platform by moving your text file to a cloud. I use it only on my PC so when a paper notebook is not enough (and most times it is), I email myself the new stuff and take care of it later.
+This system doesn't have specialized apps. However, it is platform agnostic so you can easily adapt it to meet your needs or make it multi-platform by moving your text file to a cloud. I use it only on my PC so when a paper notebook is not enough (and most times it is), I email myself the new stuff and take care of it later.
 
 ### Is this the truth?
 
