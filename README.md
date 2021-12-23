@@ -73,12 +73,12 @@ And be pragmatic:
 
 ### File naming
 
-- use a system that fits your needs<sup id="refnote1"> [1](#footnote1)</sup>. Some hints:
+- use a system that fits your needs[^1]. Some hints:
 
         Prefix for template / boilerplate files: $
         e.g: $curriculum
 
-- version files by using a *modification date* suffix<sup id="refnote2"> [2](#footnote2)</sup>: **Calendar Versioning**
+- version files by using a *modification date* suffix[^2]: **Calendar Versioning**
 
         e.g: yourfile-2020-10-18
         e.g: yourfile+20201018
@@ -91,7 +91,7 @@ And be pragmatic:
 
         A shortcut to ARCHIVE is optional - only inactive projects are there.
 
-- and/or a launcher-file finder<sup id="refnote3"> [3](#footnote3)</sup>. 
+- and/or a launcher-file finder[^3]. 
 
 
 
@@ -101,10 +101,10 @@ And be pragmatic:
 
 *'Manage a collection of inputs'.*
 
-- One text file<sup id="refnote4"> [4](#footnote4)</sup> and a paper notebook collect all inputs:  
-    - actionable inputs (*Tasks*) are managed in the paper notebook. Non-urgent tasks eventually move to the *Calendar* section of the text file<sup id="refnote5"> [5](#footnote5)</sup>.
+- One text file[^4] and a paper notebook collect all inputs:  
+    - actionable inputs (*Tasks*) are managed in the paper notebook. Non-urgent tasks eventually move to the *Calendar* section of the text file[^5].
     - non-actionable inputs are managed in the (markdown) text file. Hints:
-        - One long file is easier to manage than many short files.<sup id="refnote6"> [6](#footnote6)</sup> See it as a *flat wiki* and use built-in search for navigation.
+        - One long file is easier to manage than many short files.[^6] See it as a *flat wiki* and use built-in search for navigation.
         - This file is not *write-only*: progressively summarize and *tree-shake* it each time you iterate your notes. You'll leverage your excitement instead of forcing discipline.
         - Ideally, notes are organized by *project*, not by category. It can be a catalyst for action and reviews.
         - Only store things that surprise you, not stuff you already know.
@@ -137,7 +137,7 @@ And be pragmatic:
 
 ### Screenshots
 
-- *Calendar* section on Sublime text editor.<sup id="refnote7"> [7](#footnote7)</sup>
+- *Calendar* section on Sublime text editor.[^7]
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
@@ -177,28 +177,29 @@ Complicated systems always fail on the long-term. Hamster-system aims to be *sim
     - Prediction (with acceptable accuracy) of filenames and their location. A file finder is great when you remember the filename but less useful when you don't.
 
 - Hamster flow (organize your workflow)
-    - Mix the *good parts* of  many workflow management approaches using your favorite text editor, cloud and a paper notebook. Use  Markdown that can be adapted into [YAML](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) for data exchange and serialization.
+    - Mix the *good parts* of  many workflow management approaches using your favorite text editor, cloud and a paper notebook. If needed Markdown can be adapted into formats like [YAML](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) to facilitate data exchange and serialization.
 
 - Hamster budget (organize your money)
     - *Feel in control* of your finances spending a couple of hours every quarter. Minimum overhead.
 
 ### Possible painpoint?
 
-This system doesn't have specialized apps. However, it is platform agnostic so you can easily adapt it to meet your needs or make it multi-platform by moving your text file to a cloud. I use it only on my PC so when a paper notebook is not enough (and most times it is), I email myself the new stuff and take care of it later.
+This system doesn't have specialized apps. However, it is platform agnostic so you can easily adapt it to meet your needs.
 
 ### Is this the truth?
 
-Probably not but I test new options and 'tree shake' existent ones agressively.<sup id="refnote8"> [8](#footnote8)</sup>
+Probably not but I test new options and 'tree shake' existent ones agressively.[^8]
 
 ---
-<sup>Footnotes:</sup><br>
-<sup><a name="footnote1">1</a> - e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). I use a great [free tool for batch renaming](https://www.bulkrenameutility.co.uk/#mainscreen). [↩](#refnote1)</sup><br>
-<sup><a name="footnote2">2</a> - After a long trial, "builds" were deprecated. "Modification dates", aka [Calendar versioning (CalVer)](https://calver.org/) are more practical and descriptive. [↩](#refnote2)</sup><br>
-<sup><a name="footnote3">3</a> - After having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/). Pros: Launch and file search without external software, low memory usage (less than 40Mb on win7), fast and configurable. Cons: No calculator function. [↩](#refnote3)</sup><br>
-<sup><a name="footnote4">4</a> - Hosted in a cloud (Google Drive, Dropbox, etc) if possible. [↩](#refnote4)</sup><br>
-<sup><a name="footnote5">5</a> - A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases. [↩](#refnote5)</sup><br>
-<sup><a name="footnote6">6</a> - Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet, public notes) <a href="https://github.com/slowernews/notebook">Example</a>  [↩](#refnote6)</sup><br>
-<sup><a name="footnote7">7</a> - Hint: on Sublime press F9 (or F5 on Mac) to sort dates. [↩](#refnote7)</sup><br>
-<sup><a name="footnote8">8</a> - Org-mode, Roam research (Foam, Obsidian), Johnny-decimal (...) [↩](#refnote8)</sup>
+<sup>Footnotes:</sup>
+
+[^1]: e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). I use a great [free tool for batch renaming](https://www.bulkrenameutility.co.uk/#mainscreen).
+[^2]: After a long trial, "builds" were deprecated. "Modification dates", aka [Calendar versioning (CalVer)](https://calver.org) are more practical and descriptive.
+[^3]: After having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/). Pros: Launch and file search without external software, low memory usage (less than 40Mb on win7), fast and configurable. Cons: No calculator function.
+[^4]: Hosted in a cloud (Google Drive, Dropbox, etc) if possible.
+[^5]: A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases.
+[^6]: Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet, public notes) [Example](https://github.com/slowernews/notebook).
+[^7]: Hint: on Sublime press F9 (or F5 on Mac) to sort dates.
+[^8]: Org-mode, Roam research (Foam, Obsidian), Johnny-decimal, (...)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
