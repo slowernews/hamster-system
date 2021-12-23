@@ -191,7 +191,6 @@ This system doesn't have specialized apps. However, it is platform agnostic so y
 Probably not but I test new options and 'tree shake' existent ones agressively.[^8]
 
 ---
-<sup>Footnotes:</sup>
 
 [^1]: e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). I use a great [free tool for batch renaming](https://www.bulkrenameutility.co.uk/#mainscreen).
 [^2]: After a long trial, "builds" were deprecated. "Modification dates", aka [Calendar versioning (CalVer)](https://calver.org) are more practical and descriptive.
