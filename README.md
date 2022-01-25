@@ -160,7 +160,7 @@ How to do it in a practical way? Track your **net worth** in a spreadsheet:
 - List all your assets (cash, stocks, funds, crypto, real estate, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your template from zero.
 - When your net worth is too risky *for your personality* get more tight.
 - When you feel confortable with your number you can loosen up a bit.
-- I used to track it every month. I had loosen up to every quarter and eventually to semiannual.[^8]
+- I used to track it every month. I've loosen up to every quarter and eventually to semiannual.[^8]
 
 
 
