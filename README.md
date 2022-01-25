@@ -37,17 +37,17 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
 
 - collection: **[ ]**
 
-        Inside ARCHIVE folder you put [collections]:
+        Inside ARCHIVE folder you put [collection] folders:
         e.g: [large investor]
 
 - project (derived from twitter hashtag): **#**  
 
-        Inside INBOX, ARCHIVE or [collection] folders you put #projects:
+        Inside INBOX, ARCHIVE or [collection] folders you put #project folders:
         e.g: #house in portugal    
 
 - subproject (derived from twitter mention): **@**
 
-        Inside #project folders you put @subprojects:
+        Inside #project folders you put @subproject folders:
         e.g: @building permit
 
 - storage folder: **-**
@@ -80,8 +80,8 @@ And be pragmatic:
 
 - version files by using a *modification date* suffix[^2]: **Calendar Versioning**
 
-        e.g: yourfile-2020-10-18
-        e.g: yourfile+20201018
+        e.g: yourfile+20211018
+        e.g: yourfile-2021-10-18
 
 ### Navigation
 
@@ -114,13 +114,13 @@ And be pragmatic:
         Dates are inserted before the task description (allowing chronological sorting):
         
         e.g. inserting a scheduled date: [year-month-day=hour]
-        [2020-11-29=9h] Doctor appointment
+        [2021-11-29=9h] Doctor appointment
 
         e.g. inserting a trigger/fuzzy date: [date >>]
-        [2020-10-10 >>] Waiting for client feedback after this date
+        [2021-10-10 >>] Waiting for client feedback after this date
 
         e.g. inserting a deadline date: [date <<]
-        [2020-10-22 <<] Pay electricity bill until this date
+        [2021-10-22 <<] Pay electricity bill until this date
 
         e.g. without knowing the due date: [soon] or [someday]
         [soon] Call Mom
@@ -160,7 +160,7 @@ How to do it in a practical way? Track your **net worth** in a spreadsheet:
 - List all your assets (cash, stocks, funds, crypto, real estate, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your template from zero.
 - When your net worth is too risky *for your personality* get more tight.
 - When you feel confortable with your number you can loosen up a bit.
-- I used to track it every month. I loosen up to every quarter and eventually to semiannual.
+- I used to track it every month. I had loosen up to every quarter and eventually to semiannual.[^8]
 
 
 
@@ -177,18 +177,18 @@ Complicated systems always fail on the long-term. Hamster-system aims to be *sim
     - Prediction (with acceptable accuracy) of filenames and their location. A file finder is great when you remember the filename but less useful when you don't.
 
 - Hamster flow (organize your workflow)
-    - Mix the *good parts* of  many workflow management approaches using your favorite text editor, cloud and a paper notebook. If needed Markdown can be adapted into formats like [YAML](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) to facilitate data exchange and serialization.
+    - Mix the *good parts* of  many workflow management approaches using your favorite text editor, cloud and a paper notebook. Markdown - if necessary - can be adapted into formats like [YAML](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) to facilitate data exchange and serialization.
 
 - Hamster budget (organize your money)
     - *Feel in control* of your finances spending a couple of hours every quarter. Minimum overhead.
 
 ### Possible painpoint?
 
-This system doesn't have specialized apps. However, it is platform agnostic so you can easily adapt it to meet your needs.
+This system doesn't have specialized apps nor I plan to add any. However, it is platform agnostic so you can easily adapt it to meet your needs.
 
 ### Is this the truth?
 
-Probably not but I test new options and 'tree shake' existent ones agressively.[^8]
+Probably not but I test new options and *tree shake* existent ones agressively.[^9]
 
 ---
 
@@ -199,6 +199,7 @@ Probably not but I test new options and 'tree shake' existent ones agressively.[
 [^5]: A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases.
 [^6]: Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet, public notes) [Example](https://github.com/slowernews/notebook).
 [^7]: Hint: on Sublime press F9 (or F5 on Mac) to sort dates.
-[^8]: Org-mode, Roam research (Foam, Obsidian), Johnny-decimal, (...)
+[^8]: I will stop here. Longer timeframes imply too delayed signals.
+[^9]: Org-mode, «wiki notes» (Roam, Foam, Obsidian), Johnny-decimal, (...)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
