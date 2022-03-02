@@ -29,7 +29,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Inside your root folder there are 2 folders:
 
         INBOX (folder to store your active projects)
-        ARCHIVE (folder to store your inactive projects - often organized in bundles)
+        ARCHIVE (folder to store your inactive projects - often organized in collections)
 
 ### Project folders
 
@@ -81,7 +81,6 @@ And be pragmatic:
 - version files by using a *modification date* suffix[^2]: **Calendar Versioning**
 
         e.g: yourfile+20211018
-        e.g: yourfile-2021-10-18
 
 ### Navigation
 
@@ -193,11 +192,11 @@ Probably not but I test new options and *tree shake* existent ones agressively.[
 ---
 
 [^1]: e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). I use a great [free tool for batch renaming](https://www.bulkrenameutility.co.uk/#mainscreen).
-[^2]: After a long trial, "builds" were deprecated. "Modification dates", aka [Calendar versioning (CalVer)](https://calver.org) are more practical and descriptive.
+[^2]: After a long trial, Semver and then "builds" were deprecated. "Modification dates", aka [Calendar versioning (CalVer)](https://calver.org) are simpler.
 [^3]: After having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/). Pros: Launch and file search without external software, low memory usage (less than 40Mb on win7), fast and configurable. Cons: No calculator function.
 [^4]: Hosted in a cloud (Google Drive, Dropbox, etc) if possible.
-[^5]: A full featured calendar (Google calendar, Apple calendar, etc) might pay off in certain cases.
-[^6]: Try to keep it under 2K lines. If you can't, it means that some excerpts should live independently or even in a more suitable format (e.g. spreadsheet, public notes) [Example](https://github.com/slowernews/notebook).
+[^5]: A full featured calendar (Google calendar, Apple calendar, etc) might pay off in "busy" lifestyles.
+[^6]: Try to keep it under 2K lines. If you can't, it may mean some excerpts should live independently or even in a more suitable format (e.g. spreadsheet or [public notes](https://github.com/slowernews/notebook)).
 [^7]: Hint: on Sublime press F9 (or F5 on Mac) to sort dates.
 [^8]: I will stop here. Longer timeframes imply too delayed signals.
 [^9]: Org-mode, «wiki notes» (Roam, Foam, Obsidian), Johnny-decimal, (...)
