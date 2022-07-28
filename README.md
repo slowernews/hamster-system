@@ -50,20 +50,16 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Inside #project folders you put @subproject folders:
         e.g: @building permit
 
-- storage folder: **-**
+- storage folder [^10]: **-**
 
         Inside @subprojects you put -storage folders:
         e.g: -drawings
 
-When reasonable reduce unnecessary nesting by merging folders. Hints:
+And be pragmatic:
 
+        When reasonable reduce unnecessary nesting by merging folders:
         Prefer: #project@onlyOneSubproject
         Instead of: #project / @onlyOneSubproject
-
-        Prefer: -drawings-details-wall
-        Instead of: -drawings / -details / -wall
-
-And be pragmatic:
 
         Prefix for temporary folders: _
         e.g: _standby
@@ -154,12 +150,12 @@ And be pragmatic:
 
 Does it worth to spend cognitive bandwidth to know that last month I spent €321,83 on groceries? I already know that I spend *around* €300. **What I crave is to feel in control of my finances.**
 
-How to do it in a practical way? Track your **net worth** in a spreadsheet:
+**How to do it in a practical way? Track your net worth** in a spreadsheet:
  
-- List all your assets (cash, stocks, funds, crypto, real estate, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your template from zero.
+- List all your assets (cash, stocks, bonds, crypto, real estate, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your own spreadsheet.
 - When your net worth is too risky *for your personality* get more tight.
 - When you feel confortable with your number you can loosen up a bit.
-- I used to track it every month. I've loosen up to every quarter and then to semiannual.[^8]
+- I used to track it every month. I've loosen up to every quarter and eventually to semiannual.[^8]
 
 
 
@@ -200,5 +196,6 @@ Probably not but I test new options and *tree shake* existent ones agressively.[
 [^7]: Hint: on Sublime press F9 (or F5 on Mac) to sort dates.
 [^8]: I will stop here. Longer timeframes imply too delayed signals.
 [^9]: Org-mode, «wiki notes» (Roam, Foam, Obsidian), Johnny-decimal, (...)
+[^10]: This is the deepest level you'll get. It's enough and keeps it simple.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
