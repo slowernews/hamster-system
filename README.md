@@ -50,7 +50,7 @@ Boost productivity and reduce stress by organizing your documents, workflow and 
         Inside #project folders you put @subproject folders:
         e.g: @building permit
 
-- storage folder [^10]: **-**
+- storage folder [^1]: **-**
 
         Inside @subprojects you put -storage folders:
         e.g: -drawings
@@ -69,12 +69,12 @@ And be pragmatic:
 
 ### File naming
 
-- use a system that fits your needs[^1]. Some hints:
+- use a system that fits your needs[^2]. Some hints:
 
         Prefix for template / boilerplate files: $
         e.g: $curriculum
 
-- version files by using a *modification date* suffix[^2]: **Calendar Versioning**
+- version files by using a *modification date* suffix[^3]: **Calendar Versioning**
 
         e.g: yourfile+20211018
 
@@ -86,7 +86,7 @@ And be pragmatic:
 
         A shortcut to ARCHIVE is optional - only inactive projects are there.
 
-- and/or a launcher-file finder[^3]. 
+- and/or a launcher-file finder[^4]. 
 
 
 
@@ -96,10 +96,10 @@ And be pragmatic:
 
 *'Manage a collection of inputs'.*
 
-- One text file[^4] and a paper notebook collect all inputs:  
-    - actionable inputs (*Tasks*) are managed in the paper notebook. Non-urgent tasks eventually move to the *Calendar* section of the text file[^5].
+- One text file[^5] and a paper notebook collect all inputs:  
+    - actionable inputs (*Tasks*) are managed in the paper notebook. Non-urgent tasks eventually move to the *Calendar* section of the text file[^6].
     - non-actionable inputs are managed in the (markdown) text file. Hints:
-        - One long file is easier to manage than many short files.[^6] See it as a *flat wiki* and use built-in search for navigation.
+        - One long file is easier to manage than many short files.[^7] See it as a *flat wiki* and use built-in search for navigation.
         - This file is not *write-only*: progressively summarize and *tree-shake* it each time you iterate your notes. You'll leverage your excitement instead of forcing discipline.
         - Ideally, notes are organized by *project*, not by category. It can be a catalyst for action and reviews.
         - Only store things that surprise you, not stuff you already know.
@@ -132,7 +132,7 @@ And be pragmatic:
 
 ### Screenshots
 
-- *Calendar* section on Sublime text editor.[^7]
+- *Calendar* section on Sublime text editor.[^8]
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
@@ -155,7 +155,7 @@ Does it worth to spend cognitive bandwidth to know that last month I spent €32
 - List all your assets (cash, stocks, bonds, crypto, real estate, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your own spreadsheet.
 - When your net worth is too risky *for your personality* get more tight.
 - When you feel confortable with your number you can loosen up a bit.
-- I used to track it every month. I've loosen up to every quarter and eventually to semiannual.[^8]
+- I used to track it every month. I've loosen up to every quarter and eventually to semiannual.[^9]
 
 
 
@@ -183,19 +183,19 @@ This system doesn't have specialized apps nor I plan to add any. However, it is 
 
 ### Is this the truth?
 
-Probably not but I test new options and *tree shake* existent ones agressively.[^9]
+Probably not but I test new options and *tree shake* existent ones agressively.[^10]
 
 ---
 
-[^1]: e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). I use a great [free tool for batch renaming](https://www.bulkrenameutility.co.uk/#mainscreen).
-[^2]: After a long trial, Semver and then "builds" were deprecated. "Modification dates", aka [Calendar versioning (CalVer)](https://calver.org) are simpler.
-[^3]: After having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/). Pros: Launch and file search without external software, low memory usage (less than 40Mb on win7), fast and configurable. Cons: No calculator function.
-[^4]: Hosted in a cloud (Google Drive, Dropbox, etc) if possible.
-[^5]: A full featured calendar (Google calendar, Apple calendar, etc) might pay off in "busy" lifestyles.
-[^6]: Try to keep it under 2K lines. If you can't, it may mean some excerpts should live independently or even in a more suitable format (e.g. spreadsheet or [public notes](https://github.com/slowernews/notebook)).
-[^7]: Hint: on Sublime press F9 (or F5 on Mac) to sort dates.
-[^8]: I will stop here. Longer timeframes imply too delayed signals.
-[^9]: Org-mode, «wiki notes» (Roam, Foam, Obsidian), Johnny-decimal, (...)
-[^10]: This is the deepest level you'll get. It's enough and keeps it simple.
+[^1]: This is the deepest level you'll get. It's enough and keeps it simple.
+[^2]: e.g: relevant [naming system for architects](https://github.com/slowernews/archi-project). I use a great [free tool for batch renaming](https://www.bulkrenameutility.co.uk/#mainscreen).
+[^3]: After a long trial, Semver and then "builds" were deprecated. "Modification dates", aka [Calendar versioning (CalVer)](https://calver.org) are simpler.
+[^4]: After having tried most options for Windows (win+type, Keypirinha, Everything, Cerebro, Wox, Zazu, Launchy, FARR), I'm using [Listary](http://www.listary.com/). Pros: Launch and file search without external software, low memory usage (less than 40Mb on win7), fast and configurable. Cons: No calculator function.
+[^5]: Hosted in a cloud (Google Drive, Dropbox, etc) if possible.
+[^6]: A full featured calendar (Google calendar, Apple calendar, etc) may pay off in "busy" lifestyles.
+[^7]: Try to keep it under 2K lines. If you can't, it may mean some excerpts should live independently or even in a more suitable format (e.g. spreadsheet or [public notes](https://github.com/slowernews/notebook)).
+[^8]: Hint: on Sublime press F9 (or F5 on Mac) to sort dates.
+[^9]: I will stop here. Longer timeframes imply too delayed signals.
+[^10]: Org-mode, «wiki notes» (Roam, Foam, Obsidian), Johnny-decimal, (...)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
