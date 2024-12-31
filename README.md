@@ -76,7 +76,7 @@ And be pragmatic:
 
 - version files by using a *modification date* suffix[^3]: **Calendar Versioning**
 
-        e.g: yourfile+20211018
+        e.g: yourfile+20241018
 
 ### Navigation
 
@@ -102,20 +102,20 @@ And be pragmatic:
         - One long file is easier to manage than many short files.[^7] See it as a *flat wiki* and use built-in search for navigation.
         - This file is not *write-only*: progressively summarize and *tree-shake* it each time you iterate your notes. You'll leverage your excitement instead of forcing discipline.
         - Ideally, notes are organized by *project*, not by category. It can be a catalyst for action and reviews.
-        - Only store things that surprise you, not stuff you already know.
+        - Store things that surprise you, not stuff you already know.
 
 - Tasks listed in the *Calendar* section of the text file have a due date: **[ ]**
 
         Dates are inserted before the task description (allowing chronological sorting):
         
         e.g. inserting a scheduled date: [year-month-day=hour]
-        [2021-11-29=9h] Doctor appointment
+        [2024-11-29=9h] Doctor appointment
 
         e.g. inserting a trigger/fuzzy date: [date >>]
-        [2021-10-10 >>] Waiting for client feedback after this date
+        [2024-10-10 >>] Waiting for client feedback after this date
 
         e.g. inserting a deadline date: [date <<]
-        [2021-10-22 <<] Pay electricity bill until this date
+        [2024-10-22 <<] Pay electricity bill until this date
 
         e.g. without knowing the due date: [soon] or [someday]
         [soon] Call Mom
@@ -132,11 +132,11 @@ And be pragmatic:
 
 ### Screenshots
 
-- *Calendar* section on Sublime text editor.[^8]
+- *Calendar* section on Sublime text editor.
 
 ![superfolder-workflow-screenshot](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example.png)
 
-- Easy text-editor navigation with markdown (adaptable to [YAML](https://www.json2yaml.com/convert-yaml-to-json) for data serialization).
+- Easy text-editor navigation with markdown.
 
 ![superfolder-workflow-screenshot-2](https://github.com/galfarragem/superfolder/blob/master/examples/superfolder-workflow_screenshot-example2.png)
 
@@ -153,9 +153,8 @@ Does it worth to spend cognitive bandwidth to know that last month I spent €32
 **How to do it in a practical way? Track your net worth** in a spreadsheet:
  
 - List all your assets (cash, stocks, bonds, crypto, real estate, whatever) and sum them. List and sum your liabilities (if relevant). Every case is a case so you must build your own spreadsheet.
-- When your net worth is too risky *for your personality* get more tight.
-- When you feel confortable with your number you can loosen up a bit.
-- I used to track it every month. I've loosen up to every quarter and eventually to semiannual.[^9]
+- When your net worth feels too risky, find the main leaks and fix them. Once you’re comfortable, ease up where it matters most. That’s it.
+- I used to track it every month. I've loosen up to every quarter and eventually to semiannual.[^8]
 
 
 
@@ -172,10 +171,10 @@ Complicated systems always fail on the long-term. Hamster-system aims to be *sim
     - Prediction (with acceptable accuracy) of filenames and their location. A file finder is great when you remember the filename but less useful when you don't.
 
 - Hamster flow (organize your workflow)
-    - Mix the *good parts* of  many workflow management approaches using your favorite text editor, cloud and a paper notebook. Markdown - if necessary - can be adapted into formats like [YAML](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/) to facilitate data exchange and serialization.
+    - Mix the *good parts* of  many workflow management approaches using your favorite text editor, cloud and a paper notebook. Markdown - if necessary - can be easily adapted into other formats to facilitate data exchange and serialization.
 
 - Hamster budget (organize your money)
-    - *Feel in control* of your finances spending a couple of hours every quarter. Minimum overhead.
+    - *Feel in control* of your finances spending a couple of hours every timeframe. Minimum overhead.
 
 ### Possible painpoint?
 
@@ -183,7 +182,7 @@ This system doesn't have specialized apps nor I plan to add any. However, it is 
 
 ### Is this the truth?
 
-Probably not but I test new options and *tree shake* existent ones agressively.[^10]
+Probably not but I test new options and *tree shake* existent ones agressively.[^9]
 
 ---
 
@@ -194,8 +193,7 @@ Probably not but I test new options and *tree shake* existent ones agressively.[
 [^5]: Hosted in a cloud (Google Drive, Dropbox, etc) if possible.
 [^6]: A full featured calendar (Google calendar, Apple calendar, etc) may pay off in "busy" lifestyles.
 [^7]: Try to keep it under 2K lines. If you can't, it may mean some excerpts should live independently or even in a more suitable format (e.g. spreadsheet or [public notes](https://github.com/slowernews/notebook)).
-[^8]: Hint: on Sublime press F9 (or F5 on Mac) to sort dates.
-[^9]: I will stop here. Longer timeframes imply too delayed signals.
-[^10]: Org-mode, «wiki notes» (Roam, Foam, Obsidian), Johnny-decimal, (...)
+[^8]: I will stop here. Longer timeframes imply too delayed signals.
+[^9]: Org-mode, «wiki notes» (Roam, Foam, Obsidian), Johnny-decimal, (...)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hamster-System</span> by Enio Ferreira is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
